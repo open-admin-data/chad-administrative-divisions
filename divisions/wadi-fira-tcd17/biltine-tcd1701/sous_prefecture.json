@@ -1,0 +1,380 @@
+[
+  {
+    "id": "TCD1701_abou-charib-i",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Abou-Charib-I",
+      "en": "Abou-Charib-I",
+      "slug": "abou-charib-i"
+    },
+    "code": {
+      "id": "TCD1701_abou-charib-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1701",
+      "level": 2,
+      "name": {
+        "local": "Biltine",
+        "en": "Biltine",
+        "slug": "biltine-tcd1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1701",
+        "level": 2,
+        "name": {
+          "local": "Biltine",
+          "en": "Biltine",
+          "slug": "biltine-tcd1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.945",
+      "lon": "20.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1701_abou-charib-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Abou-Charib-Ii",
+      "en": "Abou-Charib-Ii",
+      "slug": "abou-charib-ii"
+    },
+    "code": {
+      "id": "TCD1701_abou-charib-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1701",
+      "level": 2,
+      "name": {
+        "local": "Biltine",
+        "en": "Biltine",
+        "slug": "biltine-tcd1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1701",
+        "level": 2,
+        "name": {
+          "local": "Biltine",
+          "en": "Biltine",
+          "slug": "biltine-tcd1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.945",
+      "lon": "20.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1701_arada",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Arada",
+      "en": "Arada",
+      "slug": "arada"
+    },
+    "code": {
+      "id": "TCD1701_arada",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1701",
+      "level": 2,
+      "name": {
+        "local": "Biltine",
+        "en": "Biltine",
+        "slug": "biltine-tcd1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1701",
+        "level": 2,
+        "name": {
+          "local": "Biltine",
+          "en": "Biltine",
+          "slug": "biltine-tcd1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.945",
+      "lon": "20.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1701_kodoye-i",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kodoye-I",
+      "en": "Kodoye-I",
+      "slug": "kodoye-i"
+    },
+    "code": {
+      "id": "TCD1701_kodoye-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1701",
+      "level": 2,
+      "name": {
+        "local": "Biltine",
+        "en": "Biltine",
+        "slug": "biltine-tcd1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1701",
+        "level": 2,
+        "name": {
+          "local": "Biltine",
+          "en": "Biltine",
+          "slug": "biltine-tcd1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.945",
+      "lon": "20.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1701_kodoye-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kodoye-Ii",
+      "en": "Kodoye-Ii",
+      "slug": "kodoye-ii"
+    },
+    "code": {
+      "id": "TCD1701_kodoye-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1701",
+      "level": 2,
+      "name": {
+        "local": "Biltine",
+        "en": "Biltine",
+        "slug": "biltine-tcd1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1701",
+        "level": 2,
+        "name": {
+          "local": "Biltine",
+          "en": "Biltine",
+          "slug": "biltine-tcd1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.945",
+      "lon": "20.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1701_mimi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mimi",
+      "en": "Mimi",
+      "slug": "mimi"
+    },
+    "code": {
+      "id": "TCD1701_mimi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1701",
+      "level": 2,
+      "name": {
+        "local": "Biltine",
+        "en": "Biltine",
+        "slug": "biltine-tcd1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1701",
+        "level": 2,
+        "name": {
+          "local": "Biltine",
+          "en": "Biltine",
+          "slug": "biltine-tcd1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.945",
+      "lon": "20.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1701_ouled-djema",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouled-Djema",
+      "en": "Ouled-Djema",
+      "slug": "ouled-djema"
+    },
+    "code": {
+      "id": "TCD1701_ouled-djema",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1701",
+      "level": 2,
+      "name": {
+        "local": "Biltine",
+        "en": "Biltine",
+        "slug": "biltine-tcd1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1701",
+        "level": 2,
+        "name": {
+          "local": "Biltine",
+          "en": "Biltine",
+          "slug": "biltine-tcd1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.945",
+      "lon": "20.53"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

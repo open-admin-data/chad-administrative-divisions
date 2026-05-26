@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD1603,Tandjilé Centre,Tandjilé Centre,tandjil-centre-tcd1603,TCD1603,4,9.299,16.185
+TCD1601,Tandjilé Est,Tandjilé Est,tandjil-est-tcd1601,TCD1601,17,9.657,16.787
+TCD1602,Tandjilé Ouest,Tandjilé Ouest,tandjil-ouest-tcd1602,TCD1602,6,9.363,15.791

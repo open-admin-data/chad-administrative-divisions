@@ -1,0 +1,141 @@
+# MAYO KEBBI EST — Chad Administrative Divisions
+
+> 4 departments, 28 sub-prefectures
+> Code: TCD11
+> Coordinates: 10.215, 15.807
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### La kabbia
+
+Code: TCD1102, Coordinates: 9.524, 15.378
+Sub-prefectures: 7
+
+#### Berem
+
+Code: TCD1102_berem, Coordinates: 9.524, 15.378
+
+#### Djarao
+
+Code: TCD1102_djarao, Coordinates: 9.524, 15.378
+
+#### Domo
+
+Code: TCD1102_domo, Coordinates: 9.524, 15.378
+
+#### Gounou
+
+Code: TCD1102_gounou, Coordinates: 9.524, 15.378
+
+#### Gounou-Gaya
+
+Code: TCD1102_gounou-gaya, Coordinates: 9.524, 15.378
+
+#### Leo-Mbassa
+
+Code: TCD1102_leo-mbassa, Coordinates: 9.524, 15.378
+
+#### Tagal
+
+Code: TCD1102_tagal, Coordinates: 9.524, 15.378
+
+### Mayo Boneye
+
+Code: TCD1101, Coordinates: 10.254, 15.78
+Sub-prefectures: 15
+
+#### Bongor
+
+Code: TCD1101_bongor, Coordinates: 10.254, 15.78
+
+#### Djoumane
+
+Code: TCD1101_djoumane, Coordinates: 10.254, 15.78
+
+#### Ere
+
+Code: TCD1101_ere, Coordinates: 10.254, 15.78
+
+#### Ham
+
+Code: TCD1101_ham, Coordinates: 10.254, 15.78
+
+#### Katoa
+
+Code: TCD1101_katoa, Coordinates: 10.254, 15.78
+
+#### Kim
+
+Code: TCD1101_kim, Coordinates: 10.254, 15.78
+
+#### Kolobo
+
+Code: TCD1101_kolobo, Coordinates: 10.254, 15.78
+
+#### Koumi
+
+Code: TCD1101_koumi, Coordinates: 10.254, 15.78
+
+#### Magao
+
+Code: TCD1101_magao, Coordinates: 10.254, 15.78
+
+#### Mitau
+
+Code: TCD1101_mitau, Coordinates: 10.254, 15.78
+
+#### Mogroum
+
+Code: TCD1101_mogroum, Coordinates: 10.254, 15.78
+
+#### Ngam
+
+Code: TCD1101_ngam, Coordinates: 10.254, 15.78
+
+#### Teleme
+
+Code: TCD1101_teleme, Coordinates: 10.254, 15.78
+
+#### Tougoude
+
+Code: TCD1101_tougoude, Coordinates: 10.254, 15.78
+
+#### Toura
+
+Code: TCD1101_toura, Coordinates: 10.254, 15.78
+
+### Mayo Lemyé
+
+Code: TCD1103, Coordinates: 10.859, 15.397
+Sub-prefectures: 0
+
+### Mont Illi
+
+Code: TCD1104, Coordinates: 9.769, 15.058
+Sub-prefectures: 6
+
+#### Fianga
+
+Code: TCD1104_fianga, Coordinates: 9.769, 15.058
+
+#### Gami
+
+Code: TCD1104_gami, Coordinates: 9.769, 15.058
+
+#### Kera
+
+Code: TCD1104_kera, Coordinates: 9.769, 15.058
+
+#### Malboum/Hollom
+
+Code: TCD1104_malboumhollom, Coordinates: 9.769, 15.058
+
+#### Tikem
+
+Code: TCD1104_tikem, Coordinates: 9.769, 15.058
+
+#### Youe
+
+Code: TCD1104_youe, Coordinates: 9.769, 15.058
+

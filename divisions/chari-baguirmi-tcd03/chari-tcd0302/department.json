@@ -1,0 +1,47 @@
+{
+  "id": "TCD0302",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Chari",
+    "en": "Chari",
+    "slug": "chari-tcd0302"
+  },
+  "code": {
+    "id": "TCD0302",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD03",
+    "level": 1,
+    "name": {
+      "local": "CHARI BAGUIRMI",
+      "en": "CHARI BAGUIRMI",
+      "slug": "chari-baguirmi-tcd03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD03",
+      "level": 1,
+      "name": {
+        "local": "CHARI BAGUIRMI",
+        "en": "CHARI BAGUIRMI",
+        "slug": "chari-baguirmi-tcd03"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.729",
+    "lon": "15.23"
+  },
+  "metadata": {},
+  "source": {}
+}

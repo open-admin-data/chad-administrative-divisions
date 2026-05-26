@@ -1,0 +1,47 @@
+{
+  "id": "TCD0601",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Kanem",
+    "en": "Kanem",
+    "slug": "kanem-tcd0601"
+  },
+  "code": {
+    "id": "TCD0601",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD06",
+    "level": 1,
+    "name": {
+      "local": "KANEM",
+      "en": "KANEM",
+      "slug": "kanem-tcd06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD06",
+      "level": 1,
+      "name": {
+        "local": "KANEM",
+        "en": "KANEM",
+        "slug": "kanem-tcd06"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.099",
+    "lon": "15.189"
+  },
+  "metadata": {},
+  "source": {}
+}

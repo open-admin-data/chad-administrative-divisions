@@ -1,0 +1,326 @@
+[
+  {
+    "id": "TCD1703_dourene",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dourene",
+      "en": "Dourene",
+      "slug": "dourene"
+    },
+    "code": {
+      "id": "TCD1703_dourene",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1703",
+      "level": 2,
+      "name": {
+        "local": "Kobé",
+        "en": "Kobé",
+        "slug": "kob-tcd1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1703",
+        "level": 2,
+        "name": {
+          "local": "Kobé",
+          "en": "Kobé",
+          "slug": "kob-tcd1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.075",
+      "lon": "22.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1703_gourouf",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gourouf",
+      "en": "Gourouf",
+      "slug": "gourouf"
+    },
+    "code": {
+      "id": "TCD1703_gourouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1703",
+      "level": 2,
+      "name": {
+        "local": "Kobé",
+        "en": "Kobé",
+        "slug": "kob-tcd1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1703",
+        "level": 2,
+        "name": {
+          "local": "Kobé",
+          "en": "Kobé",
+          "slug": "kob-tcd1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.075",
+      "lon": "22.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1703_kapka-bakaore",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kapka-Bakaore",
+      "en": "Kapka-Bakaore",
+      "slug": "kapka-bakaore"
+    },
+    "code": {
+      "id": "TCD1703_kapka-bakaore",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1703",
+      "level": 2,
+      "name": {
+        "local": "Kobé",
+        "en": "Kobé",
+        "slug": "kob-tcd1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1703",
+        "level": 2,
+        "name": {
+          "local": "Kobé",
+          "en": "Kobé",
+          "slug": "kob-tcd1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.075",
+      "lon": "22.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1703_kobe-nord-est",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kobe-Nord-Est",
+      "en": "Kobe-Nord-Est",
+      "slug": "kobe-nord-est"
+    },
+    "code": {
+      "id": "TCD1703_kobe-nord-est",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1703",
+      "level": 2,
+      "name": {
+        "local": "Kobé",
+        "en": "Kobé",
+        "slug": "kob-tcd1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1703",
+        "level": 2,
+        "name": {
+          "local": "Kobé",
+          "en": "Kobé",
+          "slug": "kob-tcd1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.075",
+      "lon": "22.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1703_kobe-nord-ouest",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kobe-Nord-Ouest",
+      "en": "Kobe-Nord-Ouest",
+      "slug": "kobe-nord-ouest"
+    },
+    "code": {
+      "id": "TCD1703_kobe-nord-ouest",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1703",
+      "level": 2,
+      "name": {
+        "local": "Kobé",
+        "en": "Kobé",
+        "slug": "kob-tcd1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1703",
+        "level": 2,
+        "name": {
+          "local": "Kobé",
+          "en": "Kobé",
+          "slug": "kob-tcd1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.075",
+      "lon": "22.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1703_kobe-sud",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kobe-Sud",
+      "en": "Kobe-Sud",
+      "slug": "kobe-sud"
+    },
+    "code": {
+      "id": "TCD1703_kobe-sud",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1703",
+      "level": 2,
+      "name": {
+        "local": "Kobé",
+        "en": "Kobé",
+        "slug": "kob-tcd1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1703",
+        "level": 2,
+        "name": {
+          "local": "Kobé",
+          "en": "Kobé",
+          "slug": "kob-tcd1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.075",
+      "lon": "22.427"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

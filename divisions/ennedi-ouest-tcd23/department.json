@@ -1,0 +1,96 @@
+[
+  {
+    "id": "TCD2301",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Fada",
+      "en": "Fada",
+      "slug": "fada-tcd2301"
+    },
+    "code": {
+      "id": "TCD2301",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD23",
+      "level": 1,
+      "name": {
+        "local": "ENNEDI OUEST",
+        "en": "ENNEDI OUEST",
+        "slug": "ennedi-ouest-tcd23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD23",
+        "level": 1,
+        "name": {
+          "local": "ENNEDI OUEST",
+          "en": "ENNEDI OUEST",
+          "slug": "ennedi-ouest-tcd23"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.256",
+      "lon": "20.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD2302",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mourtcha",
+      "en": "Mourtcha",
+      "slug": "mourtcha-tcd2302"
+    },
+    "code": {
+      "id": "TCD2302",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD23",
+      "level": 1,
+      "name": {
+        "local": "ENNEDI OUEST",
+        "en": "ENNEDI OUEST",
+        "slug": "ennedi-ouest-tcd23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD23",
+        "level": 1,
+        "name": {
+          "local": "ENNEDI OUEST",
+          "en": "ENNEDI OUEST",
+          "slug": "ennedi-ouest-tcd23"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.345",
+      "lon": "20.909"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

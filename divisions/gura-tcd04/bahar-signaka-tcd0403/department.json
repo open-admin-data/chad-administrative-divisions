@@ -1,0 +1,47 @@
+{
+  "id": "TCD0403",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bahar Signaka",
+    "en": "Bahar Signaka",
+    "slug": "bahar-signaka-tcd0403"
+  },
+  "code": {
+    "id": "TCD0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD04",
+    "level": 1,
+    "name": {
+      "local": "GUÉRA",
+      "en": "GUÉRA",
+      "slug": "gura-tcd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD04",
+      "level": 1,
+      "name": {
+        "local": "GUÉRA",
+        "en": "GUÉRA",
+        "slug": "gura-tcd04"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.756",
+    "lon": "18.54"
+  },
+  "metadata": {},
+  "source": {}
+}

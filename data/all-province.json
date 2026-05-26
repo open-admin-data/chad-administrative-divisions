@@ -1,0 +1,692 @@
+[
+  {
+    "id": "TCD19",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "BARH EL GAZEL",
+      "en": "BARH EL GAZEL",
+      "slug": "barh-el-gazel-tcd19"
+    },
+    "code": {
+      "id": "TCD19",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sous_prefecture": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.452",
+      "lon": "16.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD01",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "BATHA",
+      "en": "BATHA",
+      "slug": "batha-tcd01"
+    },
+    "code": {
+      "id": "TCD01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sous_prefecture": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.306",
+      "lon": "18.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD02",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "BORKOU",
+      "en": "BORKOU",
+      "slug": "borkou-tcd02"
+    },
+    "code": {
+      "id": "TCD02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "sous_prefecture": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.078",
+      "lon": "18.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD03",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "CHARI BAGUIRMI",
+      "en": "CHARI BAGUIRMI",
+      "slug": "chari-baguirmi-tcd03"
+    },
+    "code": {
+      "id": "TCD03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sous_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.103",
+      "lon": "16.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD20",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ENNEDI EST",
+      "en": "ENNEDI EST",
+      "slug": "ennedi-est-tcd20"
+    },
+    "code": {
+      "id": "TCD20",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "sous_prefecture": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.887",
+      "lon": "23.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD23",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ENNEDI OUEST",
+      "en": "ENNEDI OUEST",
+      "slug": "ennedi-ouest-tcd23"
+    },
+    "code": {
+      "id": "TCD23",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "sous_prefecture": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.256",
+      "lon": "20.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD04",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "GUÉRA",
+      "en": "GUÉRA",
+      "slug": "gura-tcd04"
+    },
+    "code": {
+      "id": "TCD04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sous_prefecture": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.456",
+      "lon": "18.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD05",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "HADJER LAMIS",
+      "en": "HADJER LAMIS",
+      "slug": "hadjer-lamis-tcd05"
+    },
+    "code": {
+      "id": "TCD05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sous_prefecture": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.42",
+      "lon": "16.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD06",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "KANEM",
+      "en": "KANEM",
+      "slug": "kanem-tcd06"
+    },
+    "code": {
+      "id": "TCD06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sous_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.912",
+      "lon": "15.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD07",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "LAC",
+      "en": "LAC",
+      "slug": "lac-tcd07"
+    },
+    "code": {
+      "id": "TCD07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sous_prefecture": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.769",
+      "lon": "14.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD08",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "LOGONE OCCIDENTAL",
+      "en": "LOGONE OCCIDENTAL",
+      "slug": "logone-occidental-tcd08"
+    },
+    "code": {
+      "id": "TCD08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sous_prefecture": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.753",
+      "lon": "15.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD09",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "LOGONE ORIENTAL",
+      "en": "LOGONE ORIENTAL",
+      "slug": "logone-oriental-tcd09"
+    },
+    "code": {
+      "id": "TCD09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 6,
+      "sous_prefecture": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.304",
+      "lon": "16.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD10",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "MANDOUL",
+      "en": "MANDOUL",
+      "slug": "mandoul-tcd10"
+    },
+    "code": {
+      "id": "TCD10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sous_prefecture": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.734",
+      "lon": "17.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD11",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "MAYO KEBBI EST",
+      "en": "MAYO KEBBI EST",
+      "slug": "mayo-kebbi-est-tcd11"
+    },
+    "code": {
+      "id": "TCD11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sous_prefecture": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "15.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD12",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "MAYO KEBBI OUEST",
+      "en": "MAYO KEBBI OUEST",
+      "slug": "mayo-kebbi-ouest-tcd12"
+    },
+    "code": {
+      "id": "TCD12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sous_prefecture": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.225",
+      "lon": "14.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD13",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "MOYEN CHARI",
+      "en": "MOYEN CHARI",
+      "slug": "moyen-chari-tcd13"
+    },
+    "code": {
+      "id": "TCD13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sous_prefecture": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.315",
+      "lon": "18.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD18",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "N'DJAMENA",
+      "en": "N'DJAMENA",
+      "slug": "ndjamena-tcd18"
+    },
+    "code": {
+      "id": "TCD18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 1,
+      "sous_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.125",
+      "lon": "15.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD14",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "OUADDAÏ",
+      "en": "OUADDAÏ",
+      "slug": "ouadda-tcd14"
+    },
+    "code": {
+      "id": "TCD14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sous_prefecture": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.032",
+      "lon": "20.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD15",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "SALAMAT",
+      "en": "SALAMAT",
+      "slug": "salamat-tcd15"
+    },
+    "code": {
+      "id": "TCD15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sous_prefecture": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.626",
+      "lon": "20.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD21",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "SILA",
+      "en": "SILA",
+      "slug": "sila-tcd21"
+    },
+    "code": {
+      "id": "TCD21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "sous_prefecture": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.075",
+      "lon": "21.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD16",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "TANDJILÉ",
+      "en": "TANDJILÉ",
+      "slug": "tandjil-tcd16"
+    },
+    "code": {
+      "id": "TCD16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "sous_prefecture": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.648",
+      "lon": "16.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD22",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "TIBESTI",
+      "en": "TIBESTI",
+      "slug": "tibesti-tcd22"
+    },
+    "code": {
+      "id": "TCD22",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "sous_prefecture": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.176",
+      "lon": "18.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD17",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "WADI FIRA",
+      "en": "WADI FIRA",
+      "slug": "wadi-fira-tcd17"
+    },
+    "code": {
+      "id": "TCD17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "sous_prefecture": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.94",
+      "lon": "21.402"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

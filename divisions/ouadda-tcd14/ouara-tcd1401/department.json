@@ -1,0 +1,47 @@
+{
+  "id": "TCD1401",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Ouara",
+    "en": "Ouara",
+    "slug": "ouara-tcd1401"
+  },
+  "code": {
+    "id": "TCD1401",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD14",
+    "level": 1,
+    "name": {
+      "local": "OUADDAÏ",
+      "en": "OUADDAÏ",
+      "slug": "ouadda-tcd14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD14",
+      "level": 1,
+      "name": {
+        "local": "OUADDAÏ",
+        "en": "OUADDAÏ",
+        "slug": "ouadda-tcd14"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.709",
+    "lon": "20.897"
+  },
+  "metadata": {},
+  "source": {}
+}

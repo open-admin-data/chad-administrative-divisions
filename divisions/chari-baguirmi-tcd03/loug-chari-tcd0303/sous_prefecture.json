@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TCD0303_ba-illi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ba-Illi",
+      "en": "Ba-Illi",
+      "slug": "ba-illi"
+    },
+    "code": {
+      "id": "TCD0303_ba-illi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0303",
+      "level": 2,
+      "name": {
+        "local": "Loug Chari",
+        "en": "Loug Chari",
+        "slug": "loug-chari-tcd0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      },
+      {
+        "id": "TCD0303",
+        "level": 2,
+        "name": {
+          "local": "Loug Chari",
+          "en": "Loug Chari",
+          "slug": "loug-chari-tcd0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.458",
+      "lon": "16.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0303_bogomoro",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bogomoro",
+      "en": "Bogomoro",
+      "slug": "bogomoro"
+    },
+    "code": {
+      "id": "TCD0303_bogomoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0303",
+      "level": 2,
+      "name": {
+        "local": "Loug Chari",
+        "en": "Loug Chari",
+        "slug": "loug-chari-tcd0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      },
+      {
+        "id": "TCD0303",
+        "level": 2,
+        "name": {
+          "local": "Loug Chari",
+          "en": "Loug Chari",
+          "slug": "loug-chari-tcd0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.458",
+      "lon": "16.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0303_bousso",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bousso",
+      "en": "Bousso",
+      "slug": "bousso"
+    },
+    "code": {
+      "id": "TCD0303_bousso",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0303",
+      "level": 2,
+      "name": {
+        "local": "Loug Chari",
+        "en": "Loug Chari",
+        "slug": "loug-chari-tcd0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      },
+      {
+        "id": "TCD0303",
+        "level": 2,
+        "name": {
+          "local": "Loug Chari",
+          "en": "Loug Chari",
+          "slug": "loug-chari-tcd0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.458",
+      "lon": "16.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0303_miltou-gourgara",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Miltou-Gourgara",
+      "en": "Miltou-Gourgara",
+      "slug": "miltou-gourgara"
+    },
+    "code": {
+      "id": "TCD0303_miltou-gourgara",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0303",
+      "level": 2,
+      "name": {
+        "local": "Loug Chari",
+        "en": "Loug Chari",
+        "slug": "loug-chari-tcd0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      },
+      {
+        "id": "TCD0303",
+        "level": 2,
+        "name": {
+          "local": "Loug Chari",
+          "en": "Loug Chari",
+          "slug": "loug-chari-tcd0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.458",
+      "lon": "16.827"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

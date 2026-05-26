@@ -1,0 +1,143 @@
+[
+  {
+    "id": "TCD0301",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Baguirmi",
+      "en": "Baguirmi",
+      "slug": "baguirmi-tcd0301"
+    },
+    "code": {
+      "id": "TCD0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD03",
+      "level": 1,
+      "name": {
+        "local": "CHARI BAGUIRMI",
+        "en": "CHARI BAGUIRMI",
+        "slug": "chari-baguirmi-tcd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.436",
+      "lon": "16.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0302",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Chari",
+      "en": "Chari",
+      "slug": "chari-tcd0302"
+    },
+    "code": {
+      "id": "TCD0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD03",
+      "level": 1,
+      "name": {
+        "local": "CHARI BAGUIRMI",
+        "en": "CHARI BAGUIRMI",
+        "slug": "chari-baguirmi-tcd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.729",
+      "lon": "15.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0303",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Loug Chari",
+      "en": "Loug Chari",
+      "slug": "loug-chari-tcd0303"
+    },
+    "code": {
+      "id": "TCD0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD03",
+      "level": 1,
+      "name": {
+        "local": "CHARI BAGUIRMI",
+        "en": "CHARI BAGUIRMI",
+        "slug": "chari-baguirmi-tcd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.458",
+      "lon": "16.827"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

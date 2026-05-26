@@ -1,0 +1,47 @@
+{
+  "id": "TCD1001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mandoul Oriental",
+    "en": "Mandoul Oriental",
+    "slug": "mandoul-oriental-tcd1001"
+  },
+  "code": {
+    "id": "TCD1001",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD10",
+    "level": 1,
+    "name": {
+      "local": "MANDOUL",
+      "en": "MANDOUL",
+      "slug": "mandoul-tcd10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD10",
+      "level": 1,
+      "name": {
+        "local": "MANDOUL",
+        "en": "MANDOUL",
+        "slug": "mandoul-tcd10"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.136",
+    "lon": "17.688"
+  },
+  "metadata": {},
+  "source": {}
+}

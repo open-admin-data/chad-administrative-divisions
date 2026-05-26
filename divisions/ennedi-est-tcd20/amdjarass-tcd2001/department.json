@@ -1,0 +1,47 @@
+{
+  "id": "TCD2001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Amdjarass",
+    "en": "Amdjarass",
+    "slug": "amdjarass-tcd2001"
+  },
+  "code": {
+    "id": "TCD2001",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD20",
+    "level": 1,
+    "name": {
+      "local": "ENNEDI EST",
+      "en": "ENNEDI EST",
+      "slug": "ennedi-est-tcd20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD20",
+      "level": 1,
+      "name": {
+        "local": "ENNEDI EST",
+        "en": "ENNEDI EST",
+        "slug": "ennedi-est-tcd20"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.99",
+    "lon": "23.18"
+  },
+  "metadata": {},
+  "source": {}
+}

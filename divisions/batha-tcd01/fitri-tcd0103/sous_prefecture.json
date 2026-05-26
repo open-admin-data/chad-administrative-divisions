@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TCD0103_djaatne",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djaatne",
+      "en": "Djaatne",
+      "slug": "djaatne"
+    },
+    "code": {
+      "id": "TCD0103_djaatne",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0103",
+      "level": 2,
+      "name": {
+        "local": "Fitri",
+        "en": "Fitri",
+        "slug": "fitri-tcd0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0103",
+        "level": 2,
+        "name": {
+          "local": "Fitri",
+          "en": "Fitri",
+          "slug": "fitri-tcd0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "17.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0103_khozam",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Khozam",
+      "en": "Khozam",
+      "slug": "khozam"
+    },
+    "code": {
+      "id": "TCD0103_khozam",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0103",
+      "level": 2,
+      "name": {
+        "local": "Fitri",
+        "en": "Fitri",
+        "slug": "fitri-tcd0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0103",
+        "level": 2,
+        "name": {
+          "local": "Fitri",
+          "en": "Fitri",
+          "slug": "fitri-tcd0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "17.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0103_ouled-himed",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouled-Himed",
+      "en": "Ouled-Himed",
+      "slug": "ouled-himed"
+    },
+    "code": {
+      "id": "TCD0103_ouled-himed",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0103",
+      "level": 2,
+      "name": {
+        "local": "Fitri",
+        "en": "Fitri",
+        "slug": "fitri-tcd0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0103",
+        "level": 2,
+        "name": {
+          "local": "Fitri",
+          "en": "Fitri",
+          "slug": "fitri-tcd0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "17.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0103_ouled-rachid",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouled-Rachid",
+      "en": "Ouled-Rachid",
+      "slug": "ouled-rachid"
+    },
+    "code": {
+      "id": "TCD0103_ouled-rachid",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0103",
+      "level": 2,
+      "name": {
+        "local": "Fitri",
+        "en": "Fitri",
+        "slug": "fitri-tcd0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0103",
+        "level": 2,
+        "name": {
+          "local": "Fitri",
+          "en": "Fitri",
+          "slug": "fitri-tcd0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "17.511"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

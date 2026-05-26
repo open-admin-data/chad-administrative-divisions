@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TCD1603_bere-tchad",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bere-Tchad",
+      "en": "Bere-Tchad",
+      "slug": "bere-tchad"
+    },
+    "code": {
+      "id": "TCD1603_bere-tchad",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1603",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Centre",
+        "en": "Tandjilé Centre",
+        "slug": "tandjil-centre-tcd1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1603",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Centre",
+          "en": "Tandjilé Centre",
+          "slug": "tandjil-centre-tcd1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.299",
+      "lon": "16.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1603_delbian",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Delbian",
+      "en": "Delbian",
+      "slug": "delbian"
+    },
+    "code": {
+      "id": "TCD1603_delbian",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1603",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Centre",
+        "en": "Tandjilé Centre",
+        "slug": "tandjil-centre-tcd1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1603",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Centre",
+          "en": "Tandjilé Centre",
+          "slug": "tandjil-centre-tcd1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.299",
+      "lon": "16.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1603_tamion-ngolo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tamion-Ngolo",
+      "en": "Tamion-Ngolo",
+      "slug": "tamion-ngolo"
+    },
+    "code": {
+      "id": "TCD1603_tamion-ngolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1603",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Centre",
+        "en": "Tandjilé Centre",
+        "slug": "tandjil-centre-tcd1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1603",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Centre",
+          "en": "Tandjilé Centre",
+          "slug": "tandjil-centre-tcd1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.299",
+      "lon": "16.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1603_tchoa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tchoa",
+      "en": "Tchoa",
+      "slug": "tchoa"
+    },
+    "code": {
+      "id": "TCD1603_tchoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1603",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Centre",
+        "en": "Tandjilé Centre",
+        "slug": "tandjil-centre-tcd1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1603",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Centre",
+          "en": "Tandjilé Centre",
+          "slug": "tandjil-centre-tcd1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.299",
+      "lon": "16.185"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

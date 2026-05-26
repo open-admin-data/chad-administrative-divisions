@@ -1,0 +1,164 @@
+[
+  {
+    "id": "TCD1901_michemire",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Michemire",
+      "en": "Michemire",
+      "slug": "michemire"
+    },
+    "code": {
+      "id": "TCD1901_michemire",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1901",
+      "level": 2,
+      "name": {
+        "local": "Barh El Gazel Sud",
+        "en": "Barh El Gazel Sud",
+        "slug": "barh-el-gazel-sud-tcd1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD19",
+        "level": 1,
+        "name": {
+          "local": "BARH EL GAZEL",
+          "en": "BARH EL GAZEL",
+          "slug": "barh-el-gazel-tcd19"
+        }
+      },
+      {
+        "id": "TCD1901",
+        "level": 2,
+        "name": {
+          "local": "Barh El Gazel Sud",
+          "en": "Barh El Gazel Sud",
+          "slug": "barh-el-gazel-sud-tcd1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.695",
+      "lon": "16.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1901_moussoro",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moussoro",
+      "en": "Moussoro",
+      "slug": "moussoro"
+    },
+    "code": {
+      "id": "TCD1901_moussoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1901",
+      "level": 2,
+      "name": {
+        "local": "Barh El Gazel Sud",
+        "en": "Barh El Gazel Sud",
+        "slug": "barh-el-gazel-sud-tcd1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD19",
+        "level": 1,
+        "name": {
+          "local": "BARH EL GAZEL",
+          "en": "BARH EL GAZEL",
+          "slug": "barh-el-gazel-tcd19"
+        }
+      },
+      {
+        "id": "TCD1901",
+        "level": 2,
+        "name": {
+          "local": "Barh El Gazel Sud",
+          "en": "Barh El Gazel Sud",
+          "slug": "barh-el-gazel-sud-tcd1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.695",
+      "lon": "16.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1901_salal",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Salal",
+      "en": "Salal",
+      "slug": "salal"
+    },
+    "code": {
+      "id": "TCD1901_salal",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1901",
+      "level": 2,
+      "name": {
+        "local": "Barh El Gazel Sud",
+        "en": "Barh El Gazel Sud",
+        "slug": "barh-el-gazel-sud-tcd1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD19",
+        "level": 1,
+        "name": {
+          "local": "BARH EL GAZEL",
+          "en": "BARH EL GAZEL",
+          "slug": "barh-el-gazel-tcd19"
+        }
+      },
+      {
+        "id": "TCD1901",
+        "level": 2,
+        "name": {
+          "local": "Barh El Gazel Sud",
+          "en": "Barh El Gazel Sud",
+          "slug": "barh-el-gazel-sud-tcd1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.695",
+      "lon": "16.557"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

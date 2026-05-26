@@ -1,0 +1,326 @@
+[
+  {
+    "id": "TCD1403_barde",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Barde",
+      "en": "Barde",
+      "slug": "barde"
+    },
+    "code": {
+      "id": "TCD1403_barde",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1403",
+      "level": 2,
+      "name": {
+        "local": "Assoungha",
+        "en": "Assoungha",
+        "slug": "assoungha-tcd1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1403",
+        "level": 2,
+        "name": {
+          "local": "Assoungha",
+          "en": "Assoungha",
+          "slug": "assoungha-tcd1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "21.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1403_guergne",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guergne",
+      "en": "Guergne",
+      "slug": "guergne"
+    },
+    "code": {
+      "id": "TCD1403_guergne",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1403",
+      "level": 2,
+      "name": {
+        "local": "Assoungha",
+        "en": "Assoungha",
+        "slug": "assoungha-tcd1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1403",
+        "level": 2,
+        "name": {
+          "local": "Assoungha",
+          "en": "Assoungha",
+          "slug": "assoungha-tcd1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "21.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1403_kado",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kado",
+      "en": "Kado",
+      "slug": "kado"
+    },
+    "code": {
+      "id": "TCD1403_kado",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1403",
+      "level": 2,
+      "name": {
+        "local": "Assoungha",
+        "en": "Assoungha",
+        "slug": "assoungha-tcd1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1403",
+        "level": 2,
+        "name": {
+          "local": "Assoungha",
+          "en": "Assoungha",
+          "slug": "assoungha-tcd1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "21.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1403_mabrone",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mabrone",
+      "en": "Mabrone",
+      "slug": "mabrone"
+    },
+    "code": {
+      "id": "TCD1403_mabrone",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1403",
+      "level": 2,
+      "name": {
+        "local": "Assoungha",
+        "en": "Assoungha",
+        "slug": "assoungha-tcd1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1403",
+        "level": 2,
+        "name": {
+          "local": "Assoungha",
+          "en": "Assoungha",
+          "slug": "assoungha-tcd1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "21.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1403_molou",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Molou",
+      "en": "Molou",
+      "slug": "molou"
+    },
+    "code": {
+      "id": "TCD1403_molou",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1403",
+      "level": 2,
+      "name": {
+        "local": "Assoungha",
+        "en": "Assoungha",
+        "slug": "assoungha-tcd1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1403",
+        "level": 2,
+        "name": {
+          "local": "Assoungha",
+          "en": "Assoungha",
+          "slug": "assoungha-tcd1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "21.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1403_troane",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Troane",
+      "en": "Troane",
+      "slug": "troane"
+    },
+    "code": {
+      "id": "TCD1403_troane",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1403",
+      "level": 2,
+      "name": {
+        "local": "Assoungha",
+        "en": "Assoungha",
+        "slug": "assoungha-tcd1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1403",
+        "level": 2,
+        "name": {
+          "local": "Assoungha",
+          "en": "Assoungha",
+          "slug": "assoungha-tcd1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "21.954"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

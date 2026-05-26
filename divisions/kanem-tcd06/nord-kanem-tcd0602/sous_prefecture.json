@@ -1,0 +1,164 @@
+[
+  {
+    "id": "TCD0602_nokou",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nokou",
+      "en": "Nokou",
+      "slug": "nokou"
+    },
+    "code": {
+      "id": "TCD0602_nokou",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0602",
+      "level": 2,
+      "name": {
+        "local": "Nord Kanem",
+        "en": "Nord Kanem",
+        "slug": "nord-kanem-tcd0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD06",
+        "level": 1,
+        "name": {
+          "local": "KANEM",
+          "en": "KANEM",
+          "slug": "kanem-tcd06"
+        }
+      },
+      {
+        "id": "TCD0602",
+        "level": 2,
+        "name": {
+          "local": "Nord Kanem",
+          "en": "Nord Kanem",
+          "slug": "nord-kanem-tcd0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.294",
+      "lon": "15.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0602_ntiona",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ntiona",
+      "en": "Ntiona",
+      "slug": "ntiona"
+    },
+    "code": {
+      "id": "TCD0602_ntiona",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0602",
+      "level": 2,
+      "name": {
+        "local": "Nord Kanem",
+        "en": "Nord Kanem",
+        "slug": "nord-kanem-tcd0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD06",
+        "level": 1,
+        "name": {
+          "local": "KANEM",
+          "en": "KANEM",
+          "slug": "kanem-tcd06"
+        }
+      },
+      {
+        "id": "TCD0602",
+        "level": 2,
+        "name": {
+          "local": "Nord Kanem",
+          "en": "Nord Kanem",
+          "slug": "nord-kanem-tcd0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.294",
+      "lon": "15.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0602_rig-rig",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Rig-Rig",
+      "en": "Rig-Rig",
+      "slug": "rig-rig"
+    },
+    "code": {
+      "id": "TCD0602_rig-rig",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0602",
+      "level": 2,
+      "name": {
+        "local": "Nord Kanem",
+        "en": "Nord Kanem",
+        "slug": "nord-kanem-tcd0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD06",
+        "level": 1,
+        "name": {
+          "local": "KANEM",
+          "en": "KANEM",
+          "slug": "kanem-tcd06"
+        }
+      },
+      {
+        "id": "TCD0602",
+        "level": 2,
+        "name": {
+          "local": "Nord Kanem",
+          "en": "Nord Kanem",
+          "slug": "nord-kanem-tcd0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.294",
+      "lon": "15.314"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

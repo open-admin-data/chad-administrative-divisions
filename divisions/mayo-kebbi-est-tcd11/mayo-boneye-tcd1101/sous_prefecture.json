@@ -1,0 +1,812 @@
+[
+  {
+    "id": "TCD1101_bongor",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bongor",
+      "en": "Bongor",
+      "slug": "bongor"
+    },
+    "code": {
+      "id": "TCD1101_bongor",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_djoumane",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djoumane",
+      "en": "Djoumane",
+      "slug": "djoumane"
+    },
+    "code": {
+      "id": "TCD1101_djoumane",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_ere",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ere",
+      "en": "Ere",
+      "slug": "ere"
+    },
+    "code": {
+      "id": "TCD1101_ere",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_ham",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ham",
+      "en": "Ham",
+      "slug": "ham"
+    },
+    "code": {
+      "id": "TCD1101_ham",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_katoa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Katoa",
+      "en": "Katoa",
+      "slug": "katoa"
+    },
+    "code": {
+      "id": "TCD1101_katoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_kim",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kim",
+      "en": "Kim",
+      "slug": "kim"
+    },
+    "code": {
+      "id": "TCD1101_kim",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_kolobo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kolobo",
+      "en": "Kolobo",
+      "slug": "kolobo"
+    },
+    "code": {
+      "id": "TCD1101_kolobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_koumi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koumi",
+      "en": "Koumi",
+      "slug": "koumi"
+    },
+    "code": {
+      "id": "TCD1101_koumi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_magao",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Magao",
+      "en": "Magao",
+      "slug": "magao"
+    },
+    "code": {
+      "id": "TCD1101_magao",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_mitau",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mitau",
+      "en": "Mitau",
+      "slug": "mitau"
+    },
+    "code": {
+      "id": "TCD1101_mitau",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_mogroum",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mogroum",
+      "en": "Mogroum",
+      "slug": "mogroum"
+    },
+    "code": {
+      "id": "TCD1101_mogroum",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_ngam",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ngam",
+      "en": "Ngam",
+      "slug": "ngam"
+    },
+    "code": {
+      "id": "TCD1101_ngam",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_teleme",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Teleme",
+      "en": "Teleme",
+      "slug": "teleme"
+    },
+    "code": {
+      "id": "TCD1101_teleme",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_tougoude",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tougoude",
+      "en": "Tougoude",
+      "slug": "tougoude"
+    },
+    "code": {
+      "id": "TCD1101_tougoude",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101_toura",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Toura",
+      "en": "Toura",
+      "slug": "toura"
+    },
+    "code": {
+      "id": "TCD1101_toura",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1101",
+      "level": 2,
+      "name": {
+        "local": "Mayo Boneye",
+        "en": "Mayo Boneye",
+        "slug": "mayo-boneye-tcd1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1101",
+        "level": 2,
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

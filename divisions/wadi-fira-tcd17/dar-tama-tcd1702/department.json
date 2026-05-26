@@ -1,0 +1,47 @@
+{
+  "id": "TCD1702",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Dar Tama",
+    "en": "Dar Tama",
+    "slug": "dar-tama-tcd1702"
+  },
+  "code": {
+    "id": "TCD1702",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD17",
+    "level": 1,
+    "name": {
+      "local": "WADI FIRA",
+      "en": "WADI FIRA",
+      "slug": "wadi-fira-tcd17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD17",
+      "level": 1,
+      "name": {
+        "local": "WADI FIRA",
+        "en": "WADI FIRA",
+        "slug": "wadi-fira-tcd17"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.451",
+    "lon": "21.961"
+  },
+  "metadata": {},
+  "source": {}
+}

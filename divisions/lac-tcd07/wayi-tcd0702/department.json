@@ -1,0 +1,47 @@
+{
+  "id": "TCD0702",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Wayi",
+    "en": "Wayi",
+    "slug": "wayi-tcd0702"
+  },
+  "code": {
+    "id": "TCD0702",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD07",
+    "level": 1,
+    "name": {
+      "local": "LAC",
+      "en": "LAC",
+      "slug": "lac-tcd07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD07",
+      "level": 1,
+      "name": {
+        "local": "LAC",
+        "en": "LAC",
+        "slug": "lac-tcd07"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.418",
+    "lon": "15.248"
+  },
+  "metadata": {},
+  "source": {}
+}

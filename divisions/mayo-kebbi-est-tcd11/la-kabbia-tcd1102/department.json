@@ -1,0 +1,47 @@
+{
+  "id": "TCD1102",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "La kabbia",
+    "en": "La kabbia",
+    "slug": "la-kabbia-tcd1102"
+  },
+  "code": {
+    "id": "TCD1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD11",
+    "level": 1,
+    "name": {
+      "local": "MAYO KEBBI EST",
+      "en": "MAYO KEBBI EST",
+      "slug": "mayo-kebbi-est-tcd11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD11",
+      "level": 1,
+      "name": {
+        "local": "MAYO KEBBI EST",
+        "en": "MAYO KEBBI EST",
+        "slug": "mayo-kebbi-est-tcd11"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.524",
+    "lon": "15.378"
+  },
+  "metadata": {},
+  "source": {}
+}

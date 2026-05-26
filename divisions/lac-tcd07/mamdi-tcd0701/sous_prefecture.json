@@ -1,0 +1,56 @@
+[
+  {
+    "id": "TCD0701_bol",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bol",
+      "en": "Bol",
+      "slug": "bol"
+    },
+    "code": {
+      "id": "TCD0701_bol",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0701",
+      "level": 2,
+      "name": {
+        "local": "Mamdi",
+        "en": "Mamdi",
+        "slug": "mamdi-tcd0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD07",
+        "level": 1,
+        "name": {
+          "local": "LAC",
+          "en": "LAC",
+          "slug": "lac-tcd07"
+        }
+      },
+      {
+        "id": "TCD0701",
+        "level": 2,
+        "name": {
+          "local": "Mamdi",
+          "en": "Mamdi",
+          "slug": "mamdi-tcd0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.289",
+      "lon": "14.528"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

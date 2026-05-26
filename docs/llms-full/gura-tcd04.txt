@@ -1,0 +1,113 @@
+# GUÉRA — Chad Administrative Divisions
+
+> 4 departments, 21 sub-prefectures
+> Code: TCD04
+> Coordinates: 11.456, 18.105
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Abtouyour
+
+Code: TCD0402, Coordinates: 12.006, 18.098
+Sub-prefectures: 5
+
+#### Bitkine
+
+Code: TCD0402_bitkine, Coordinates: 12.006, 18.098
+
+#### Dangaleat
+
+Code: TCD0402_dangaleat, Coordinates: 12.006, 18.098
+
+#### Djonkor-Guera
+
+Code: TCD0402_djonkor-guera, Coordinates: 12.006, 18.098
+
+#### Kenga
+
+Code: TCD0402_kenga, Coordinates: 12.006, 18.098
+
+#### Sara-Arabe
+
+Code: TCD0402_sara-arabe, Coordinates: 12.006, 18.098
+
+### Bahar Signaka
+
+Code: TCD0403, Coordinates: 10.756, 18.54
+Sub-prefectures: 5
+
+#### Bidio
+
+Code: TCD0403_bidio, Coordinates: 10.756, 18.54
+
+#### Dadjo-I
+
+Code: TCD0403_dadjo-i, Coordinates: 10.756, 18.54
+
+#### Djonkor-Aboutelfane
+
+Code: TCD0403_djonkor-aboutelfane, Coordinates: 10.756, 18.54
+
+#### Koffa
+
+Code: TCD0403_koffa, Coordinates: 10.756, 18.54
+
+#### Yalnass
+
+Code: TCD0403_yalnass, Coordinates: 10.756, 18.54
+
+### Guéra
+
+Code: TCD0401, Coordinates: 11.997, 18.876
+Sub-prefectures: 7
+
+#### Daguela
+
+Code: TCD0401_daguela, Coordinates: 11.997, 18.876
+
+#### Dekakire
+
+Code: TCD0401_dekakire, Coordinates: 11.997, 18.876
+
+#### Gogmi
+
+Code: TCD0401_gogmi, Coordinates: 11.997, 18.876
+
+#### Melfi
+
+Code: TCD0401_melfi, Coordinates: 11.997, 18.876
+
+#### Mokofi
+
+Code: TCD0401_mokofi, Coordinates: 11.997, 18.876
+
+#### Mousmare
+
+Code: TCD0401_mousmare, Coordinates: 11.997, 18.876
+
+#### Sorki
+
+Code: TCD0401_sorki, Coordinates: 11.997, 18.876
+
+### Mangalmé
+
+Code: TCD0404, Coordinates: 12.298, 19.547
+Sub-prefectures: 4
+
+#### Dadjo-Ii
+
+Code: TCD0404_dadjo-ii, Coordinates: 12.298, 19.547
+
+#### Moubi-Goz
+
+Code: TCD0404_moubi-goz, Coordinates: 12.298, 19.547
+
+#### Moubi-Hadaba
+
+Code: TCD0404_moubi-hadaba, Coordinates: 12.298, 19.547
+
+#### Moubi-Zarga
+
+Code: TCD0404_moubi-zarga, Coordinates: 12.298, 19.547
+

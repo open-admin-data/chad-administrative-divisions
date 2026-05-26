@@ -1,0 +1,190 @@
+[
+  {
+    "id": "TCD0802",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Djode",
+      "en": "Djode",
+      "slug": "djode-tcd0802"
+    },
+    "code": {
+      "id": "TCD0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD08",
+      "level": 1,
+      "name": {
+        "local": "LOGONE OCCIDENTAL",
+        "en": "LOGONE OCCIDENTAL",
+        "slug": "logone-occidental-tcd08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.681",
+      "lon": "15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0803",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Gueni",
+      "en": "Gueni",
+      "slug": "gueni-tcd0803"
+    },
+    "code": {
+      "id": "TCD0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD08",
+      "level": 1,
+      "name": {
+        "local": "LOGONE OCCIDENTAL",
+        "en": "LOGONE OCCIDENTAL",
+        "slug": "logone-occidental-tcd08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.96",
+      "lon": "15.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lac wey",
+      "en": "Lac wey",
+      "slug": "lac-wey-tcd0801"
+    },
+    "code": {
+      "id": "TCD0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD08",
+      "level": 1,
+      "name": {
+        "local": "LOGONE OCCIDENTAL",
+        "en": "LOGONE OCCIDENTAL",
+        "slug": "logone-occidental-tcd08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0804",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ngourkosso",
+      "en": "Ngourkosso",
+      "slug": "ngourkosso-tcd0804"
+    },
+    "code": {
+      "id": "TCD0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD08",
+      "level": 1,
+      "name": {
+        "local": "LOGONE OCCIDENTAL",
+        "en": "LOGONE OCCIDENTAL",
+        "slug": "logone-occidental-tcd08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

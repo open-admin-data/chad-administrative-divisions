@@ -1,0 +1,47 @@
+{
+  "id": "TCD0101",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Batha Ouest",
+    "en": "Batha Ouest",
+    "slug": "batha-ouest-tcd0101"
+  },
+  "code": {
+    "id": "TCD0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD01",
+    "level": 1,
+    "name": {
+      "local": "BATHA",
+      "en": "BATHA",
+      "slug": "batha-tcd01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD01",
+      "level": 1,
+      "name": {
+        "local": "BATHA",
+        "en": "BATHA",
+        "slug": "batha-tcd01"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.308",
+    "lon": "18.396"
+  },
+  "metadata": {},
+  "source": {}
+}

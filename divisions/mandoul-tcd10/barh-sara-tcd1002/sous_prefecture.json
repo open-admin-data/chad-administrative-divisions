@@ -1,0 +1,866 @@
+[
+  {
+    "id": "TCD1002_beboro",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Beboro",
+      "en": "Beboro",
+      "slug": "beboro"
+    },
+    "code": {
+      "id": "TCD1002_beboro",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_begara",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Begara",
+      "en": "Begara",
+      "slug": "begara"
+    },
+    "code": {
+      "id": "TCD1002_begara",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_bekamba-moissala",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bekamba-Moissala",
+      "en": "Bekamba-Moissala",
+      "slug": "bekamba-moissala"
+    },
+    "code": {
+      "id": "TCD1002_bekamba-moissala",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_bekourou",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bekourou",
+      "en": "Bekourou",
+      "slug": "bekourou"
+    },
+    "code": {
+      "id": "TCD1002_bekourou",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_bengoro",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bengoro",
+      "en": "Bengoro",
+      "slug": "bengoro"
+    },
+    "code": {
+      "id": "TCD1002_bengoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_bessara",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bessara",
+      "en": "Bessara",
+      "slug": "bessara"
+    },
+    "code": {
+      "id": "TCD1002_bessara",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_dembo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dembo",
+      "en": "Dembo",
+      "slug": "dembo"
+    },
+    "code": {
+      "id": "TCD1002_dembo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_dilingala",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dilingala",
+      "en": "Dilingala",
+      "slug": "dilingala"
+    },
+    "code": {
+      "id": "TCD1002_dilingala",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_doubadene",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Doubadene",
+      "en": "Doubadene",
+      "slug": "doubadene"
+    },
+    "code": {
+      "id": "TCD1002_doubadene",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_gabian",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gabian",
+      "en": "Gabian",
+      "slug": "gabian"
+    },
+    "code": {
+      "id": "TCD1002_gabian",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_gon",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gon",
+      "en": "Gon",
+      "slug": "gon"
+    },
+    "code": {
+      "id": "TCD1002_gon",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_koldaga",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koldaga",
+      "en": "Koldaga",
+      "slug": "koldaga"
+    },
+    "code": {
+      "id": "TCD1002_koldaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_moissala",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moissala",
+      "en": "Moissala",
+      "slug": "moissala"
+    },
+    "code": {
+      "id": "TCD1002_moissala",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_nadili",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nadili",
+      "en": "Nadili",
+      "slug": "nadili"
+    },
+    "code": {
+      "id": "TCD1002_nadili",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_ngalo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ngalo",
+      "en": "Ngalo",
+      "slug": "ngalo"
+    },
+    "code": {
+      "id": "TCD1002_ngalo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1002_takoua",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Takoua",
+      "en": "Takoua",
+      "slug": "takoua"
+    },
+    "code": {
+      "id": "TCD1002_takoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1002",
+      "level": 2,
+      "name": {
+        "local": "Barh Sara",
+        "en": "Barh Sara",
+        "slug": "barh-sara-tcd1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1002",
+        "level": 2,
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

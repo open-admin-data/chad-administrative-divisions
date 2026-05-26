@@ -1,0 +1,47 @@
+{
+  "id": "TCD1202",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Lac Léré",
+    "en": "Lac Léré",
+    "slug": "lac-lr-tcd1202"
+  },
+  "code": {
+    "id": "TCD1202",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD12",
+    "level": 1,
+    "name": {
+      "local": "MAYO KEBBI OUEST",
+      "en": "MAYO KEBBI OUEST",
+      "slug": "mayo-kebbi-ouest-tcd12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD12",
+      "level": 1,
+      "name": {
+        "local": "MAYO KEBBI OUEST",
+        "en": "MAYO KEBBI OUEST",
+        "slug": "mayo-kebbi-ouest-tcd12"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.619",
+    "lon": "14.383"
+  },
+  "metadata": {},
+  "source": {}
+}

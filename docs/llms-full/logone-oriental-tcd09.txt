@@ -1,0 +1,183 @@
+# LOGONE ORIENTAL — Chad Administrative Divisions
+
+> 6 departments, 36 sub-prefectures
+> Code: TCD09
+> Coordinates: 8.304, 16.463
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Kouh Est
+
+Code: TCD0902, Coordinates: 8.369, 17.111
+Sub-prefectures: 0
+
+### Kouh Ouest
+
+Code: TCD0903, Coordinates: 8.182, 16.868
+Sub-prefectures: 0
+
+### La nya
+
+Code: TCD0904, Coordinates: 8.562, 16.611
+Sub-prefectures: 6
+
+#### Bebedjia
+
+Code: TCD0904_bebedjia, Coordinates: 8.562, 16.611
+
+#### Beboni
+
+Code: TCD0904_beboni, Coordinates: 8.562, 16.611
+
+#### Bero
+
+Code: TCD0904_bero, Coordinates: 8.562, 16.611
+
+#### Kome/Ndobele
+
+Code: TCD0904_komendobele, Coordinates: 8.562, 16.611
+
+#### Mbikou
+
+Code: TCD0904_mbikou, Coordinates: 8.562, 16.611
+
+#### Miandoum
+
+Code: TCD0904_miandoum, Coordinates: 8.562, 16.611
+
+### La Nya pendé
+
+Code: TCD0905, Coordinates: 8.007, 16.482
+Sub-prefectures: 10
+
+#### Bekan
+
+Code: TCD0905_bekan, Coordinates: 8.007, 16.482
+
+#### Boro
+
+Code: TCD0905_boro, Coordinates: 8.007, 16.482
+
+#### Boye-Bessao
+
+Code: TCD0905_boye-bessao, Coordinates: 8.007, 16.482
+
+#### Gore
+
+Code: TCD0905_gore, Coordinates: 8.007, 16.482
+
+#### Kaba-Donia
+
+Code: TCD0905_kaba-donia, Coordinates: 8.007, 16.482
+
+#### Kaba-Roangar
+
+Code: TCD0905_kaba-roangar, Coordinates: 8.007, 16.482
+
+#### Mbaikoro
+
+Code: TCD0905_mbaikoro, Coordinates: 8.007, 16.482
+
+#### Miladi
+
+Code: TCD0905_miladi, Coordinates: 8.007, 16.482
+
+#### Timberi
+
+Code: TCD0905_timberi, Coordinates: 8.007, 16.482
+
+#### Yamodo
+
+Code: TCD0905_yamodo, Coordinates: 8.007, 16.482
+
+### La pendé
+
+Code: TCD0901, Coordinates: 8.857, 16.939
+Sub-prefectures: 10
+
+#### Beboto
+
+Code: TCD0901_beboto, Coordinates: 8.857, 16.939
+
+#### Beti
+
+Code: TCD0901_beti, Coordinates: 8.857, 16.939
+
+#### Bodo
+
+Code: TCD0901_bodo, Coordinates: 8.857, 16.939
+
+#### Doba
+
+Code: TCD0901_doba, Coordinates: 8.857, 16.939
+
+#### Kara/Maibo-Goulaye
+
+Code: TCD0901_karamaibo-goulaye, Coordinates: 8.857, 16.939
+
+#### Maibo-Mbaye
+
+Code: TCD0901_maibo-mbaye, Coordinates: 8.857, 16.939
+
+#### Mango
+
+Code: TCD0901_mango, Coordinates: 8.857, 16.939
+
+#### Nankesse
+
+Code: TCD0901_nankesse, Coordinates: 8.857, 16.939
+
+#### Nassian
+
+Code: TCD0901_nassian, Coordinates: 8.857, 16.939
+
+#### Sama
+
+Code: TCD0901_sama, Coordinates: 8.857, 16.939
+
+### Monts de lam
+
+Code: TCD0906, Coordinates: 8.069, 15.848
+Sub-prefectures: 10
+
+#### Andoum
+
+Code: TCD0906_andoum, Coordinates: 8.069, 15.848
+
+#### Bessao
+
+Code: TCD0906_bessao, Coordinates: 8.069, 15.848
+
+#### Gadjibian
+
+Code: TCD0906_gadjibian, Coordinates: 8.069, 15.848
+
+#### Loumbogo
+
+Code: TCD0906_loumbogo, Coordinates: 8.069, 15.848
+
+#### Mbaissaye
+
+Code: TCD0906_mbaissaye, Coordinates: 8.069, 15.848
+
+#### Mbouroum
+
+Code: TCD0906_mbouroum, Coordinates: 8.069, 15.848
+
+#### Mont-De-Lam
+
+Code: TCD0906_mont-de-lam, Coordinates: 8.069, 15.848
+
+#### Oudoumian
+
+Code: TCD0906_oudoumian, Coordinates: 8.069, 15.848
+
+#### Pandzangue
+
+Code: TCD0906_pandzangue, Coordinates: 8.069, 15.848
+
+#### Pao
+
+Code: TCD0906_pao, Coordinates: 8.069, 15.848
+

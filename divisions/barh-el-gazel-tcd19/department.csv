@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD1902,Barh El Gazel Nord,Barh El Gazel Nord,barh-el-gazel-nord-tcd1902,TCD1902,0,14.773,17.015
+TCD1903,Barh El Gazel Ouest,Barh El Gazel Ouest,barh-el-gazel-ouest-tcd1903,TCD1903,0,13.279,16.248
+TCD1901,Barh El Gazel Sud,Barh El Gazel Sud,barh-el-gazel-sud-tcd1901,TCD1901,3,13.695,16.557

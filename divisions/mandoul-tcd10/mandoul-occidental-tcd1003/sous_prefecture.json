@@ -1,0 +1,380 @@
+[
+  {
+    "id": "TCD1003_bangoul",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bangoul",
+      "en": "Bangoul",
+      "slug": "bangoul"
+    },
+    "code": {
+      "id": "TCD1003_bangoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1003",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Occidental",
+        "en": "Mandoul Occidental",
+        "slug": "mandoul-occidental-tcd1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1003",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Occidental",
+          "en": "Mandoul Occidental",
+          "slug": "mandoul-occidental-tcd1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.599",
+      "lon": "17.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1003_bebo-pen",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bebo-Pen",
+      "en": "Bebo-Pen",
+      "slug": "bebo-pen"
+    },
+    "code": {
+      "id": "TCD1003_bebo-pen",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1003",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Occidental",
+        "en": "Mandoul Occidental",
+        "slug": "mandoul-occidental-tcd1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1003",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Occidental",
+          "en": "Mandoul Occidental",
+          "slug": "mandoul-occidental-tcd1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.599",
+      "lon": "17.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1003_bedjondo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bedjondo",
+      "en": "Bedjondo",
+      "slug": "bedjondo"
+    },
+    "code": {
+      "id": "TCD1003_bedjondo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1003",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Occidental",
+        "en": "Mandoul Occidental",
+        "slug": "mandoul-occidental-tcd1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1003",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Occidental",
+          "en": "Mandoul Occidental",
+          "slug": "mandoul-occidental-tcd1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.599",
+      "lon": "17.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1003_bekamba-koumra",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bekamba-Koumra",
+      "en": "Bekamba-Koumra",
+      "slug": "bekamba-koumra"
+    },
+    "code": {
+      "id": "TCD1003_bekamba-koumra",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1003",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Occidental",
+        "en": "Mandoul Occidental",
+        "slug": "mandoul-occidental-tcd1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1003",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Occidental",
+          "en": "Mandoul Occidental",
+          "slug": "mandoul-occidental-tcd1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.599",
+      "lon": "17.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1003_nderguigui",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nderguigui",
+      "en": "Nderguigui",
+      "slug": "nderguigui"
+    },
+    "code": {
+      "id": "TCD1003_nderguigui",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1003",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Occidental",
+        "en": "Mandoul Occidental",
+        "slug": "mandoul-occidental-tcd1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1003",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Occidental",
+          "en": "Mandoul Occidental",
+          "slug": "mandoul-occidental-tcd1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.599",
+      "lon": "17.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1003_peni-tchad",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Peni-Tchad",
+      "en": "Peni-Tchad",
+      "slug": "peni-tchad"
+    },
+    "code": {
+      "id": "TCD1003_peni-tchad",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1003",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Occidental",
+        "en": "Mandoul Occidental",
+        "slug": "mandoul-occidental-tcd1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1003",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Occidental",
+          "en": "Mandoul Occidental",
+          "slug": "mandoul-occidental-tcd1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.599",
+      "lon": "17.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1003_yomi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yomi",
+      "en": "Yomi",
+      "slug": "yomi"
+    },
+    "code": {
+      "id": "TCD1003_yomi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1003",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Occidental",
+        "en": "Mandoul Occidental",
+        "slug": "mandoul-occidental-tcd1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1003",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Occidental",
+          "en": "Mandoul Occidental",
+          "slug": "mandoul-occidental-tcd1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.599",
+      "lon": "17.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

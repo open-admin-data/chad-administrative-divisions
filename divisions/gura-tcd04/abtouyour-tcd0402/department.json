@@ -1,0 +1,47 @@
+{
+  "id": "TCD0402",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Abtouyour",
+    "en": "Abtouyour",
+    "slug": "abtouyour-tcd0402"
+  },
+  "code": {
+    "id": "TCD0402",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD04",
+    "level": 1,
+    "name": {
+      "local": "GUÉRA",
+      "en": "GUÉRA",
+      "slug": "gura-tcd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD04",
+      "level": 1,
+      "name": {
+        "local": "GUÉRA",
+        "en": "GUÉRA",
+        "slug": "gura-tcd04"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.006",
+    "lon": "18.098"
+  },
+  "metadata": {},
+  "source": {}
+}

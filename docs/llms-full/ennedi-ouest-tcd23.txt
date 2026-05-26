@@ -1,0 +1,23 @@
+# ENNEDI OUEST — Chad Administrative Divisions
+
+> 2 departments, 1 sub-prefectures
+> Code: TCD23
+> Coordinates: 18.256, 20.962
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Fada
+
+Code: TCD2301, Coordinates: 18.256, 20.962
+Sub-prefectures: 1
+
+#### Ennedi Ouest
+
+Code: TCD2301_ennedi-ouest, Coordinates: 18.256, 20.962
+
+### Mourtcha
+
+Code: TCD2302, Coordinates: 16.345, 20.909
+Sub-prefectures: 0
+

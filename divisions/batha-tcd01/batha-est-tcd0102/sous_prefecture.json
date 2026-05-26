@@ -1,0 +1,380 @@
+[
+  {
+    "id": "TCD0102_dhokdopdop",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dhok/Dopdop",
+      "en": "Dhok/Dopdop",
+      "slug": "dhokdopdop"
+    },
+    "code": {
+      "id": "TCD0102_dhokdopdop",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0102",
+      "level": 2,
+      "name": {
+        "local": "Batha Est",
+        "en": "Batha Est",
+        "slug": "batha-est-tcd0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0102",
+        "level": 2,
+        "name": {
+          "local": "Batha Est",
+          "en": "Batha Est",
+          "slug": "batha-est-tcd0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "19.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0102_kouka-adjob",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouka-Adjob",
+      "en": "Kouka-Adjob",
+      "slug": "kouka-adjob"
+    },
+    "code": {
+      "id": "TCD0102_kouka-adjob",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0102",
+      "level": 2,
+      "name": {
+        "local": "Batha Est",
+        "en": "Batha Est",
+        "slug": "batha-est-tcd0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0102",
+        "level": 2,
+        "name": {
+          "local": "Batha Est",
+          "en": "Batha Est",
+          "slug": "batha-est-tcd0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "19.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0102_massalat-oum-hadjer",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Massalat-Oum-Hadjer",
+      "en": "Massalat-Oum-Hadjer",
+      "slug": "massalat-oum-hadjer"
+    },
+    "code": {
+      "id": "TCD0102_massalat-oum-hadjer",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0102",
+      "level": 2,
+      "name": {
+        "local": "Batha Est",
+        "en": "Batha Est",
+        "slug": "batha-est-tcd0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0102",
+        "level": 2,
+        "name": {
+          "local": "Batha Est",
+          "en": "Batha Est",
+          "slug": "batha-est-tcd0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "19.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0102_mesmedje",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mesmedje",
+      "en": "Mesmedje",
+      "slug": "mesmedje"
+    },
+    "code": {
+      "id": "TCD0102_mesmedje",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0102",
+      "level": 2,
+      "name": {
+        "local": "Batha Est",
+        "en": "Batha Est",
+        "slug": "batha-est-tcd0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0102",
+        "level": 2,
+        "name": {
+          "local": "Batha Est",
+          "en": "Batha Est",
+          "slug": "batha-est-tcd0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "19.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0102_ratanine-har-djombo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ratanine-Har-Djombo",
+      "en": "Ratanine-Har-Djombo",
+      "slug": "ratanine-har-djombo"
+    },
+    "code": {
+      "id": "TCD0102_ratanine-har-djombo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0102",
+      "level": 2,
+      "name": {
+        "local": "Batha Est",
+        "en": "Batha Est",
+        "slug": "batha-est-tcd0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0102",
+        "level": 2,
+        "name": {
+          "local": "Batha Est",
+          "en": "Batha Est",
+          "slug": "batha-est-tcd0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "19.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0102_sedamis-mr-mn-assine",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sedamis-Mr-Mn-Assine",
+      "en": "Sedamis-Mr-Mn-Assine",
+      "slug": "sedamis-mr-mn-assine"
+    },
+    "code": {
+      "id": "TCD0102_sedamis-mr-mn-assine",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0102",
+      "level": 2,
+      "name": {
+        "local": "Batha Est",
+        "en": "Batha Est",
+        "slug": "batha-est-tcd0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0102",
+        "level": 2,
+        "name": {
+          "local": "Batha Est",
+          "en": "Batha Est",
+          "slug": "batha-est-tcd0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "19.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0102_zioud-amsak",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zioud-Amsak",
+      "en": "Zioud-Amsak",
+      "slug": "zioud-amsak"
+    },
+    "code": {
+      "id": "TCD0102_zioud-amsak",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0102",
+      "level": 2,
+      "name": {
+        "local": "Batha Est",
+        "en": "Batha Est",
+        "slug": "batha-est-tcd0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0102",
+        "level": 2,
+        "name": {
+          "local": "Batha Est",
+          "en": "Batha Est",
+          "slug": "batha-est-tcd0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "19.568"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

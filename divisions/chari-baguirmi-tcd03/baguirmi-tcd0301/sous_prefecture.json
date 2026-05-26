@@ -1,0 +1,380 @@
+[
+  {
+    "id": "TCD0301_batha-lairi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Batha-Lairi",
+      "en": "Batha-Lairi",
+      "slug": "batha-lairi"
+    },
+    "code": {
+      "id": "TCD0301_batha-lairi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0301",
+      "level": 2,
+      "name": {
+        "local": "Baguirmi",
+        "en": "Baguirmi",
+        "slug": "baguirmi-tcd0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      },
+      {
+        "id": "TCD0301",
+        "level": 2,
+        "name": {
+          "local": "Baguirmi",
+          "en": "Baguirmi",
+          "slug": "baguirmi-tcd0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.436",
+      "lon": "16.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0301_bougoumene",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bougoumene",
+      "en": "Bougoumene",
+      "slug": "bougoumene"
+    },
+    "code": {
+      "id": "TCD0301_bougoumene",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0301",
+      "level": 2,
+      "name": {
+        "local": "Baguirmi",
+        "en": "Baguirmi",
+        "slug": "baguirmi-tcd0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      },
+      {
+        "id": "TCD0301",
+        "level": 2,
+        "name": {
+          "local": "Baguirmi",
+          "en": "Baguirmi",
+          "slug": "baguirmi-tcd0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.436",
+      "lon": "16.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0301_deredia",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Deredia",
+      "en": "Deredia",
+      "slug": "deredia"
+    },
+    "code": {
+      "id": "TCD0301_deredia",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0301",
+      "level": 2,
+      "name": {
+        "local": "Baguirmi",
+        "en": "Baguirmi",
+        "slug": "baguirmi-tcd0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      },
+      {
+        "id": "TCD0301",
+        "level": 2,
+        "name": {
+          "local": "Baguirmi",
+          "en": "Baguirmi",
+          "slug": "baguirmi-tcd0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.436",
+      "lon": "16.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0301_dourbaliabouguerne",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dourbali/Abouguerne",
+      "en": "Dourbali/Abouguerne",
+      "slug": "dourbaliabouguerne"
+    },
+    "code": {
+      "id": "TCD0301_dourbaliabouguerne",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0301",
+      "level": 2,
+      "name": {
+        "local": "Baguirmi",
+        "en": "Baguirmi",
+        "slug": "baguirmi-tcd0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      },
+      {
+        "id": "TCD0301",
+        "level": 2,
+        "name": {
+          "local": "Baguirmi",
+          "en": "Baguirmi",
+          "slug": "baguirmi-tcd0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.436",
+      "lon": "16.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0301_mai-ache",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mai-Ache",
+      "en": "Mai-Ache",
+      "slug": "mai-ache"
+    },
+    "code": {
+      "id": "TCD0301_mai-ache",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0301",
+      "level": 2,
+      "name": {
+        "local": "Baguirmi",
+        "en": "Baguirmi",
+        "slug": "baguirmi-tcd0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      },
+      {
+        "id": "TCD0301",
+        "level": 2,
+        "name": {
+          "local": "Baguirmi",
+          "en": "Baguirmi",
+          "slug": "baguirmi-tcd0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.436",
+      "lon": "16.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0301_mandjafa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mandjafa",
+      "en": "Mandjafa",
+      "slug": "mandjafa"
+    },
+    "code": {
+      "id": "TCD0301_mandjafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0301",
+      "level": 2,
+      "name": {
+        "local": "Baguirmi",
+        "en": "Baguirmi",
+        "slug": "baguirmi-tcd0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      },
+      {
+        "id": "TCD0301",
+        "level": 2,
+        "name": {
+          "local": "Baguirmi",
+          "en": "Baguirmi",
+          "slug": "baguirmi-tcd0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.436",
+      "lon": "16.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0301_massenya",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Massenya",
+      "en": "Massenya",
+      "slug": "massenya"
+    },
+    "code": {
+      "id": "TCD0301_massenya",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0301",
+      "level": 2,
+      "name": {
+        "local": "Baguirmi",
+        "en": "Baguirmi",
+        "slug": "baguirmi-tcd0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD03",
+        "level": 1,
+        "name": {
+          "local": "CHARI BAGUIRMI",
+          "en": "CHARI BAGUIRMI",
+          "slug": "chari-baguirmi-tcd03"
+        }
+      },
+      {
+        "id": "TCD0301",
+        "level": 2,
+        "name": {
+          "local": "Baguirmi",
+          "en": "Baguirmi",
+          "slug": "baguirmi-tcd0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.436",
+      "lon": "16.352"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

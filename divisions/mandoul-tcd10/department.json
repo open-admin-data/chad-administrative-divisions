@@ -1,0 +1,143 @@
+[
+  {
+    "id": "TCD1002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Barh Sara",
+      "en": "Barh Sara",
+      "slug": "barh-sara-tcd1002"
+    },
+    "code": {
+      "id": "TCD1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD10",
+      "level": 1,
+      "name": {
+        "local": "MANDOUL",
+        "en": "MANDOUL",
+        "slug": "mandoul-tcd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mandoul Occidental",
+      "en": "Mandoul Occidental",
+      "slug": "mandoul-occidental-tcd1003"
+    },
+    "code": {
+      "id": "TCD1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD10",
+      "level": 1,
+      "name": {
+        "local": "MANDOUL",
+        "en": "MANDOUL",
+        "slug": "mandoul-tcd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.599",
+      "lon": "17.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mandoul Oriental",
+      "en": "Mandoul Oriental",
+      "slug": "mandoul-oriental-tcd1001"
+    },
+    "code": {
+      "id": "TCD1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD10",
+      "level": 1,
+      "name": {
+        "local": "MANDOUL",
+        "en": "MANDOUL",
+        "slug": "mandoul-tcd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "17.688"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

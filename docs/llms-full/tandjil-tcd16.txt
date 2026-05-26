@@ -1,0 +1,132 @@
+# TANDJILÉ — Chad Administrative Divisions
+
+> 3 departments, 27 sub-prefectures
+> Code: TCD16
+> Coordinates: 9.648, 16.652
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Tandjilé Centre
+
+Code: TCD1603, Coordinates: 9.299, 16.185
+Sub-prefectures: 4
+
+#### Bere-Tchad
+
+Code: TCD1603_bere-tchad, Coordinates: 9.299, 16.185
+
+#### Delbian
+
+Code: TCD1603_delbian, Coordinates: 9.299, 16.185
+
+#### Tamion-Ngolo
+
+Code: TCD1603_tamion-ngolo, Coordinates: 9.299, 16.185
+
+#### Tchoa
+
+Code: TCD1603_tchoa, Coordinates: 9.299, 16.185
+
+### Tandjilé Est
+
+Code: TCD1601, Coordinates: 9.657, 16.787
+Sub-prefectures: 17
+
+#### Darbe
+
+Code: TCD1601_darbe, Coordinates: 9.657, 16.787
+
+#### Deressia
+
+Code: TCD1601_deressia, Coordinates: 9.657, 16.787
+
+#### Dormon
+
+Code: TCD1601_dormon, Coordinates: 9.657, 16.787
+
+#### Gabri-Ngolo
+
+Code: TCD1601_gabri-ngolo, Coordinates: 9.657, 16.787
+
+#### Goulaye
+
+Code: TCD1601_goulaye, Coordinates: 9.657, 16.787
+
+#### Kabalaye
+
+Code: TCD1601_kabalaye, Coordinates: 9.657, 16.787
+
+#### Kariade-Boum
+
+Code: TCD1601_kariade-boum, Coordinates: 9.657, 16.787
+
+#### Kimre
+
+Code: TCD1601_kimre, Coordinates: 9.657, 16.787
+
+#### Koro-Tchad
+
+Code: TCD1601_koro-tchad, Coordinates: 9.657, 16.787
+
+#### Lai
+
+Code: TCD1601_lai, Coordinates: 9.657, 16.787
+
+#### Mouroum-Touloum
+
+Code: TCD1601_mouroum-touloum, Coordinates: 9.657, 16.787
+
+#### Ndam
+
+Code: TCD1601_ndam, Coordinates: 9.657, 16.787
+
+#### Ngamongo
+
+Code: TCD1601_ngamongo, Coordinates: 9.657, 16.787
+
+#### Ninga
+
+Code: TCD1601_ninga, Coordinates: 9.657, 16.787
+
+#### Soumraye
+
+Code: TCD1601_soumraye, Coordinates: 9.657, 16.787
+
+#### Tchaguine-Ngolo
+
+Code: TCD1601_tchaguine-ngolo, Coordinates: 9.657, 16.787
+
+#### Tchedoum
+
+Code: TCD1601_tchedoum, Coordinates: 9.657, 16.787
+
+### Tandjilé Ouest
+
+Code: TCD1602, Coordinates: 9.363, 15.791
+Sub-prefectures: 6
+
+#### Bagaye
+
+Code: TCD1602_bagaye, Coordinates: 9.363, 15.791
+
+#### Kelo
+
+Code: TCD1602_kelo, Coordinates: 9.363, 15.791
+
+#### Kolon
+
+Code: TCD1602_kolon, Coordinates: 9.363, 15.791
+
+#### Lele
+
+Code: TCD1602_lele, Coordinates: 9.363, 15.791
+
+#### Marba
+
+Code: TCD1602_marba, Coordinates: 9.363, 15.791
+
+#### Mesme
+
+Code: TCD1602_mesme, Coordinates: 9.363, 15.791
+

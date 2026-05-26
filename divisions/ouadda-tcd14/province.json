@@ -1,0 +1,30 @@
+{
+  "id": "TCD14",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "OUADDAÏ",
+    "en": "OUADDAÏ",
+    "slug": "ouadda-tcd14"
+  },
+  "code": {
+    "id": "TCD14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sous_prefecture": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.032",
+    "lon": "20.595"
+  },
+  "metadata": {},
+  "source": {}
+}

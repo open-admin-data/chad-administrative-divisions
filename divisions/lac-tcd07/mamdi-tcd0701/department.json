@@ -1,0 +1,47 @@
+{
+  "id": "TCD0701",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mamdi",
+    "en": "Mamdi",
+    "slug": "mamdi-tcd0701"
+  },
+  "code": {
+    "id": "TCD0701",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD07",
+    "level": 1,
+    "name": {
+      "local": "LAC",
+      "en": "LAC",
+      "slug": "lac-tcd07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD07",
+      "level": 1,
+      "name": {
+        "local": "LAC",
+        "en": "LAC",
+        "slug": "lac-tcd07"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.289",
+    "lon": "14.528"
+  },
+  "metadata": {},
+  "source": {}
+}

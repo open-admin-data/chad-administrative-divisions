@@ -1,0 +1,704 @@
+[
+  {
+    "id": "TCD0801_bah",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bah",
+      "en": "Bah",
+      "slug": "bah"
+    },
+    "code": {
+      "id": "TCD0801_bah",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_bao",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bao",
+      "en": "Bao",
+      "slug": "bao"
+    },
+    "code": {
+      "id": "TCD0801_bao",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_biramanda",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Biramanda",
+      "en": "Biramanda",
+      "slug": "biramanda"
+    },
+    "code": {
+      "id": "TCD0801_biramanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_dadjile",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dadjile",
+      "en": "Dadjile",
+      "slug": "dadjile"
+    },
+    "code": {
+      "id": "TCD0801_dadjile",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_deli",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Deli",
+      "en": "Deli",
+      "slug": "deli"
+    },
+    "code": {
+      "id": "TCD0801_deli",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_dodinda",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dodinda",
+      "en": "Dodinda",
+      "slug": "dodinda"
+    },
+    "code": {
+      "id": "TCD0801_dodinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_kaga",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaga",
+      "en": "Kaga",
+      "slug": "kaga"
+    },
+    "code": {
+      "id": "TCD0801_kaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_krim-krim",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Krim-Krim",
+      "en": "Krim-Krim",
+      "slug": "krim-krim"
+    },
+    "code": {
+      "id": "TCD0801_krim-krim",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_mbalkabra",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mbalkabra",
+      "en": "Mbalkabra",
+      "slug": "mbalkabra"
+    },
+    "code": {
+      "id": "TCD0801_mbalkabra",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_mballa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mballa",
+      "en": "Mballa",
+      "slug": "mballa"
+    },
+    "code": {
+      "id": "TCD0801_mballa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_moundoukoutou",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moundou/Koutou",
+      "en": "Moundou/Koutou",
+      "slug": "moundoukoutou"
+    },
+    "code": {
+      "id": "TCD0801_moundoukoutou",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_ngondong",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ngondong",
+      "en": "Ngondong",
+      "slug": "ngondong"
+    },
+    "code": {
+      "id": "TCD0801_ngondong",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0801_tagoro",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tagoro",
+      "en": "Tagoro",
+      "slug": "tagoro"
+    },
+    "code": {
+      "id": "TCD0801_tagoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0801",
+      "level": 2,
+      "name": {
+        "local": "Lac wey",
+        "en": "Lac wey",
+        "slug": "lac-wey-tcd0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0801",
+        "level": 2,
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "15.978"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

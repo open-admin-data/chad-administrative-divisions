@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD1102,La kabbia,La kabbia,la-kabbia-tcd1102,TCD1102,7,9.524,15.378
+TCD1101,Mayo Boneye,Mayo Boneye,mayo-boneye-tcd1101,TCD1101,15,10.254,15.78
+TCD1103,Mayo Lemyé,Mayo Lemyé,mayo-lemy-tcd1103,TCD1103,0,10.859,15.397
+TCD1104,Mont Illi,Mont Illi,mont-illi-tcd1104,TCD1104,6,9.769,15.058

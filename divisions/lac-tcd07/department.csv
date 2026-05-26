@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD0704,Fouli,Fouli,fouli-tcd0704,TCD0704,0,14.025,14.04
+TCD0703,Kaya,Kaya,kaya-tcd0703,TCD0703,0,13.485,14.306
+TCD0701,Mamdi,Mamdi,mamdi-tcd0701,TCD0701,1,13.289,14.528
+TCD0702,Wayi,Wayi,wayi-tcd0702,TCD0702,1,13.418,15.248

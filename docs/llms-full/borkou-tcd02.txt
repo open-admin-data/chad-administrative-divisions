@@ -1,0 +1,23 @@
+# BORKOU — Chad Administrative Divisions
+
+> 2 departments, 1 sub-prefectures
+> Code: TCD02
+> Coordinates: 17.078, 18.087
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Borkou
+
+Code: TCD0201, Coordinates: 16.487, 18.973
+Sub-prefectures: 1
+
+#### Borkou
+
+Code: TCD0201_borkou, Coordinates: 16.487, 18.973
+
+### Borkou Yala
+
+Code: TCD0202, Coordinates: 17.324, 17.098
+Sub-prefectures: 0
+

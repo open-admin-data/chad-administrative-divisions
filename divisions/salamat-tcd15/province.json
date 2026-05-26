@@ -1,0 +1,30 @@
+{
+  "id": "TCD15",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "SALAMAT",
+    "en": "SALAMAT",
+    "slug": "salamat-tcd15"
+  },
+  "code": {
+    "id": "TCD15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sous_prefecture": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.626",
+    "lon": "20.718"
+  },
+  "metadata": {},
+  "source": {}
+}

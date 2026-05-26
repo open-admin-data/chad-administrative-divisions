@@ -1,0 +1,47 @@
+{
+  "id": "TCD0503",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Haraze Al Biar",
+    "en": "Haraze Al Biar",
+    "slug": "haraze-al-biar-tcd0503"
+  },
+  "code": {
+    "id": "TCD0503",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD05",
+    "level": 1,
+    "name": {
+      "local": "HADJER LAMIS",
+      "en": "HADJER LAMIS",
+      "slug": "hadjer-lamis-tcd05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD05",
+      "level": 1,
+      "name": {
+        "local": "HADJER LAMIS",
+        "en": "HADJER LAMIS",
+        "slug": "hadjer-lamis-tcd05"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.596",
+    "lon": "15.045"
+  },
+  "metadata": {},
+  "source": {}
+}

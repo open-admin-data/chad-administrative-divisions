@@ -1,0 +1,30 @@
+{
+  "id": "TCD13",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "MOYEN CHARI",
+    "en": "MOYEN CHARI",
+    "slug": "moyen-chari-tcd13"
+  },
+  "code": {
+    "id": "TCD13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sous_prefecture": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.315",
+    "lon": "18.866"
+  },
+  "metadata": {},
+  "source": {}
+}

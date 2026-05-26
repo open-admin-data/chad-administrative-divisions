@@ -1,0 +1,47 @@
+{
+  "id": "TCD1902",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Barh El Gazel Nord",
+    "en": "Barh El Gazel Nord",
+    "slug": "barh-el-gazel-nord-tcd1902"
+  },
+  "code": {
+    "id": "TCD1902",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD19",
+    "level": 1,
+    "name": {
+      "local": "BARH EL GAZEL",
+      "en": "BARH EL GAZEL",
+      "slug": "barh-el-gazel-tcd19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD19",
+      "level": 1,
+      "name": {
+        "local": "BARH EL GAZEL",
+        "en": "BARH EL GAZEL",
+        "slug": "barh-el-gazel-tcd19"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.773",
+    "lon": "17.015"
+  },
+  "metadata": {},
+  "source": {}
+}

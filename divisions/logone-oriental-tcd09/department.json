@@ -1,0 +1,284 @@
+[
+  {
+    "id": "TCD0902",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Kouh Est",
+      "en": "Kouh Est",
+      "slug": "kouh-est-tcd0902"
+    },
+    "code": {
+      "id": "TCD0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD09",
+      "level": 1,
+      "name": {
+        "local": "LOGONE ORIENTAL",
+        "en": "LOGONE ORIENTAL",
+        "slug": "logone-oriental-tcd09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.369",
+      "lon": "17.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0903",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Kouh Ouest",
+      "en": "Kouh Ouest",
+      "slug": "kouh-ouest-tcd0903"
+    },
+    "code": {
+      "id": "TCD0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD09",
+      "level": 1,
+      "name": {
+        "local": "LOGONE ORIENTAL",
+        "en": "LOGONE ORIENTAL",
+        "slug": "logone-oriental-tcd09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.182",
+      "lon": "16.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0904",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "La nya",
+      "en": "La nya",
+      "slug": "la-nya-tcd0904"
+    },
+    "code": {
+      "id": "TCD0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD09",
+      "level": 1,
+      "name": {
+        "local": "LOGONE ORIENTAL",
+        "en": "LOGONE ORIENTAL",
+        "slug": "logone-oriental-tcd09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.562",
+      "lon": "16.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0905",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "La Nya pendé",
+      "en": "La Nya pendé",
+      "slug": "la-nya-pend-tcd0905"
+    },
+    "code": {
+      "id": "TCD0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD09",
+      "level": 1,
+      "name": {
+        "local": "LOGONE ORIENTAL",
+        "en": "LOGONE ORIENTAL",
+        "slug": "logone-oriental-tcd09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "16.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0901",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "La pendé",
+      "en": "La pendé",
+      "slug": "la-pend-tcd0901"
+    },
+    "code": {
+      "id": "TCD0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD09",
+      "level": 1,
+      "name": {
+        "local": "LOGONE ORIENTAL",
+        "en": "LOGONE ORIENTAL",
+        "slug": "logone-oriental-tcd09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "16.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0906",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Monts de lam",
+      "en": "Monts de lam",
+      "slug": "monts-de-lam-tcd0906"
+    },
+    "code": {
+      "id": "TCD0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD09",
+      "level": 1,
+      "name": {
+        "local": "LOGONE ORIENTAL",
+        "en": "LOGONE ORIENTAL",
+        "slug": "logone-oriental-tcd09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "15.848"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

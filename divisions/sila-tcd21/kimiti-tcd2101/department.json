@@ -1,0 +1,47 @@
+{
+  "id": "TCD2101",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Kimiti",
+    "en": "Kimiti",
+    "slug": "kimiti-tcd2101"
+  },
+  "code": {
+    "id": "TCD2101",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD21",
+    "level": 1,
+    "name": {
+      "local": "SILA",
+      "en": "SILA",
+      "slug": "sila-tcd21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD21",
+      "level": 1,
+      "name": {
+        "local": "SILA",
+        "en": "SILA",
+        "slug": "sila-tcd21"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.88",
+    "lon": "21.875"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,920 @@
+[
+  {
+    "id": "TCD1601_darbe",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Darbe",
+      "en": "Darbe",
+      "slug": "darbe"
+    },
+    "code": {
+      "id": "TCD1601_darbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_deressia",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Deressia",
+      "en": "Deressia",
+      "slug": "deressia"
+    },
+    "code": {
+      "id": "TCD1601_deressia",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_dormon",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dormon",
+      "en": "Dormon",
+      "slug": "dormon"
+    },
+    "code": {
+      "id": "TCD1601_dormon",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_gabri-ngolo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gabri-Ngolo",
+      "en": "Gabri-Ngolo",
+      "slug": "gabri-ngolo"
+    },
+    "code": {
+      "id": "TCD1601_gabri-ngolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_goulaye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Goulaye",
+      "en": "Goulaye",
+      "slug": "goulaye"
+    },
+    "code": {
+      "id": "TCD1601_goulaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_kabalaye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kabalaye",
+      "en": "Kabalaye",
+      "slug": "kabalaye"
+    },
+    "code": {
+      "id": "TCD1601_kabalaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_kariade-boum",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kariade-Boum",
+      "en": "Kariade-Boum",
+      "slug": "kariade-boum"
+    },
+    "code": {
+      "id": "TCD1601_kariade-boum",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_kimre",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kimre",
+      "en": "Kimre",
+      "slug": "kimre"
+    },
+    "code": {
+      "id": "TCD1601_kimre",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_koro-tchad",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koro-Tchad",
+      "en": "Koro-Tchad",
+      "slug": "koro-tchad"
+    },
+    "code": {
+      "id": "TCD1601_koro-tchad",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_lai",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lai",
+      "en": "Lai",
+      "slug": "lai"
+    },
+    "code": {
+      "id": "TCD1601_lai",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_mouroum-touloum",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mouroum-Touloum",
+      "en": "Mouroum-Touloum",
+      "slug": "mouroum-touloum"
+    },
+    "code": {
+      "id": "TCD1601_mouroum-touloum",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_ndam",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ndam",
+      "en": "Ndam",
+      "slug": "ndam"
+    },
+    "code": {
+      "id": "TCD1601_ndam",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_ngamongo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ngamongo",
+      "en": "Ngamongo",
+      "slug": "ngamongo"
+    },
+    "code": {
+      "id": "TCD1601_ngamongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_ninga",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ninga",
+      "en": "Ninga",
+      "slug": "ninga"
+    },
+    "code": {
+      "id": "TCD1601_ninga",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_soumraye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Soumraye",
+      "en": "Soumraye",
+      "slug": "soumraye"
+    },
+    "code": {
+      "id": "TCD1601_soumraye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_tchaguine-ngolo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tchaguine-Ngolo",
+      "en": "Tchaguine-Ngolo",
+      "slug": "tchaguine-ngolo"
+    },
+    "code": {
+      "id": "TCD1601_tchaguine-ngolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1601_tchedoum",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tchedoum",
+      "en": "Tchedoum",
+      "slug": "tchedoum"
+    },
+    "code": {
+      "id": "TCD1601_tchedoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1601",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Est",
+        "en": "Tandjilé Est",
+        "slug": "tandjil-est-tcd1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1601",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.657",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

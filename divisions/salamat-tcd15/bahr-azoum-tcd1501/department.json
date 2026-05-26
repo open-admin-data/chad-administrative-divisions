@@ -1,0 +1,47 @@
+{
+  "id": "TCD1501",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bahr Azoum",
+    "en": "Bahr Azoum",
+    "slug": "bahr-azoum-tcd1501"
+  },
+  "code": {
+    "id": "TCD1501",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD15",
+    "level": 1,
+    "name": {
+      "local": "SALAMAT",
+      "en": "SALAMAT",
+      "slug": "salamat-tcd15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD15",
+      "level": 1,
+      "name": {
+        "local": "SALAMAT",
+        "en": "SALAMAT",
+        "slug": "salamat-tcd15"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.974",
+    "lon": "20.373"
+  },
+  "metadata": {},
+  "source": {}
+}

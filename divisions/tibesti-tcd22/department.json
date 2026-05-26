@@ -1,0 +1,96 @@
+[
+  {
+    "id": "TCD2201",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tibesti Est",
+      "en": "Tibesti Est",
+      "slug": "tibesti-est-tcd2201"
+    },
+    "code": {
+      "id": "TCD2201",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD22",
+      "level": 1,
+      "name": {
+        "local": "TIBESTI",
+        "en": "TIBESTI",
+        "slug": "tibesti-tcd22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD22",
+        "level": 1,
+        "name": {
+          "local": "TIBESTI",
+          "en": "TIBESTI",
+          "slug": "tibesti-tcd22"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.775",
+      "lon": "19.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD2202",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tibesti Ouest",
+      "en": "Tibesti Ouest",
+      "slug": "tibesti-ouest-tcd2202"
+    },
+    "code": {
+      "id": "TCD2202",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD22",
+      "level": 1,
+      "name": {
+        "local": "TIBESTI",
+        "en": "TIBESTI",
+        "slug": "tibesti-tcd22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD22",
+        "level": 1,
+        "name": {
+          "local": "TIBESTI",
+          "en": "TIBESTI",
+          "slug": "tibesti-tcd22"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.144",
+      "lon": "16.575"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

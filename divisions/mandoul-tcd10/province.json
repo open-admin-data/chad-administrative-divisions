@@ -1,0 +1,30 @@
+{
+  "id": "TCD10",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "MANDOUL",
+    "en": "MANDOUL",
+    "slug": "mandoul-tcd10"
+  },
+  "code": {
+    "id": "TCD10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sous_prefecture": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.734",
+    "lon": "17.588"
+  },
+  "metadata": {},
+  "source": {}
+}

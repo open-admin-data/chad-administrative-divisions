@@ -1,0 +1,326 @@
+[
+  {
+    "id": "TCD0502_amladoba",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Amladoba",
+      "en": "Amladoba",
+      "slug": "amladoba"
+    },
+    "code": {
+      "id": "TCD0502_amladoba",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0502",
+      "level": 2,
+      "name": {
+        "local": "Dababa",
+        "en": "Dababa",
+        "slug": "dababa-tcd0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD05",
+        "level": 1,
+        "name": {
+          "local": "HADJER LAMIS",
+          "en": "HADJER LAMIS",
+          "slug": "hadjer-lamis-tcd05"
+        }
+      },
+      {
+        "id": "TCD0502",
+        "level": 2,
+        "name": {
+          "local": "Dababa",
+          "en": "Dababa",
+          "slug": "dababa-tcd0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.314",
+      "lon": "16.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0502_bokorotania",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bokoro/Tania",
+      "en": "Bokoro/Tania",
+      "slug": "bokorotania"
+    },
+    "code": {
+      "id": "TCD0502_bokorotania",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0502",
+      "level": 2,
+      "name": {
+        "local": "Dababa",
+        "en": "Dababa",
+        "slug": "dababa-tcd0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD05",
+        "level": 1,
+        "name": {
+          "local": "HADJER LAMIS",
+          "en": "HADJER LAMIS",
+          "slug": "hadjer-lamis-tcd05"
+        }
+      },
+      {
+        "id": "TCD0502",
+        "level": 2,
+        "name": {
+          "local": "Dababa",
+          "en": "Dababa",
+          "slug": "dababa-tcd0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.314",
+      "lon": "16.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0502_dababa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dababa",
+      "en": "Dababa",
+      "slug": "dababa"
+    },
+    "code": {
+      "id": "TCD0502_dababa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0502",
+      "level": 2,
+      "name": {
+        "local": "Dababa",
+        "en": "Dababa",
+        "slug": "dababa-tcd0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD05",
+        "level": 1,
+        "name": {
+          "local": "HADJER LAMIS",
+          "en": "HADJER LAMIS",
+          "slug": "hadjer-lamis-tcd05"
+        }
+      },
+      {
+        "id": "TCD0502",
+        "level": 2,
+        "name": {
+          "local": "Dababa",
+          "en": "Dababa",
+          "slug": "dababa-tcd0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.314",
+      "lon": "16.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0502_mayakne",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mayakne",
+      "en": "Mayakne",
+      "slug": "mayakne"
+    },
+    "code": {
+      "id": "TCD0502_mayakne",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0502",
+      "level": 2,
+      "name": {
+        "local": "Dababa",
+        "en": "Dababa",
+        "slug": "dababa-tcd0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD05",
+        "level": 1,
+        "name": {
+          "local": "HADJER LAMIS",
+          "en": "HADJER LAMIS",
+          "slug": "hadjer-lamis-tcd05"
+        }
+      },
+      {
+        "id": "TCD0502",
+        "level": 2,
+        "name": {
+          "local": "Dababa",
+          "en": "Dababa",
+          "slug": "dababa-tcd0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.314",
+      "lon": "16.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0502_moito",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moito",
+      "en": "Moito",
+      "slug": "moito"
+    },
+    "code": {
+      "id": "TCD0502_moito",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0502",
+      "level": 2,
+      "name": {
+        "local": "Dababa",
+        "en": "Dababa",
+        "slug": "dababa-tcd0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD05",
+        "level": 1,
+        "name": {
+          "local": "HADJER LAMIS",
+          "en": "HADJER LAMIS",
+          "slug": "hadjer-lamis-tcd05"
+        }
+      },
+      {
+        "id": "TCD0502",
+        "level": 2,
+        "name": {
+          "local": "Dababa",
+          "en": "Dababa",
+          "slug": "dababa-tcd0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.314",
+      "lon": "16.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0502_yessiengama",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yessie/Ngama",
+      "en": "Yessie/Ngama",
+      "slug": "yessiengama"
+    },
+    "code": {
+      "id": "TCD0502_yessiengama",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0502",
+      "level": 2,
+      "name": {
+        "local": "Dababa",
+        "en": "Dababa",
+        "slug": "dababa-tcd0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD05",
+        "level": 1,
+        "name": {
+          "local": "HADJER LAMIS",
+          "en": "HADJER LAMIS",
+          "slug": "hadjer-lamis-tcd05"
+        }
+      },
+      {
+        "id": "TCD0502",
+        "level": 2,
+        "name": {
+          "local": "Dababa",
+          "en": "Dababa",
+          "slug": "dababa-tcd0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.314",
+      "lon": "16.877"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

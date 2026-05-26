@@ -1,0 +1,47 @@
+{
+  "id": "TCD0804",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Ngourkosso",
+    "en": "Ngourkosso",
+    "slug": "ngourkosso-tcd0804"
+  },
+  "code": {
+    "id": "TCD0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD08",
+    "level": 1,
+    "name": {
+      "local": "LOGONE OCCIDENTAL",
+      "en": "LOGONE OCCIDENTAL",
+      "slug": "logone-occidental-tcd08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD08",
+      "level": 1,
+      "name": {
+        "local": "LOGONE OCCIDENTAL",
+        "en": "LOGONE OCCIDENTAL",
+        "slug": "logone-occidental-tcd08"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.971",
+    "lon": "16.327"
+  },
+  "metadata": {},
+  "source": {}
+}

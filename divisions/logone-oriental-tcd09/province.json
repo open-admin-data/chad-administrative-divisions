@@ -1,0 +1,30 @@
+{
+  "id": "TCD09",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "LOGONE ORIENTAL",
+    "en": "LOGONE ORIENTAL",
+    "slug": "logone-oriental-tcd09"
+  },
+  "code": {
+    "id": "TCD09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 6,
+    "sous_prefecture": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.304",
+    "lon": "16.463"
+  },
+  "metadata": {},
+  "source": {}
+}

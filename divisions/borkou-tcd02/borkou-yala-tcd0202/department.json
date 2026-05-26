@@ -1,0 +1,47 @@
+{
+  "id": "TCD0202",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Borkou Yala",
+    "en": "Borkou Yala",
+    "slug": "borkou-yala-tcd0202"
+  },
+  "code": {
+    "id": "TCD0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD02",
+    "level": 1,
+    "name": {
+      "local": "BORKOU",
+      "en": "BORKOU",
+      "slug": "borkou-tcd02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD02",
+      "level": 1,
+      "name": {
+        "local": "BORKOU",
+        "en": "BORKOU",
+        "slug": "borkou-tcd02"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.324",
+    "lon": "17.098"
+  },
+  "metadata": {},
+  "source": {}
+}

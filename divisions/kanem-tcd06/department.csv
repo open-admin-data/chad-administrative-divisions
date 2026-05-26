@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD0601,Kanem,Kanem,kanem-tcd0601,TCD0601,8,14.099,15.189
+TCD0602,Nord Kanem,Nord Kanem,nord-kanem-tcd0602,TCD0602,3,15.294,15.314
+TCD0603,Wadi Bissam,Wadi Bissam,wadi-bissam-tcd0603,TCD0603,0,13.523,15.691

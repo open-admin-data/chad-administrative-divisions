@@ -1,0 +1,47 @@
+{
+  "id": "TCD1203",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mayo Binder",
+    "en": "Mayo Binder",
+    "slug": "mayo-binder-tcd1203"
+  },
+  "code": {
+    "id": "TCD1203",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD12",
+    "level": 1,
+    "name": {
+      "local": "MAYO KEBBI OUEST",
+      "en": "MAYO KEBBI OUEST",
+      "slug": "mayo-kebbi-ouest-tcd12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD12",
+      "level": 1,
+      "name": {
+        "local": "MAYO KEBBI OUEST",
+        "en": "MAYO KEBBI OUEST",
+        "slug": "mayo-kebbi-ouest-tcd12"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.844",
+    "lon": "14.483"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "TCD1501_am-timan",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Am-Timan",
+      "en": "Am-Timan",
+      "slug": "am-timan"
+    },
+    "code": {
+      "id": "TCD1501_am-timan",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1501",
+      "level": 2,
+      "name": {
+        "local": "Bahr Azoum",
+        "en": "Bahr Azoum",
+        "slug": "bahr-azoum-tcd1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1501",
+        "level": 2,
+        "name": {
+          "local": "Bahr Azoum",
+          "en": "Bahr Azoum",
+          "slug": "bahr-azoum-tcd1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.974",
+      "lon": "20.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1501_barh-azoum-am-timan",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Barh-Azoum-Am-Timan",
+      "en": "Barh-Azoum-Am-Timan",
+      "slug": "barh-azoum-am-timan"
+    },
+    "code": {
+      "id": "TCD1501_barh-azoum-am-timan",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1501",
+      "level": 2,
+      "name": {
+        "local": "Bahr Azoum",
+        "en": "Bahr Azoum",
+        "slug": "bahr-azoum-tcd1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1501",
+        "level": 2,
+        "name": {
+          "local": "Bahr Azoum",
+          "en": "Bahr Azoum",
+          "slug": "bahr-azoum-tcd1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.974",
+      "lon": "20.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1501_dagal",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dagal",
+      "en": "Dagal",
+      "slug": "dagal"
+    },
+    "code": {
+      "id": "TCD1501_dagal",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1501",
+      "level": 2,
+      "name": {
+        "local": "Bahr Azoum",
+        "en": "Bahr Azoum",
+        "slug": "bahr-azoum-tcd1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1501",
+        "level": 2,
+        "name": {
+          "local": "Bahr Azoum",
+          "en": "Bahr Azoum",
+          "slug": "bahr-azoum-tcd1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.974",
+      "lon": "20.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1501_dar-salim",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dar-Salim",
+      "en": "Dar-Salim",
+      "slug": "dar-salim"
+    },
+    "code": {
+      "id": "TCD1501_dar-salim",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1501",
+      "level": 2,
+      "name": {
+        "local": "Bahr Azoum",
+        "en": "Bahr Azoum",
+        "slug": "bahr-azoum-tcd1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1501",
+        "level": 2,
+        "name": {
+          "local": "Bahr Azoum",
+          "en": "Bahr Azoum",
+          "slug": "bahr-azoum-tcd1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.974",
+      "lon": "20.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1501_hemat-am-timan",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Hemat-Am-Timan",
+      "en": "Hemat-Am-Timan",
+      "slug": "hemat-am-timan"
+    },
+    "code": {
+      "id": "TCD1501_hemat-am-timan",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1501",
+      "level": 2,
+      "name": {
+        "local": "Bahr Azoum",
+        "en": "Bahr Azoum",
+        "slug": "bahr-azoum-tcd1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1501",
+        "level": 2,
+        "name": {
+          "local": "Bahr Azoum",
+          "en": "Bahr Azoum",
+          "slug": "bahr-azoum-tcd1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.974",
+      "lon": "20.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1501_kibet-angreb",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kibet-Angreb",
+      "en": "Kibet-Angreb",
+      "slug": "kibet-angreb"
+    },
+    "code": {
+      "id": "TCD1501_kibet-angreb",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1501",
+      "level": 2,
+      "name": {
+        "local": "Bahr Azoum",
+        "en": "Bahr Azoum",
+        "slug": "bahr-azoum-tcd1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1501",
+        "level": 2,
+        "name": {
+          "local": "Bahr Azoum",
+          "en": "Bahr Azoum",
+          "slug": "bahr-azoum-tcd1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.974",
+      "lon": "20.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1501_kibet-soum-soum",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kibet-Soum-Soum",
+      "en": "Kibet-Soum-Soum",
+      "slug": "kibet-soum-soum"
+    },
+    "code": {
+      "id": "TCD1501_kibet-soum-soum",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1501",
+      "level": 2,
+      "name": {
+        "local": "Bahr Azoum",
+        "en": "Bahr Azoum",
+        "slug": "bahr-azoum-tcd1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1501",
+        "level": 2,
+        "name": {
+          "local": "Bahr Azoum",
+          "en": "Bahr Azoum",
+          "slug": "bahr-azoum-tcd1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.974",
+      "lon": "20.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1501_salamat-am-timan",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Salamat-Am-Timan",
+      "en": "Salamat-Am-Timan",
+      "slug": "salamat-am-timan"
+    },
+    "code": {
+      "id": "TCD1501_salamat-am-timan",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1501",
+      "level": 2,
+      "name": {
+        "local": "Bahr Azoum",
+        "en": "Bahr Azoum",
+        "slug": "bahr-azoum-tcd1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1501",
+        "level": 2,
+        "name": {
+          "local": "Bahr Azoum",
+          "en": "Bahr Azoum",
+          "slug": "bahr-azoum-tcd1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.974",
+      "lon": "20.373"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

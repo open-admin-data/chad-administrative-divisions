@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TCD0802_beinamar",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Beinamar",
+      "en": "Beinamar",
+      "slug": "beinamar"
+    },
+    "code": {
+      "id": "TCD0802_beinamar",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0802",
+      "level": 2,
+      "name": {
+        "local": "Djode",
+        "en": "Djode",
+        "slug": "djode-tcd0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0802",
+        "level": 2,
+        "name": {
+          "local": "Djode",
+          "en": "Djode",
+          "slug": "djode-tcd0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.681",
+      "lon": "15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0802_beissa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Beissa",
+      "en": "Beissa",
+      "slug": "beissa"
+    },
+    "code": {
+      "id": "TCD0802_beissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0802",
+      "level": 2,
+      "name": {
+        "local": "Djode",
+        "en": "Djode",
+        "slug": "djode-tcd0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0802",
+        "level": 2,
+        "name": {
+          "local": "Djode",
+          "en": "Djode",
+          "slug": "djode-tcd0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.681",
+      "lon": "15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0802_lao-kassi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lao-Kassi",
+      "en": "Lao-Kassi",
+      "slug": "lao-kassi"
+    },
+    "code": {
+      "id": "TCD0802_lao-kassi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0802",
+      "level": 2,
+      "name": {
+        "local": "Djode",
+        "en": "Djode",
+        "slug": "djode-tcd0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0802",
+        "level": 2,
+        "name": {
+          "local": "Djode",
+          "en": "Djode",
+          "slug": "djode-tcd0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.681",
+      "lon": "15.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0802_tapol",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tapol",
+      "en": "Tapol",
+      "slug": "tapol"
+    },
+    "code": {
+      "id": "TCD0802_tapol",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0802",
+      "level": 2,
+      "name": {
+        "local": "Djode",
+        "en": "Djode",
+        "slug": "djode-tcd0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0802",
+        "level": 2,
+        "name": {
+          "local": "Djode",
+          "en": "Djode",
+          "slug": "djode-tcd0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.681",
+      "lon": "15.509"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,68 @@
+# CHARI BAGUIRMI — Chad Administrative Divisions
+
+> 3 departments, 11 sub-prefectures
+> Code: TCD03
+> Coordinates: 11.103, 16.375
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Baguirmi
+
+Code: TCD0301, Coordinates: 11.436, 16.352
+Sub-prefectures: 7
+
+#### Batha-Lairi
+
+Code: TCD0301_batha-lairi, Coordinates: 11.436, 16.352
+
+#### Bougoumene
+
+Code: TCD0301_bougoumene, Coordinates: 11.436, 16.352
+
+#### Deredia
+
+Code: TCD0301_deredia, Coordinates: 11.436, 16.352
+
+#### Dourbali/Abouguerne
+
+Code: TCD0301_dourbaliabouguerne, Coordinates: 11.436, 16.352
+
+#### Mai-Ache
+
+Code: TCD0301_mai-ache, Coordinates: 11.436, 16.352
+
+#### Mandjafa
+
+Code: TCD0301_mandjafa, Coordinates: 11.436, 16.352
+
+#### Massenya
+
+Code: TCD0301_massenya, Coordinates: 11.436, 16.352
+
+### Chari
+
+Code: TCD0302, Coordinates: 11.729, 15.23
+Sub-prefectures: 0
+
+### Loug Chari
+
+Code: TCD0303, Coordinates: 10.458, 16.827
+Sub-prefectures: 4
+
+#### Ba-Illi
+
+Code: TCD0303_ba-illi, Coordinates: 10.458, 16.827
+
+#### Bogomoro
+
+Code: TCD0303_bogomoro, Coordinates: 10.458, 16.827
+
+#### Bousso
+
+Code: TCD0303_bousso, Coordinates: 10.458, 16.827
+
+#### Miltou-Gourgara
+
+Code: TCD0303_miltou-gourgara, Coordinates: 10.458, 16.827
+

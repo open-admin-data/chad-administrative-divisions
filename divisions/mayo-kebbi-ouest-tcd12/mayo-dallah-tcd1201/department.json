@@ -1,0 +1,47 @@
+{
+  "id": "TCD1201",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mayo Dallah",
+    "en": "Mayo Dallah",
+    "slug": "mayo-dallah-tcd1201"
+  },
+  "code": {
+    "id": "TCD1201",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD12",
+    "level": 1,
+    "name": {
+      "local": "MAYO KEBBI OUEST",
+      "en": "MAYO KEBBI OUEST",
+      "slug": "mayo-kebbi-ouest-tcd12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD12",
+      "level": 1,
+      "name": {
+        "local": "MAYO KEBBI OUEST",
+        "en": "MAYO KEBBI OUEST",
+        "slug": "mayo-kebbi-ouest-tcd12"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.079",
+    "lon": "14.958"
+  },
+  "metadata": {},
+  "source": {}
+}

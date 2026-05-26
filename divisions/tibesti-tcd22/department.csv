@@ -1,0 +1,3 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD2201,Tibesti Est,Tibesti Est,tibesti-est-tcd2201,TCD2201,1,20.775,19.004
+TCD2202,Tibesti Ouest,Tibesti Ouest,tibesti-ouest-tcd2202,TCD2202,0,20.144,16.575

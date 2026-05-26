@@ -1,0 +1,49 @@
+[
+  {
+    "id": "TCD1801",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "N'Djamena",
+      "en": "N'Djamena",
+      "slug": "ndjamena-tcd1801"
+    },
+    "code": {
+      "id": "TCD1801",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD18",
+      "level": 1,
+      "name": {
+        "local": "N'DJAMENA",
+        "en": "N'DJAMENA",
+        "slug": "ndjamena-tcd18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD18",
+        "level": 1,
+        "name": {
+          "local": "N'DJAMENA",
+          "en": "N'DJAMENA",
+          "slug": "ndjamena-tcd18"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.125",
+      "lon": "15.048"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

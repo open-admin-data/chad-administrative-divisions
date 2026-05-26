@@ -1,0 +1,380 @@
+[
+  {
+    "id": "TCD0401_daguela",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Daguela",
+      "en": "Daguela",
+      "slug": "daguela"
+    },
+    "code": {
+      "id": "TCD0401_daguela",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0401",
+      "level": 2,
+      "name": {
+        "local": "Guéra",
+        "en": "Guéra",
+        "slug": "gura-tcd0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0401",
+        "level": 2,
+        "name": {
+          "local": "Guéra",
+          "en": "Guéra",
+          "slug": "gura-tcd0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.997",
+      "lon": "18.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0401_dekakire",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dekakire",
+      "en": "Dekakire",
+      "slug": "dekakire"
+    },
+    "code": {
+      "id": "TCD0401_dekakire",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0401",
+      "level": 2,
+      "name": {
+        "local": "Guéra",
+        "en": "Guéra",
+        "slug": "gura-tcd0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0401",
+        "level": 2,
+        "name": {
+          "local": "Guéra",
+          "en": "Guéra",
+          "slug": "gura-tcd0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.997",
+      "lon": "18.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0401_gogmi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gogmi",
+      "en": "Gogmi",
+      "slug": "gogmi"
+    },
+    "code": {
+      "id": "TCD0401_gogmi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0401",
+      "level": 2,
+      "name": {
+        "local": "Guéra",
+        "en": "Guéra",
+        "slug": "gura-tcd0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0401",
+        "level": 2,
+        "name": {
+          "local": "Guéra",
+          "en": "Guéra",
+          "slug": "gura-tcd0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.997",
+      "lon": "18.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0401_melfi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Melfi",
+      "en": "Melfi",
+      "slug": "melfi"
+    },
+    "code": {
+      "id": "TCD0401_melfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0401",
+      "level": 2,
+      "name": {
+        "local": "Guéra",
+        "en": "Guéra",
+        "slug": "gura-tcd0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0401",
+        "level": 2,
+        "name": {
+          "local": "Guéra",
+          "en": "Guéra",
+          "slug": "gura-tcd0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.997",
+      "lon": "18.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0401_mokofi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mokofi",
+      "en": "Mokofi",
+      "slug": "mokofi"
+    },
+    "code": {
+      "id": "TCD0401_mokofi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0401",
+      "level": 2,
+      "name": {
+        "local": "Guéra",
+        "en": "Guéra",
+        "slug": "gura-tcd0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0401",
+        "level": 2,
+        "name": {
+          "local": "Guéra",
+          "en": "Guéra",
+          "slug": "gura-tcd0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.997",
+      "lon": "18.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0401_mousmare",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mousmare",
+      "en": "Mousmare",
+      "slug": "mousmare"
+    },
+    "code": {
+      "id": "TCD0401_mousmare",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0401",
+      "level": 2,
+      "name": {
+        "local": "Guéra",
+        "en": "Guéra",
+        "slug": "gura-tcd0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0401",
+        "level": 2,
+        "name": {
+          "local": "Guéra",
+          "en": "Guéra",
+          "slug": "gura-tcd0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.997",
+      "lon": "18.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0401_sorki",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sorki",
+      "en": "Sorki",
+      "slug": "sorki"
+    },
+    "code": {
+      "id": "TCD0401_sorki",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0401",
+      "level": 2,
+      "name": {
+        "local": "Guéra",
+        "en": "Guéra",
+        "slug": "gura-tcd0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0401",
+        "level": 2,
+        "name": {
+          "local": "Guéra",
+          "en": "Guéra",
+          "slug": "gura-tcd0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.997",
+      "lon": "18.876"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

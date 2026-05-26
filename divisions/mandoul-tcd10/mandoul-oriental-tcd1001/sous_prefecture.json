@@ -1,0 +1,488 @@
+[
+  {
+    "id": "TCD1001_bedaya",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bedaya",
+      "en": "Bedaya",
+      "slug": "bedaya"
+    },
+    "code": {
+      "id": "TCD1001_bedaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1001",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Oriental",
+        "en": "Mandoul Oriental",
+        "slug": "mandoul-oriental-tcd1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1001",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Oriental",
+          "en": "Mandoul Oriental",
+          "slug": "mandoul-oriental-tcd1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "17.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1001_bessada",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bessada",
+      "en": "Bessada",
+      "slug": "bessada"
+    },
+    "code": {
+      "id": "TCD1001_bessada",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1001",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Oriental",
+        "en": "Mandoul Oriental",
+        "slug": "mandoul-oriental-tcd1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1001",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Oriental",
+          "en": "Mandoul Oriental",
+          "slug": "mandoul-oriental-tcd1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "17.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1001_dobo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dobo",
+      "en": "Dobo",
+      "slug": "dobo"
+    },
+    "code": {
+      "id": "TCD1001_dobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1001",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Oriental",
+        "en": "Mandoul Oriental",
+        "slug": "mandoul-oriental-tcd1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1001",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Oriental",
+          "en": "Mandoul Oriental",
+          "slug": "mandoul-oriental-tcd1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "17.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1001_goundi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Goundi",
+      "en": "Goundi",
+      "slug": "goundi"
+    },
+    "code": {
+      "id": "TCD1001_goundi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1001",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Oriental",
+        "en": "Mandoul Oriental",
+        "slug": "mandoul-oriental-tcd1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1001",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Oriental",
+          "en": "Mandoul Oriental",
+          "slug": "mandoul-oriental-tcd1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "17.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1001_koumra",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koumra",
+      "en": "Koumra",
+      "slug": "koumra"
+    },
+    "code": {
+      "id": "TCD1001_koumra",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1001",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Oriental",
+        "en": "Mandoul Oriental",
+        "slug": "mandoul-oriental-tcd1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1001",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Oriental",
+          "en": "Mandoul Oriental",
+          "slug": "mandoul-oriental-tcd1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "17.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1001_mahim-toki",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mahim-Toki",
+      "en": "Mahim-Toki",
+      "slug": "mahim-toki"
+    },
+    "code": {
+      "id": "TCD1001_mahim-toki",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1001",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Oriental",
+        "en": "Mandoul Oriental",
+        "slug": "mandoul-oriental-tcd1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1001",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Oriental",
+          "en": "Mandoul Oriental",
+          "slug": "mandoul-oriental-tcd1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "17.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1001_matekaga",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Matekaga",
+      "en": "Matekaga",
+      "slug": "matekaga"
+    },
+    "code": {
+      "id": "TCD1001_matekaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1001",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Oriental",
+        "en": "Mandoul Oriental",
+        "slug": "mandoul-oriental-tcd1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1001",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Oriental",
+          "en": "Mandoul Oriental",
+          "slug": "mandoul-oriental-tcd1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "17.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1001_mouroum-goulaye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mouroum-Goulaye",
+      "en": "Mouroum-Goulaye",
+      "slug": "mouroum-goulaye"
+    },
+    "code": {
+      "id": "TCD1001_mouroum-goulaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1001",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Oriental",
+        "en": "Mandoul Oriental",
+        "slug": "mandoul-oriental-tcd1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1001",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Oriental",
+          "en": "Mandoul Oriental",
+          "slug": "mandoul-oriental-tcd1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "17.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1001_ngangara",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ngangara",
+      "en": "Ngangara",
+      "slug": "ngangara"
+    },
+    "code": {
+      "id": "TCD1001_ngangara",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1001",
+      "level": 2,
+      "name": {
+        "local": "Mandoul Oriental",
+        "en": "Mandoul Oriental",
+        "slug": "mandoul-oriental-tcd1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD10",
+        "level": 1,
+        "name": {
+          "local": "MANDOUL",
+          "en": "MANDOUL",
+          "slug": "mandoul-tcd10"
+        }
+      },
+      {
+        "id": "TCD1001",
+        "level": 2,
+        "name": {
+          "local": "Mandoul Oriental",
+          "en": "Mandoul Oriental",
+          "slug": "mandoul-oriental-tcd1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "17.688"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "TCD04",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "GUÉRA",
+    "en": "GUÉRA",
+    "slug": "gura-tcd04"
+  },
+  "code": {
+    "id": "TCD04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sous_prefecture": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.456",
+    "lon": "18.105"
+  },
+  "metadata": {},
+  "source": {}
+}

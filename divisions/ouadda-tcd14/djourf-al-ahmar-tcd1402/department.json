@@ -1,0 +1,47 @@
+{
+  "id": "TCD1402",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Djourf Al Ahmar",
+    "en": "Djourf Al Ahmar",
+    "slug": "djourf-al-ahmar-tcd1402"
+  },
+  "code": {
+    "id": "TCD1402",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD14",
+    "level": 1,
+    "name": {
+      "local": "OUADDAÏ",
+      "en": "OUADDAÏ",
+      "slug": "ouadda-tcd14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD14",
+      "level": 1,
+      "name": {
+        "local": "OUADDAÏ",
+        "en": "OUADDAÏ",
+        "slug": "ouadda-tcd14"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.324",
+    "lon": "20.597"
+  },
+  "metadata": {},
+  "source": {}
+}

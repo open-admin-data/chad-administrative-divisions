@@ -1,0 +1,47 @@
+{
+  "id": "TCD0901",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "La pendé",
+    "en": "La pendé",
+    "slug": "la-pend-tcd0901"
+  },
+  "code": {
+    "id": "TCD0901",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD09",
+    "level": 1,
+    "name": {
+      "local": "LOGONE ORIENTAL",
+      "en": "LOGONE ORIENTAL",
+      "slug": "logone-oriental-tcd09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD09",
+      "level": 1,
+      "name": {
+        "local": "LOGONE ORIENTAL",
+        "en": "LOGONE ORIENTAL",
+        "slug": "logone-oriental-tcd09"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.857",
+    "lon": "16.939"
+  },
+  "metadata": {},
+  "source": {}
+}

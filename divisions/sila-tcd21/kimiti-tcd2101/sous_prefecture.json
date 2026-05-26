@@ -1,0 +1,488 @@
+[
+  {
+    "id": "TCD2101_barh-azoum-goz-beida",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Barh-Azoum-Goz-Beida",
+      "en": "Barh-Azoum-Goz-Beida",
+      "slug": "barh-azoum-goz-beida"
+    },
+    "code": {
+      "id": "TCD2101_barh-azoum-goz-beida",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD2101",
+      "level": 2,
+      "name": {
+        "local": "Kimiti",
+        "en": "Kimiti",
+        "slug": "kimiti-tcd2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD21",
+        "level": 1,
+        "name": {
+          "local": "SILA",
+          "en": "SILA",
+          "slug": "sila-tcd21"
+        }
+      },
+      {
+        "id": "TCD2101",
+        "level": 2,
+        "name": {
+          "local": "Kimiti",
+          "en": "Kimiti",
+          "slug": "kimiti-tcd2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.88",
+      "lon": "21.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD2101_fongoro",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fongoro",
+      "en": "Fongoro",
+      "slug": "fongoro"
+    },
+    "code": {
+      "id": "TCD2101_fongoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD2101",
+      "level": 2,
+      "name": {
+        "local": "Kimiti",
+        "en": "Kimiti",
+        "slug": "kimiti-tcd2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD21",
+        "level": 1,
+        "name": {
+          "local": "SILA",
+          "en": "SILA",
+          "slug": "sila-tcd21"
+        }
+      },
+      {
+        "id": "TCD2101",
+        "level": 2,
+        "name": {
+          "local": "Kimiti",
+          "en": "Kimiti",
+          "slug": "kimiti-tcd2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.88",
+      "lon": "21.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD2101_goz-beida",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Goz-Beida",
+      "en": "Goz-Beida",
+      "slug": "goz-beida"
+    },
+    "code": {
+      "id": "TCD2101_goz-beida",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD2101",
+      "level": 2,
+      "name": {
+        "local": "Kimiti",
+        "en": "Kimiti",
+        "slug": "kimiti-tcd2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD21",
+        "level": 1,
+        "name": {
+          "local": "SILA",
+          "en": "SILA",
+          "slug": "sila-tcd21"
+        }
+      },
+      {
+        "id": "TCD2101",
+        "level": 2,
+        "name": {
+          "local": "Kimiti",
+          "en": "Kimiti",
+          "slug": "kimiti-tcd2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.88",
+      "lon": "21.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD2101_kadjeske-goz-beida",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kadjeske-Goz-Beida",
+      "en": "Kadjeske-Goz-Beida",
+      "slug": "kadjeske-goz-beida"
+    },
+    "code": {
+      "id": "TCD2101_kadjeske-goz-beida",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD2101",
+      "level": 2,
+      "name": {
+        "local": "Kimiti",
+        "en": "Kimiti",
+        "slug": "kimiti-tcd2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD21",
+        "level": 1,
+        "name": {
+          "local": "SILA",
+          "en": "SILA",
+          "slug": "sila-tcd21"
+        }
+      },
+      {
+        "id": "TCD2101",
+        "level": 2,
+        "name": {
+          "local": "Kimiti",
+          "en": "Kimiti",
+          "slug": "kimiti-tcd2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.88",
+      "lon": "21.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD2101_koloye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koloye",
+      "en": "Koloye",
+      "slug": "koloye"
+    },
+    "code": {
+      "id": "TCD2101_koloye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD2101",
+      "level": 2,
+      "name": {
+        "local": "Kimiti",
+        "en": "Kimiti",
+        "slug": "kimiti-tcd2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD21",
+        "level": 1,
+        "name": {
+          "local": "SILA",
+          "en": "SILA",
+          "slug": "sila-tcd21"
+        }
+      },
+      {
+        "id": "TCD2101",
+        "level": 2,
+        "name": {
+          "local": "Kimiti",
+          "en": "Kimiti",
+          "slug": "kimiti-tcd2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.88",
+      "lon": "21.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD2101_mourro",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mourro",
+      "en": "Mourro",
+      "slug": "mourro"
+    },
+    "code": {
+      "id": "TCD2101_mourro",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD2101",
+      "level": 2,
+      "name": {
+        "local": "Kimiti",
+        "en": "Kimiti",
+        "slug": "kimiti-tcd2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD21",
+        "level": 1,
+        "name": {
+          "local": "SILA",
+          "en": "SILA",
+          "slug": "sila-tcd21"
+        }
+      },
+      {
+        "id": "TCD2101",
+        "level": 2,
+        "name": {
+          "local": "Kimiti",
+          "en": "Kimiti",
+          "slug": "kimiti-tcd2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.88",
+      "lon": "21.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD2101_ouadi-habile",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouadi-Habile",
+      "en": "Ouadi-Habile",
+      "slug": "ouadi-habile"
+    },
+    "code": {
+      "id": "TCD2101_ouadi-habile",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD2101",
+      "level": 2,
+      "name": {
+        "local": "Kimiti",
+        "en": "Kimiti",
+        "slug": "kimiti-tcd2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD21",
+        "level": 1,
+        "name": {
+          "local": "SILA",
+          "en": "SILA",
+          "slug": "sila-tcd21"
+        }
+      },
+      {
+        "id": "TCD2101",
+        "level": 2,
+        "name": {
+          "local": "Kimiti",
+          "en": "Kimiti",
+          "slug": "kimiti-tcd2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.88",
+      "lon": "21.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD2101_ouadi-kadja",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouadi-Kadja",
+      "en": "Ouadi-Kadja",
+      "slug": "ouadi-kadja"
+    },
+    "code": {
+      "id": "TCD2101_ouadi-kadja",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD2101",
+      "level": 2,
+      "name": {
+        "local": "Kimiti",
+        "en": "Kimiti",
+        "slug": "kimiti-tcd2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD21",
+        "level": 1,
+        "name": {
+          "local": "SILA",
+          "en": "SILA",
+          "slug": "sila-tcd21"
+        }
+      },
+      {
+        "id": "TCD2101",
+        "level": 2,
+        "name": {
+          "local": "Kimiti",
+          "en": "Kimiti",
+          "slug": "kimiti-tcd2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.88",
+      "lon": "21.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD2101_signar",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Signar",
+      "en": "Signar",
+      "slug": "signar"
+    },
+    "code": {
+      "id": "TCD2101_signar",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD2101",
+      "level": 2,
+      "name": {
+        "local": "Kimiti",
+        "en": "Kimiti",
+        "slug": "kimiti-tcd2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD21",
+        "level": 1,
+        "name": {
+          "local": "SILA",
+          "en": "SILA",
+          "slug": "sila-tcd21"
+        }
+      },
+      {
+        "id": "TCD2101",
+        "level": 2,
+        "name": {
+          "local": "Kimiti",
+          "en": "Kimiti",
+          "slug": "kimiti-tcd2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.88",
+      "lon": "21.875"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "TCD0906_andoum",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Andoum",
+      "en": "Andoum",
+      "slug": "andoum"
+    },
+    "code": {
+      "id": "TCD0906_andoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0906",
+      "level": 2,
+      "name": {
+        "local": "Monts de lam",
+        "en": "Monts de lam",
+        "slug": "monts-de-lam-tcd0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0906",
+        "level": 2,
+        "name": {
+          "local": "Monts de lam",
+          "en": "Monts de lam",
+          "slug": "monts-de-lam-tcd0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "15.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0906_bessao",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bessao",
+      "en": "Bessao",
+      "slug": "bessao"
+    },
+    "code": {
+      "id": "TCD0906_bessao",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0906",
+      "level": 2,
+      "name": {
+        "local": "Monts de lam",
+        "en": "Monts de lam",
+        "slug": "monts-de-lam-tcd0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0906",
+        "level": 2,
+        "name": {
+          "local": "Monts de lam",
+          "en": "Monts de lam",
+          "slug": "monts-de-lam-tcd0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "15.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0906_gadjibian",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gadjibian",
+      "en": "Gadjibian",
+      "slug": "gadjibian"
+    },
+    "code": {
+      "id": "TCD0906_gadjibian",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0906",
+      "level": 2,
+      "name": {
+        "local": "Monts de lam",
+        "en": "Monts de lam",
+        "slug": "monts-de-lam-tcd0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0906",
+        "level": 2,
+        "name": {
+          "local": "Monts de lam",
+          "en": "Monts de lam",
+          "slug": "monts-de-lam-tcd0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "15.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0906_loumbogo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Loumbogo",
+      "en": "Loumbogo",
+      "slug": "loumbogo"
+    },
+    "code": {
+      "id": "TCD0906_loumbogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0906",
+      "level": 2,
+      "name": {
+        "local": "Monts de lam",
+        "en": "Monts de lam",
+        "slug": "monts-de-lam-tcd0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0906",
+        "level": 2,
+        "name": {
+          "local": "Monts de lam",
+          "en": "Monts de lam",
+          "slug": "monts-de-lam-tcd0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "15.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0906_mbaissaye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mbaissaye",
+      "en": "Mbaissaye",
+      "slug": "mbaissaye"
+    },
+    "code": {
+      "id": "TCD0906_mbaissaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0906",
+      "level": 2,
+      "name": {
+        "local": "Monts de lam",
+        "en": "Monts de lam",
+        "slug": "monts-de-lam-tcd0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0906",
+        "level": 2,
+        "name": {
+          "local": "Monts de lam",
+          "en": "Monts de lam",
+          "slug": "monts-de-lam-tcd0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "15.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0906_mbouroum",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mbouroum",
+      "en": "Mbouroum",
+      "slug": "mbouroum"
+    },
+    "code": {
+      "id": "TCD0906_mbouroum",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0906",
+      "level": 2,
+      "name": {
+        "local": "Monts de lam",
+        "en": "Monts de lam",
+        "slug": "monts-de-lam-tcd0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0906",
+        "level": 2,
+        "name": {
+          "local": "Monts de lam",
+          "en": "Monts de lam",
+          "slug": "monts-de-lam-tcd0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "15.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0906_mont-de-lam",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mont-De-Lam",
+      "en": "Mont-De-Lam",
+      "slug": "mont-de-lam"
+    },
+    "code": {
+      "id": "TCD0906_mont-de-lam",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0906",
+      "level": 2,
+      "name": {
+        "local": "Monts de lam",
+        "en": "Monts de lam",
+        "slug": "monts-de-lam-tcd0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0906",
+        "level": 2,
+        "name": {
+          "local": "Monts de lam",
+          "en": "Monts de lam",
+          "slug": "monts-de-lam-tcd0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "15.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0906_oudoumian",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Oudoumian",
+      "en": "Oudoumian",
+      "slug": "oudoumian"
+    },
+    "code": {
+      "id": "TCD0906_oudoumian",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0906",
+      "level": 2,
+      "name": {
+        "local": "Monts de lam",
+        "en": "Monts de lam",
+        "slug": "monts-de-lam-tcd0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0906",
+        "level": 2,
+        "name": {
+          "local": "Monts de lam",
+          "en": "Monts de lam",
+          "slug": "monts-de-lam-tcd0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "15.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0906_pandzangue",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Pandzangue",
+      "en": "Pandzangue",
+      "slug": "pandzangue"
+    },
+    "code": {
+      "id": "TCD0906_pandzangue",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0906",
+      "level": 2,
+      "name": {
+        "local": "Monts de lam",
+        "en": "Monts de lam",
+        "slug": "monts-de-lam-tcd0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0906",
+        "level": 2,
+        "name": {
+          "local": "Monts de lam",
+          "en": "Monts de lam",
+          "slug": "monts-de-lam-tcd0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "15.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0906_pao",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Pao",
+      "en": "Pao",
+      "slug": "pao"
+    },
+    "code": {
+      "id": "TCD0906_pao",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0906",
+      "level": 2,
+      "name": {
+        "local": "Monts de lam",
+        "en": "Monts de lam",
+        "slug": "monts-de-lam-tcd0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0906",
+        "level": 2,
+        "name": {
+          "local": "Monts de lam",
+          "en": "Monts de lam",
+          "slug": "monts-de-lam-tcd0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "15.848"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

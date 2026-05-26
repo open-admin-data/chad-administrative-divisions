@@ -1,0 +1,47 @@
+{
+  "id": "TCD0801",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Lac wey",
+    "en": "Lac wey",
+    "slug": "lac-wey-tcd0801"
+  },
+  "code": {
+    "id": "TCD0801",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD08",
+    "level": 1,
+    "name": {
+      "local": "LOGONE OCCIDENTAL",
+      "en": "LOGONE OCCIDENTAL",
+      "slug": "logone-occidental-tcd08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD08",
+      "level": 1,
+      "name": {
+        "local": "LOGONE OCCIDENTAL",
+        "en": "LOGONE OCCIDENTAL",
+        "slug": "logone-occidental-tcd08"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.642",
+    "lon": "15.978"
+  },
+  "metadata": {},
+  "source": {}
+}

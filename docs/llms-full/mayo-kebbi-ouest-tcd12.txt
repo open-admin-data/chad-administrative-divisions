@@ -1,0 +1,96 @@
+# MAYO KEBBI OUEST — Chad Administrative Divisions
+
+> 3 departments, 18 sub-prefectures
+> Code: TCD12
+> Coordinates: 9.225, 14.867
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Lac Léré
+
+Code: TCD1202, Coordinates: 9.619, 14.383
+Sub-prefectures: 5
+
+#### Binder
+
+Code: TCD1202_binder, Coordinates: 9.619, 14.383
+
+#### Bipare
+
+Code: TCD1202_bipare, Coordinates: 9.619, 14.383
+
+#### Guegou
+
+Code: TCD1202_guegou, Coordinates: 9.619, 14.383
+
+#### Lagon
+
+Code: TCD1202_lagon, Coordinates: 9.619, 14.383
+
+#### Lere-Tchad
+
+Code: TCD1202_lere-tchad, Coordinates: 9.619, 14.383
+
+### Mayo Binder
+
+Code: TCD1203, Coordinates: 9.844, 14.483
+Sub-prefectures: 0
+
+### Mayo Dallah
+
+Code: TCD1201, Coordinates: 9.079, 14.958
+Sub-prefectures: 13
+
+#### Dari
+
+Code: TCD1201_dari, Coordinates: 9.079, 14.958
+
+#### Doue
+
+Code: TCD1201_doue, Coordinates: 9.079, 14.958
+
+#### Erde-Pala
+
+Code: TCD1201_erde-pala, Coordinates: 9.079, 14.958
+
+#### Gagal
+
+Code: TCD1201_gagal, Coordinates: 9.079, 14.958
+
+#### Gouey-Goudoum
+
+Code: TCD1201_gouey-goudoum, Coordinates: 9.079, 14.958
+
+#### Gouin
+
+Code: TCD1201_gouin, Coordinates: 9.079, 14.958
+
+#### Goumadji
+
+Code: TCD1201_goumadji, Coordinates: 9.079, 14.958
+
+#### Keuni
+
+Code: TCD1201_keuni, Coordinates: 9.079, 14.958
+
+#### Korbo/Kordo
+
+Code: TCD1201_korbokordo, Coordinates: 9.079, 14.958
+
+#### Lame
+
+Code: TCD1201_lame, Coordinates: 9.079, 14.958
+
+#### Salamata
+
+Code: TCD1201_salamata, Coordinates: 9.079, 14.958
+
+#### Tagobo-Foulbe
+
+Code: TCD1201_tagobo-foulbe, Coordinates: 9.079, 14.958
+
+#### Torrok
+
+Code: TCD1201_torrok, Coordinates: 9.079, 14.958
+

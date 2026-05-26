@@ -1,0 +1,47 @@
+{
+  "id": "TCD1302",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Grande Sido",
+    "en": "Grande Sido",
+    "slug": "grande-sido-tcd1302"
+  },
+  "code": {
+    "id": "TCD1302",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD13",
+    "level": 1,
+    "name": {
+      "local": "MOYEN CHARI",
+      "en": "MOYEN CHARI",
+      "slug": "moyen-chari-tcd13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD13",
+      "level": 1,
+      "name": {
+        "local": "MOYEN CHARI",
+        "en": "MOYEN CHARI",
+        "slug": "moyen-chari-tcd13"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.452",
+    "lon": "18.541"
+  },
+  "metadata": {},
+  "source": {}
+}

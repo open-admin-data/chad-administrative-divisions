@@ -1,0 +1,36 @@
+# BARH EL GAZEL — Chad Administrative Divisions
+
+> 3 departments, 3 sub-prefectures
+> Code: TCD19
+> Coordinates: 14.452, 16.898
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Barh El Gazel Nord
+
+Code: TCD1902, Coordinates: 14.773, 17.015
+Sub-prefectures: 0
+
+### Barh El Gazel Ouest
+
+Code: TCD1903, Coordinates: 13.279, 16.248
+Sub-prefectures: 0
+
+### Barh El Gazel Sud
+
+Code: TCD1901, Coordinates: 13.695, 16.557
+Sub-prefectures: 3
+
+#### Michemire
+
+Code: TCD1901_michemire, Coordinates: 13.695, 16.557
+
+#### Moussoro
+
+Code: TCD1901_moussoro, Coordinates: 13.695, 16.557
+
+#### Salal
+
+Code: TCD1901_salal, Coordinates: 13.695, 16.557
+

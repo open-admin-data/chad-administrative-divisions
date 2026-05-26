@@ -1,0 +1,758 @@
+[
+  {
+    "id": "TCD1702_bali",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bali",
+      "en": "Bali",
+      "slug": "bali"
+    },
+    "code": {
+      "id": "TCD1702_bali",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_birak",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Birak",
+      "en": "Birak",
+      "slug": "birak"
+    },
+    "code": {
+      "id": "TCD1702_birak",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_djimeze",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djimeze",
+      "en": "Djimeze",
+      "slug": "djimeze"
+    },
+    "code": {
+      "id": "TCD1702_djimeze",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_fare",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fare",
+      "en": "Fare",
+      "slug": "fare"
+    },
+    "code": {
+      "id": "TCD1702_fare",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_gnere",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gnere",
+      "en": "Gnere",
+      "slug": "gnere"
+    },
+    "code": {
+      "id": "TCD1702_gnere",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_guereda",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guereda",
+      "en": "Guereda",
+      "slug": "guereda"
+    },
+    "code": {
+      "id": "TCD1702_guereda",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_kassine",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kassine",
+      "en": "Kassine",
+      "slug": "kassine"
+    },
+    "code": {
+      "id": "TCD1702_kassine",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_kolonga",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kolonga",
+      "en": "Kolonga",
+      "slug": "kolonga"
+    },
+    "code": {
+      "id": "TCD1702_kolonga",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_koursigue",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koursigue",
+      "en": "Koursigue",
+      "slug": "koursigue"
+    },
+    "code": {
+      "id": "TCD1702_koursigue",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_lima",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lima",
+      "en": "Lima",
+      "slug": "lima"
+    },
+    "code": {
+      "id": "TCD1702_lima",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_mabraone",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mabraone",
+      "en": "Mabraone",
+      "slug": "mabraone"
+    },
+    "code": {
+      "id": "TCD1702_mabraone",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_moore",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moore",
+      "en": "Moore",
+      "slug": "moore"
+    },
+    "code": {
+      "id": "TCD1702_moore",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_ouli-koure",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouli-Koure",
+      "en": "Ouli-Koure",
+      "slug": "ouli-koure"
+    },
+    "code": {
+      "id": "TCD1702_ouli-koure",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1702_troa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Troa",
+      "en": "Troa",
+      "slug": "troa"
+    },
+    "code": {
+      "id": "TCD1702_troa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1702",
+      "level": 2,
+      "name": {
+        "local": "Dar Tama",
+        "en": "Dar Tama",
+        "slug": "dar-tama-tcd1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD17",
+        "level": 1,
+        "name": {
+          "local": "WADI FIRA",
+          "en": "WADI FIRA",
+          "slug": "wadi-fira-tcd17"
+        }
+      },
+      {
+        "id": "TCD1702",
+        "level": 2,
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.451",
+      "lon": "21.961"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "TCD1901",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Barh El Gazel Sud",
+    "en": "Barh El Gazel Sud",
+    "slug": "barh-el-gazel-sud-tcd1901"
+  },
+  "code": {
+    "id": "TCD1901",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD19",
+    "level": 1,
+    "name": {
+      "local": "BARH EL GAZEL",
+      "en": "BARH EL GAZEL",
+      "slug": "barh-el-gazel-tcd19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD19",
+      "level": 1,
+      "name": {
+        "local": "BARH EL GAZEL",
+        "en": "BARH EL GAZEL",
+        "slug": "barh-el-gazel-tcd19"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.695",
+    "lon": "16.557"
+  },
+  "metadata": {},
+  "source": {}
+}

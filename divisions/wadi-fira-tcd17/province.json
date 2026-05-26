@@ -1,0 +1,30 @@
+{
+  "id": "TCD17",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "WADI FIRA",
+    "en": "WADI FIRA",
+    "slug": "wadi-fira-tcd17"
+  },
+  "code": {
+    "id": "TCD17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sous_prefecture": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.94",
+    "lon": "21.402"
+  },
+  "metadata": {},
+  "source": {}
+}

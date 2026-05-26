@@ -1,0 +1,30 @@
+{
+  "id": "TCD19",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "BARH EL GAZEL",
+    "en": "BARH EL GAZEL",
+    "slug": "barh-el-gazel-tcd19"
+  },
+  "code": {
+    "id": "TCD19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sous_prefecture": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.452",
+    "lon": "16.898"
+  },
+  "metadata": {},
+  "source": {}
+}

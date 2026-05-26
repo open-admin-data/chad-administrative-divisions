@@ -1,0 +1,30 @@
+{
+  "id": "TCD23",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ENNEDI OUEST",
+    "en": "ENNEDI OUEST",
+    "slug": "ennedi-ouest-tcd23"
+  },
+  "code": {
+    "id": "TCD23",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 2,
+    "sous_prefecture": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.256",
+    "lon": "20.962"
+  },
+  "metadata": {},
+  "source": {}
+}

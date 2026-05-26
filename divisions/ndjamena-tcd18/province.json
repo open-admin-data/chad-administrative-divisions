@@ -1,0 +1,30 @@
+{
+  "id": "TCD18",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "N'DJAMENA",
+    "en": "N'DJAMENA",
+    "slug": "ndjamena-tcd18"
+  },
+  "code": {
+    "id": "TCD18",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 1,
+    "sous_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.125",
+    "lon": "15.048"
+  },
+  "metadata": {},
+  "source": {}
+}

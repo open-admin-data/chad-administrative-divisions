@@ -1,0 +1,164 @@
+[
+  {
+    "id": "TCD0503_afrouk",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Afrouk",
+      "en": "Afrouk",
+      "slug": "afrouk"
+    },
+    "code": {
+      "id": "TCD0503_afrouk",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0503",
+      "level": 2,
+      "name": {
+        "local": "Haraze Al Biar",
+        "en": "Haraze Al Biar",
+        "slug": "haraze-al-biar-tcd0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD05",
+        "level": 1,
+        "name": {
+          "local": "HADJER LAMIS",
+          "en": "HADJER LAMIS",
+          "slug": "hadjer-lamis-tcd05"
+        }
+      },
+      {
+        "id": "TCD0503",
+        "level": 2,
+        "name": {
+          "local": "Haraze Al Biar",
+          "en": "Haraze Al Biar",
+          "slug": "haraze-al-biar-tcd0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.596",
+      "lon": "15.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0503_mani",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mani",
+      "en": "Mani",
+      "slug": "mani"
+    },
+    "code": {
+      "id": "TCD0503_mani",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0503",
+      "level": 2,
+      "name": {
+        "local": "Haraze Al Biar",
+        "en": "Haraze Al Biar",
+        "slug": "haraze-al-biar-tcd0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD05",
+        "level": 1,
+        "name": {
+          "local": "HADJER LAMIS",
+          "en": "HADJER LAMIS",
+          "slug": "hadjer-lamis-tcd05"
+        }
+      },
+      {
+        "id": "TCD0503",
+        "level": 2,
+        "name": {
+          "local": "Haraze Al Biar",
+          "en": "Haraze Al Biar",
+          "slug": "haraze-al-biar-tcd0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.596",
+      "lon": "15.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0503_massaguet",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Massaguet",
+      "en": "Massaguet",
+      "slug": "massaguet"
+    },
+    "code": {
+      "id": "TCD0503_massaguet",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0503",
+      "level": 2,
+      "name": {
+        "local": "Haraze Al Biar",
+        "en": "Haraze Al Biar",
+        "slug": "haraze-al-biar-tcd0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD05",
+        "level": 1,
+        "name": {
+          "local": "HADJER LAMIS",
+          "en": "HADJER LAMIS",
+          "slug": "hadjer-lamis-tcd05"
+        }
+      },
+      {
+        "id": "TCD0503",
+        "level": 2,
+        "name": {
+          "local": "Haraze Al Biar",
+          "en": "Haraze Al Biar",
+          "slug": "haraze-al-biar-tcd0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.596",
+      "lon": "15.045"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "TCD0803",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Gueni",
+    "en": "Gueni",
+    "slug": "gueni-tcd0803"
+  },
+  "code": {
+    "id": "TCD0803",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD08",
+    "level": 1,
+    "name": {
+      "local": "LOGONE OCCIDENTAL",
+      "en": "LOGONE OCCIDENTAL",
+      "slug": "logone-occidental-tcd08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD08",
+      "level": 1,
+      "name": {
+        "local": "LOGONE OCCIDENTAL",
+        "en": "LOGONE OCCIDENTAL",
+        "slug": "logone-occidental-tcd08"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.96",
+    "lon": "15.77"
+  },
+  "metadata": {},
+  "source": {}
+}

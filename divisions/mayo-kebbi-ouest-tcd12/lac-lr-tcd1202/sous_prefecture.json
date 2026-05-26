@@ -1,0 +1,272 @@
+[
+  {
+    "id": "TCD1202_binder",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Binder",
+      "en": "Binder",
+      "slug": "binder"
+    },
+    "code": {
+      "id": "TCD1202_binder",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1202",
+      "level": 2,
+      "name": {
+        "local": "Lac Léré",
+        "en": "Lac Léré",
+        "slug": "lac-lr-tcd1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1202",
+        "level": 2,
+        "name": {
+          "local": "Lac Léré",
+          "en": "Lac Léré",
+          "slug": "lac-lr-tcd1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.619",
+      "lon": "14.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1202_bipare",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bipare",
+      "en": "Bipare",
+      "slug": "bipare"
+    },
+    "code": {
+      "id": "TCD1202_bipare",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1202",
+      "level": 2,
+      "name": {
+        "local": "Lac Léré",
+        "en": "Lac Léré",
+        "slug": "lac-lr-tcd1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1202",
+        "level": 2,
+        "name": {
+          "local": "Lac Léré",
+          "en": "Lac Léré",
+          "slug": "lac-lr-tcd1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.619",
+      "lon": "14.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1202_guegou",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guegou",
+      "en": "Guegou",
+      "slug": "guegou"
+    },
+    "code": {
+      "id": "TCD1202_guegou",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1202",
+      "level": 2,
+      "name": {
+        "local": "Lac Léré",
+        "en": "Lac Léré",
+        "slug": "lac-lr-tcd1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1202",
+        "level": 2,
+        "name": {
+          "local": "Lac Léré",
+          "en": "Lac Léré",
+          "slug": "lac-lr-tcd1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.619",
+      "lon": "14.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1202_lagon",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lagon",
+      "en": "Lagon",
+      "slug": "lagon"
+    },
+    "code": {
+      "id": "TCD1202_lagon",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1202",
+      "level": 2,
+      "name": {
+        "local": "Lac Léré",
+        "en": "Lac Léré",
+        "slug": "lac-lr-tcd1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1202",
+        "level": 2,
+        "name": {
+          "local": "Lac Léré",
+          "en": "Lac Léré",
+          "slug": "lac-lr-tcd1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.619",
+      "lon": "14.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1202_lere-tchad",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lere-Tchad",
+      "en": "Lere-Tchad",
+      "slug": "lere-tchad"
+    },
+    "code": {
+      "id": "TCD1202_lere-tchad",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1202",
+      "level": 2,
+      "name": {
+        "local": "Lac Léré",
+        "en": "Lac Léré",
+        "slug": "lac-lr-tcd1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1202",
+        "level": 2,
+        "name": {
+          "local": "Lac Léré",
+          "en": "Lac Léré",
+          "slug": "lac-lr-tcd1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.619",
+      "lon": "14.383"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

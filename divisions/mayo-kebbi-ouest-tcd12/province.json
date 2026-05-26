@@ -1,0 +1,30 @@
+{
+  "id": "TCD12",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "MAYO KEBBI OUEST",
+    "en": "MAYO KEBBI OUEST",
+    "slug": "mayo-kebbi-ouest-tcd12"
+  },
+  "code": {
+    "id": "TCD12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sous_prefecture": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.225",
+    "lon": "14.867"
+  },
+  "metadata": {},
+  "source": {}
+}

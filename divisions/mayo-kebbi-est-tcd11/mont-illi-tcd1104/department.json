@@ -1,0 +1,47 @@
+{
+  "id": "TCD1104",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mont Illi",
+    "en": "Mont Illi",
+    "slug": "mont-illi-tcd1104"
+  },
+  "code": {
+    "id": "TCD1104",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD11",
+    "level": 1,
+    "name": {
+      "local": "MAYO KEBBI EST",
+      "en": "MAYO KEBBI EST",
+      "slug": "mayo-kebbi-est-tcd11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD11",
+      "level": 1,
+      "name": {
+        "local": "MAYO KEBBI EST",
+        "en": "MAYO KEBBI EST",
+        "slug": "mayo-kebbi-est-tcd11"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.769",
+    "lon": "15.058"
+  },
+  "metadata": {},
+  "source": {}
+}

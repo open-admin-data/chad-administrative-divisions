@@ -1,0 +1,23 @@
+# ENNEDI EST — Chad Administrative Divisions
+
+> 2 departments, 1 sub-prefectures
+> Code: TCD20
+> Coordinates: 17.887, 23.18
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Amdjarass
+
+Code: TCD2001, Coordinates: 17.99, 23.18
+Sub-prefectures: 1
+
+#### Ennedi Est
+
+Code: TCD2001_ennedi-est, Coordinates: 17.99, 23.18
+
+### Wadi Hawar
+
+Code: TCD2002, Coordinates: 15.805, 22.713
+Sub-prefectures: 0
+

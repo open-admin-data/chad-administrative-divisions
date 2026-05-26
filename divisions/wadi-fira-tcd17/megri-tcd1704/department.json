@@ -1,0 +1,47 @@
+{
+  "id": "TCD1704",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Megri",
+    "en": "Megri",
+    "slug": "megri-tcd1704"
+  },
+  "code": {
+    "id": "TCD1704",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD17",
+    "level": 1,
+    "name": {
+      "local": "WADI FIRA",
+      "en": "WADI FIRA",
+      "slug": "wadi-fira-tcd17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD17",
+      "level": 1,
+      "name": {
+        "local": "WADI FIRA",
+        "en": "WADI FIRA",
+        "slug": "wadi-fira-tcd17"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.36",
+    "lon": "21.867"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TCD0101_fitri",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fitri",
+      "en": "Fitri",
+      "slug": "fitri"
+    },
+    "code": {
+      "id": "TCD0101_fitri",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0101",
+      "level": 2,
+      "name": {
+        "local": "Batha Ouest",
+        "en": "Batha Ouest",
+        "slug": "batha-ouest-tcd0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0101",
+        "level": 2,
+        "name": {
+          "local": "Batha Ouest",
+          "en": "Batha Ouest",
+          "slug": "batha-ouest-tcd0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "18.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0101_kouka-ati",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouka-Ati",
+      "en": "Kouka-Ati",
+      "slug": "kouka-ati"
+    },
+    "code": {
+      "id": "TCD0101_kouka-ati",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0101",
+      "level": 2,
+      "name": {
+        "local": "Batha Ouest",
+        "en": "Batha Ouest",
+        "slug": "batha-ouest-tcd0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0101",
+        "level": 2,
+        "name": {
+          "local": "Batha Ouest",
+          "en": "Batha Ouest",
+          "slug": "batha-ouest-tcd0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "18.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0101_medego",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Medego",
+      "en": "Medego",
+      "slug": "medego"
+    },
+    "code": {
+      "id": "TCD0101_medego",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0101",
+      "level": 2,
+      "name": {
+        "local": "Batha Ouest",
+        "en": "Batha Ouest",
+        "slug": "batha-ouest-tcd0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0101",
+        "level": 2,
+        "name": {
+          "local": "Batha Ouest",
+          "en": "Batha Ouest",
+          "slug": "batha-ouest-tcd0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "18.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0101_salamat",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Salamat",
+      "en": "Salamat",
+      "slug": "salamat"
+    },
+    "code": {
+      "id": "TCD0101_salamat",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0101",
+      "level": 2,
+      "name": {
+        "local": "Batha Ouest",
+        "en": "Batha Ouest",
+        "slug": "batha-ouest-tcd0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      },
+      {
+        "id": "TCD0101",
+        "level": 2,
+        "name": {
+          "local": "Batha Ouest",
+          "en": "Batha Ouest",
+          "slug": "batha-ouest-tcd0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "18.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

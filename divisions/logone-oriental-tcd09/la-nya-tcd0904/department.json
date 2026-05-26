@@ -1,0 +1,47 @@
+{
+  "id": "TCD0904",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "La nya",
+    "en": "La nya",
+    "slug": "la-nya-tcd0904"
+  },
+  "code": {
+    "id": "TCD0904",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD09",
+    "level": 1,
+    "name": {
+      "local": "LOGONE ORIENTAL",
+      "en": "LOGONE ORIENTAL",
+      "slug": "logone-oriental-tcd09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD09",
+      "level": 1,
+      "name": {
+        "local": "LOGONE ORIENTAL",
+        "en": "LOGONE ORIENTAL",
+        "slug": "logone-oriental-tcd09"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.562",
+    "lon": "16.611"
+  },
+  "metadata": {},
+  "source": {}
+}

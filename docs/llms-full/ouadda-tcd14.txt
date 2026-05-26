@@ -1,0 +1,112 @@
+# OUADDAÏ — Chad Administrative Divisions
+
+> 3 departments, 22 sub-prefectures
+> Code: TCD14
+> Coordinates: 13.032, 20.595
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Assoungha
+
+Code: TCD1403, Coordinates: 13.454, 21.954
+Sub-prefectures: 6
+
+#### Barde
+
+Code: TCD1403_barde, Coordinates: 13.454, 21.954
+
+#### Guergne
+
+Code: TCD1403_guergne, Coordinates: 13.454, 21.954
+
+#### Kado
+
+Code: TCD1403_kado, Coordinates: 13.454, 21.954
+
+#### Mabrone
+
+Code: TCD1403_mabrone, Coordinates: 13.454, 21.954
+
+#### Molou
+
+Code: TCD1403_molou, Coordinates: 13.454, 21.954
+
+#### Troane
+
+Code: TCD1403_troane, Coordinates: 13.454, 21.954
+
+### Djourf Al Ahmar
+
+Code: TCD1402, Coordinates: 12.324, 20.597
+Sub-prefectures: 9
+
+#### Abker
+
+Code: TCD1402_abker, Coordinates: 12.324, 20.597
+
+#### Bakhat
+
+Code: TCD1402_bakhat, Coordinates: 12.324, 20.597
+
+#### Bandala
+
+Code: TCD1402_bandala, Coordinates: 12.324, 20.597
+
+#### Birguit
+
+Code: TCD1402_birguit, Coordinates: 12.324, 20.597
+
+#### Dadjo
+
+Code: TCD1402_dadjo, Coordinates: 12.324, 20.597
+
+#### Kadjeske-Am-Dam
+
+Code: TCD1402_kadjeske-am-dam, Coordinates: 12.324, 20.597
+
+#### Kognere
+
+Code: TCD1402_kognere, Coordinates: 12.324, 20.597
+
+#### Korio
+
+Code: TCD1402_korio, Coordinates: 12.324, 20.597
+
+#### Massalat-Am-Dam
+
+Code: TCD1402_massalat-am-dam, Coordinates: 12.324, 20.597
+
+### Ouara
+
+Code: TCD1401, Coordinates: 13.709, 20.897
+Sub-prefectures: 7
+
+#### Bourtail
+
+Code: TCD1401_bourtail, Coordinates: 13.709, 20.897
+
+#### Guerri
+
+Code: TCD1401_guerri, Coordinates: 13.709, 20.897
+
+#### Kachimel-Abeche
+
+Code: TCD1401_kachimel-abeche, Coordinates: 13.709, 20.897
+
+#### Mandjobo
+
+Code: TCD1401_mandjobo, Coordinates: 13.709, 20.897
+
+#### Marfa
+
+Code: TCD1401_marfa, Coordinates: 13.709, 20.897
+
+#### Ouadi-Chok-Abougouda
+
+Code: TCD1401_ouadi-chok-abougouda, Coordinates: 13.709, 20.897
+
+#### Ouadi-Hamra
+
+Code: TCD1401_ouadi-hamra, Coordinates: 13.709, 20.897
+

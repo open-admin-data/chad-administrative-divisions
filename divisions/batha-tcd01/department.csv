@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD0102,Batha Est,Batha Est,batha-est-tcd0102,TCD0102,7,14.308,19.568
+TCD0101,Batha Ouest,Batha Ouest,batha-ouest-tcd0101,TCD0101,4,14.308,18.396
+TCD0103,Fitri,Fitri,fitri-tcd0103,TCD0103,4,12.799,17.511

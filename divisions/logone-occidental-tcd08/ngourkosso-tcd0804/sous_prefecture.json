@@ -1,0 +1,596 @@
+[
+  {
+    "id": "TCD0804_bebalem",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bebalem",
+      "en": "Bebalem",
+      "slug": "bebalem"
+    },
+    "code": {
+      "id": "TCD0804_bebalem",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0804",
+      "level": 2,
+      "name": {
+        "local": "Ngourkosso",
+        "en": "Ngourkosso",
+        "slug": "ngourkosso-tcd0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0804",
+        "level": 2,
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0804_beladjia",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Beladjia",
+      "en": "Beladjia",
+      "slug": "beladjia"
+    },
+    "code": {
+      "id": "TCD0804_beladjia",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0804",
+      "level": 2,
+      "name": {
+        "local": "Ngourkosso",
+        "en": "Ngourkosso",
+        "slug": "ngourkosso-tcd0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0804",
+        "level": 2,
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0804_benoye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Benoye",
+      "en": "Benoye",
+      "slug": "benoye"
+    },
+    "code": {
+      "id": "TCD0804_benoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0804",
+      "level": 2,
+      "name": {
+        "local": "Ngourkosso",
+        "en": "Ngourkosso",
+        "slug": "ngourkosso-tcd0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0804",
+        "level": 2,
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0804_besseye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Besseye",
+      "en": "Besseye",
+      "slug": "besseye"
+    },
+    "code": {
+      "id": "TCD0804_besseye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0804",
+      "level": 2,
+      "name": {
+        "local": "Ngourkosso",
+        "en": "Ngourkosso",
+        "slug": "ngourkosso-tcd0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0804",
+        "level": 2,
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0804_bourou",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bourou",
+      "en": "Bourou",
+      "slug": "bourou"
+    },
+    "code": {
+      "id": "TCD0804_bourou",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0804",
+      "level": 2,
+      "name": {
+        "local": "Ngourkosso",
+        "en": "Ngourkosso",
+        "slug": "ngourkosso-tcd0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0804",
+        "level": 2,
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0804_gore-loc",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gore-Loc",
+      "en": "Gore-Loc",
+      "slug": "gore-loc"
+    },
+    "code": {
+      "id": "TCD0804_gore-loc",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0804",
+      "level": 2,
+      "name": {
+        "local": "Ngourkosso",
+        "en": "Ngourkosso",
+        "slug": "ngourkosso-tcd0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0804",
+        "level": 2,
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0804_koutoutou",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koutoutou",
+      "en": "Koutoutou",
+      "slug": "koutoutou"
+    },
+    "code": {
+      "id": "TCD0804_koutoutou",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0804",
+      "level": 2,
+      "name": {
+        "local": "Ngourkosso",
+        "en": "Ngourkosso",
+        "slug": "ngourkosso-tcd0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0804",
+        "level": 2,
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0804_manso",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Manso",
+      "en": "Manso",
+      "slug": "manso"
+    },
+    "code": {
+      "id": "TCD0804_manso",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0804",
+      "level": 2,
+      "name": {
+        "local": "Ngourkosso",
+        "en": "Ngourkosso",
+        "slug": "ngourkosso-tcd0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0804",
+        "level": 2,
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0804_mbaouroye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mbaouroye",
+      "en": "Mbaouroye",
+      "slug": "mbaouroye"
+    },
+    "code": {
+      "id": "TCD0804_mbaouroye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0804",
+      "level": 2,
+      "name": {
+        "local": "Ngourkosso",
+        "en": "Ngourkosso",
+        "slug": "ngourkosso-tcd0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0804",
+        "level": 2,
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0804_saar",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Saar",
+      "en": "Saar",
+      "slug": "saar"
+    },
+    "code": {
+      "id": "TCD0804_saar",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0804",
+      "level": 2,
+      "name": {
+        "local": "Ngourkosso",
+        "en": "Ngourkosso",
+        "slug": "ngourkosso-tcd0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0804",
+        "level": 2,
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0804_tchaouensaoua",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tchaouen/Saoua",
+      "en": "Tchaouen/Saoua",
+      "slug": "tchaouensaoua"
+    },
+    "code": {
+      "id": "TCD0804_tchaouensaoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0804",
+      "level": 2,
+      "name": {
+        "local": "Ngourkosso",
+        "en": "Ngourkosso",
+        "slug": "ngourkosso-tcd0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD08",
+        "level": 1,
+        "name": {
+          "local": "LOGONE OCCIDENTAL",
+          "en": "LOGONE OCCIDENTAL",
+          "slug": "logone-occidental-tcd08"
+        }
+      },
+      {
+        "id": "TCD0804",
+        "level": 2,
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.971",
+      "lon": "16.327"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

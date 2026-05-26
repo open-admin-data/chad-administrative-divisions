@@ -1,0 +1,380 @@
+[
+  {
+    "id": "TCD1401_bourtail",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bourtail",
+      "en": "Bourtail",
+      "slug": "bourtail"
+    },
+    "code": {
+      "id": "TCD1401_bourtail",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1401",
+      "level": 2,
+      "name": {
+        "local": "Ouara",
+        "en": "Ouara",
+        "slug": "ouara-tcd1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1401",
+        "level": 2,
+        "name": {
+          "local": "Ouara",
+          "en": "Ouara",
+          "slug": "ouara-tcd1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.709",
+      "lon": "20.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1401_guerri",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guerri",
+      "en": "Guerri",
+      "slug": "guerri"
+    },
+    "code": {
+      "id": "TCD1401_guerri",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1401",
+      "level": 2,
+      "name": {
+        "local": "Ouara",
+        "en": "Ouara",
+        "slug": "ouara-tcd1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1401",
+        "level": 2,
+        "name": {
+          "local": "Ouara",
+          "en": "Ouara",
+          "slug": "ouara-tcd1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.709",
+      "lon": "20.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1401_kachimel-abeche",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kachimel-Abeche",
+      "en": "Kachimel-Abeche",
+      "slug": "kachimel-abeche"
+    },
+    "code": {
+      "id": "TCD1401_kachimel-abeche",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1401",
+      "level": 2,
+      "name": {
+        "local": "Ouara",
+        "en": "Ouara",
+        "slug": "ouara-tcd1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1401",
+        "level": 2,
+        "name": {
+          "local": "Ouara",
+          "en": "Ouara",
+          "slug": "ouara-tcd1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.709",
+      "lon": "20.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1401_mandjobo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mandjobo",
+      "en": "Mandjobo",
+      "slug": "mandjobo"
+    },
+    "code": {
+      "id": "TCD1401_mandjobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1401",
+      "level": 2,
+      "name": {
+        "local": "Ouara",
+        "en": "Ouara",
+        "slug": "ouara-tcd1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1401",
+        "level": 2,
+        "name": {
+          "local": "Ouara",
+          "en": "Ouara",
+          "slug": "ouara-tcd1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.709",
+      "lon": "20.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1401_marfa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Marfa",
+      "en": "Marfa",
+      "slug": "marfa"
+    },
+    "code": {
+      "id": "TCD1401_marfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1401",
+      "level": 2,
+      "name": {
+        "local": "Ouara",
+        "en": "Ouara",
+        "slug": "ouara-tcd1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1401",
+        "level": 2,
+        "name": {
+          "local": "Ouara",
+          "en": "Ouara",
+          "slug": "ouara-tcd1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.709",
+      "lon": "20.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1401_ouadi-chok-abougouda",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouadi-Chok-Abougouda",
+      "en": "Ouadi-Chok-Abougouda",
+      "slug": "ouadi-chok-abougouda"
+    },
+    "code": {
+      "id": "TCD1401_ouadi-chok-abougouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1401",
+      "level": 2,
+      "name": {
+        "local": "Ouara",
+        "en": "Ouara",
+        "slug": "ouara-tcd1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1401",
+        "level": 2,
+        "name": {
+          "local": "Ouara",
+          "en": "Ouara",
+          "slug": "ouara-tcd1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.709",
+      "lon": "20.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1401_ouadi-hamra",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouadi-Hamra",
+      "en": "Ouadi-Hamra",
+      "slug": "ouadi-hamra"
+    },
+    "code": {
+      "id": "TCD1401_ouadi-hamra",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1401",
+      "level": 2,
+      "name": {
+        "local": "Ouara",
+        "en": "Ouara",
+        "slug": "ouara-tcd1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1401",
+        "level": 2,
+        "name": {
+          "local": "Ouara",
+          "en": "Ouara",
+          "slug": "ouara-tcd1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.709",
+      "lon": "20.897"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "TCD1602_bagaye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bagaye",
+      "en": "Bagaye",
+      "slug": "bagaye"
+    },
+    "code": {
+      "id": "TCD1602_bagaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1602",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Ouest",
+        "en": "Tandjilé Ouest",
+        "slug": "tandjil-ouest-tcd1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1602",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Ouest",
+          "en": "Tandjilé Ouest",
+          "slug": "tandjil-ouest-tcd1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "15.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1602_kelo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kelo",
+      "en": "Kelo",
+      "slug": "kelo"
+    },
+    "code": {
+      "id": "TCD1602_kelo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1602",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Ouest",
+        "en": "Tandjilé Ouest",
+        "slug": "tandjil-ouest-tcd1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1602",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Ouest",
+          "en": "Tandjilé Ouest",
+          "slug": "tandjil-ouest-tcd1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "15.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1602_kolon",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kolon",
+      "en": "Kolon",
+      "slug": "kolon"
+    },
+    "code": {
+      "id": "TCD1602_kolon",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1602",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Ouest",
+        "en": "Tandjilé Ouest",
+        "slug": "tandjil-ouest-tcd1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1602",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Ouest",
+          "en": "Tandjilé Ouest",
+          "slug": "tandjil-ouest-tcd1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "15.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1602_lele",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lele",
+      "en": "Lele",
+      "slug": "lele"
+    },
+    "code": {
+      "id": "TCD1602_lele",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1602",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Ouest",
+        "en": "Tandjilé Ouest",
+        "slug": "tandjil-ouest-tcd1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1602",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Ouest",
+          "en": "Tandjilé Ouest",
+          "slug": "tandjil-ouest-tcd1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "15.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1602_marba",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Marba",
+      "en": "Marba",
+      "slug": "marba"
+    },
+    "code": {
+      "id": "TCD1602_marba",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1602",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Ouest",
+        "en": "Tandjilé Ouest",
+        "slug": "tandjil-ouest-tcd1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1602",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Ouest",
+          "en": "Tandjilé Ouest",
+          "slug": "tandjil-ouest-tcd1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "15.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1602_mesme",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mesme",
+      "en": "Mesme",
+      "slug": "mesme"
+    },
+    "code": {
+      "id": "TCD1602_mesme",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1602",
+      "level": 2,
+      "name": {
+        "local": "Tandjilé Ouest",
+        "en": "Tandjilé Ouest",
+        "slug": "tandjil-ouest-tcd1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD16",
+        "level": 1,
+        "name": {
+          "local": "TANDJILÉ",
+          "en": "TANDJILÉ",
+          "slug": "tandjil-tcd16"
+        }
+      },
+      {
+        "id": "TCD1602",
+        "level": 2,
+        "name": {
+          "local": "Tandjilé Ouest",
+          "en": "Tandjilé Ouest",
+          "slug": "tandjil-ouest-tcd1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "15.791"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

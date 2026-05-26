@@ -1,0 +1,137 @@
+# WADI FIRA — Chad Administrative Divisions
+
+> 4 departments, 27 sub-prefectures
+> Code: TCD17
+> Coordinates: 14.94, 21.402
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Biltine
+
+Code: TCD1701, Coordinates: 14.945, 20.53
+Sub-prefectures: 7
+
+#### Abou-Charib-I
+
+Code: TCD1701_abou-charib-i, Coordinates: 14.945, 20.53
+
+#### Abou-Charib-Ii
+
+Code: TCD1701_abou-charib-ii, Coordinates: 14.945, 20.53
+
+#### Arada
+
+Code: TCD1701_arada, Coordinates: 14.945, 20.53
+
+#### Kodoye-I
+
+Code: TCD1701_kodoye-i, Coordinates: 14.945, 20.53
+
+#### Kodoye-Ii
+
+Code: TCD1701_kodoye-ii, Coordinates: 14.945, 20.53
+
+#### Mimi
+
+Code: TCD1701_mimi, Coordinates: 14.945, 20.53
+
+#### Ouled-Djema
+
+Code: TCD1701_ouled-djema, Coordinates: 14.945, 20.53
+
+### Dar Tama
+
+Code: TCD1702, Coordinates: 14.451, 21.961
+Sub-prefectures: 14
+
+#### Bali
+
+Code: TCD1702_bali, Coordinates: 14.451, 21.961
+
+#### Birak
+
+Code: TCD1702_birak, Coordinates: 14.451, 21.961
+
+#### Djimeze
+
+Code: TCD1702_djimeze, Coordinates: 14.451, 21.961
+
+#### Fare
+
+Code: TCD1702_fare, Coordinates: 14.451, 21.961
+
+#### Gnere
+
+Code: TCD1702_gnere, Coordinates: 14.451, 21.961
+
+#### Guereda
+
+Code: TCD1702_guereda, Coordinates: 14.451, 21.961
+
+#### Kassine
+
+Code: TCD1702_kassine, Coordinates: 14.451, 21.961
+
+#### Kolonga
+
+Code: TCD1702_kolonga, Coordinates: 14.451, 21.961
+
+#### Koursigue
+
+Code: TCD1702_koursigue, Coordinates: 14.451, 21.961
+
+#### Lima
+
+Code: TCD1702_lima, Coordinates: 14.451, 21.961
+
+#### Mabraone
+
+Code: TCD1702_mabraone, Coordinates: 14.451, 21.961
+
+#### Moore
+
+Code: TCD1702_moore, Coordinates: 14.451, 21.961
+
+#### Ouli-Koure
+
+Code: TCD1702_ouli-koure, Coordinates: 14.451, 21.961
+
+#### Troa
+
+Code: TCD1702_troa, Coordinates: 14.451, 21.961
+
+### Kobé
+
+Code: TCD1703, Coordinates: 15.075, 22.427
+Sub-prefectures: 6
+
+#### Dourene
+
+Code: TCD1703_dourene, Coordinates: 15.075, 22.427
+
+#### Gourouf
+
+Code: TCD1703_gourouf, Coordinates: 15.075, 22.427
+
+#### Kapka-Bakaore
+
+Code: TCD1703_kapka-bakaore, Coordinates: 15.075, 22.427
+
+#### Kobe-Nord-Est
+
+Code: TCD1703_kobe-nord-est, Coordinates: 15.075, 22.427
+
+#### Kobe-Nord-Ouest
+
+Code: TCD1703_kobe-nord-ouest, Coordinates: 15.075, 22.427
+
+#### Kobe-Sud
+
+Code: TCD1703_kobe-sud, Coordinates: 15.075, 22.427
+
+### Megri
+
+Code: TCD1704, Coordinates: 15.36, 21.867
+Sub-prefectures: 0
+

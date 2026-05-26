@@ -1,0 +1,272 @@
+[
+  {
+    "id": "TCD0402_bitkine",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bitkine",
+      "en": "Bitkine",
+      "slug": "bitkine"
+    },
+    "code": {
+      "id": "TCD0402_bitkine",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0402",
+      "level": 2,
+      "name": {
+        "local": "Abtouyour",
+        "en": "Abtouyour",
+        "slug": "abtouyour-tcd0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0402",
+        "level": 2,
+        "name": {
+          "local": "Abtouyour",
+          "en": "Abtouyour",
+          "slug": "abtouyour-tcd0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.006",
+      "lon": "18.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0402_dangaleat",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dangaleat",
+      "en": "Dangaleat",
+      "slug": "dangaleat"
+    },
+    "code": {
+      "id": "TCD0402_dangaleat",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0402",
+      "level": 2,
+      "name": {
+        "local": "Abtouyour",
+        "en": "Abtouyour",
+        "slug": "abtouyour-tcd0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0402",
+        "level": 2,
+        "name": {
+          "local": "Abtouyour",
+          "en": "Abtouyour",
+          "slug": "abtouyour-tcd0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.006",
+      "lon": "18.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0402_djonkor-guera",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djonkor-Guera",
+      "en": "Djonkor-Guera",
+      "slug": "djonkor-guera"
+    },
+    "code": {
+      "id": "TCD0402_djonkor-guera",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0402",
+      "level": 2,
+      "name": {
+        "local": "Abtouyour",
+        "en": "Abtouyour",
+        "slug": "abtouyour-tcd0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0402",
+        "level": 2,
+        "name": {
+          "local": "Abtouyour",
+          "en": "Abtouyour",
+          "slug": "abtouyour-tcd0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.006",
+      "lon": "18.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0402_kenga",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kenga",
+      "en": "Kenga",
+      "slug": "kenga"
+    },
+    "code": {
+      "id": "TCD0402_kenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0402",
+      "level": 2,
+      "name": {
+        "local": "Abtouyour",
+        "en": "Abtouyour",
+        "slug": "abtouyour-tcd0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0402",
+        "level": 2,
+        "name": {
+          "local": "Abtouyour",
+          "en": "Abtouyour",
+          "slug": "abtouyour-tcd0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.006",
+      "lon": "18.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0402_sara-arabe",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sara-Arabe",
+      "en": "Sara-Arabe",
+      "slug": "sara-arabe"
+    },
+    "code": {
+      "id": "TCD0402_sara-arabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0402",
+      "level": 2,
+      "name": {
+        "local": "Abtouyour",
+        "en": "Abtouyour",
+        "slug": "abtouyour-tcd0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0402",
+        "level": 2,
+        "name": {
+          "local": "Abtouyour",
+          "en": "Abtouyour",
+          "slug": "abtouyour-tcd0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.006",
+      "lon": "18.098"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

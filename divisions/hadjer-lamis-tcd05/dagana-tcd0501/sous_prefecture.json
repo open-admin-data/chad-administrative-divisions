@@ -1,0 +1,56 @@
+[
+  {
+    "id": "TCD0501_massakory",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Massakory",
+      "en": "Massakory",
+      "slug": "massakory"
+    },
+    "code": {
+      "id": "TCD0501_massakory",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0501",
+      "level": 2,
+      "name": {
+        "local": "Dagana",
+        "en": "Dagana",
+        "slug": "dagana-tcd0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD05",
+        "level": 1,
+        "name": {
+          "local": "HADJER LAMIS",
+          "en": "HADJER LAMIS",
+          "slug": "hadjer-lamis-tcd05"
+        }
+      },
+      {
+        "id": "TCD0501",
+        "level": 2,
+        "name": {
+          "local": "Dagana",
+          "en": "Dagana",
+          "slug": "dagana-tcd0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.976",
+      "lon": "15.471"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

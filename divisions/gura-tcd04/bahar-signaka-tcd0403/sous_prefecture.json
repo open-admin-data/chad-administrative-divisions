@@ -1,0 +1,272 @@
+[
+  {
+    "id": "TCD0403_bidio",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bidio",
+      "en": "Bidio",
+      "slug": "bidio"
+    },
+    "code": {
+      "id": "TCD0403_bidio",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0403",
+      "level": 2,
+      "name": {
+        "local": "Bahar Signaka",
+        "en": "Bahar Signaka",
+        "slug": "bahar-signaka-tcd0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0403",
+        "level": 2,
+        "name": {
+          "local": "Bahar Signaka",
+          "en": "Bahar Signaka",
+          "slug": "bahar-signaka-tcd0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.756",
+      "lon": "18.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0403_dadjo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dadjo-I",
+      "en": "Dadjo-I",
+      "slug": "dadjo-i"
+    },
+    "code": {
+      "id": "TCD0403_dadjo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0403",
+      "level": 2,
+      "name": {
+        "local": "Bahar Signaka",
+        "en": "Bahar Signaka",
+        "slug": "bahar-signaka-tcd0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0403",
+        "level": 2,
+        "name": {
+          "local": "Bahar Signaka",
+          "en": "Bahar Signaka",
+          "slug": "bahar-signaka-tcd0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.756",
+      "lon": "18.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0403_djonkor-aboutelfane",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djonkor-Aboutelfane",
+      "en": "Djonkor-Aboutelfane",
+      "slug": "djonkor-aboutelfane"
+    },
+    "code": {
+      "id": "TCD0403_djonkor-aboutelfane",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0403",
+      "level": 2,
+      "name": {
+        "local": "Bahar Signaka",
+        "en": "Bahar Signaka",
+        "slug": "bahar-signaka-tcd0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0403",
+        "level": 2,
+        "name": {
+          "local": "Bahar Signaka",
+          "en": "Bahar Signaka",
+          "slug": "bahar-signaka-tcd0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.756",
+      "lon": "18.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0403_koffa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koffa",
+      "en": "Koffa",
+      "slug": "koffa"
+    },
+    "code": {
+      "id": "TCD0403_koffa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0403",
+      "level": 2,
+      "name": {
+        "local": "Bahar Signaka",
+        "en": "Bahar Signaka",
+        "slug": "bahar-signaka-tcd0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0403",
+        "level": 2,
+        "name": {
+          "local": "Bahar Signaka",
+          "en": "Bahar Signaka",
+          "slug": "bahar-signaka-tcd0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.756",
+      "lon": "18.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0403_yalnass",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yalnass",
+      "en": "Yalnass",
+      "slug": "yalnass"
+    },
+    "code": {
+      "id": "TCD0403_yalnass",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0403",
+      "level": 2,
+      "name": {
+        "local": "Bahar Signaka",
+        "en": "Bahar Signaka",
+        "slug": "bahar-signaka-tcd0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0403",
+        "level": 2,
+        "name": {
+          "local": "Bahar Signaka",
+          "en": "Bahar Signaka",
+          "slug": "bahar-signaka-tcd0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.756",
+      "lon": "18.54"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,88 @@
+# SALAMAT — Chad Administrative Divisions
+
+> 3 departments, 16 sub-prefectures
+> Code: TCD15
+> Coordinates: 10.626, 20.718
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Aboudeia
+
+Code: TCD1502, Coordinates: 11.548, 19.461
+Sub-prefectures: 4
+
+#### Autochtone
+
+Code: TCD1502_autochtone, Coordinates: 11.548, 19.461
+
+#### Rachid
+
+Code: TCD1502_rachid, Coordinates: 11.548, 19.461
+
+#### Torom
+
+Code: TCD1502_torom, Coordinates: 11.548, 19.461
+
+#### Yalnas-Abou-Deia
+
+Code: TCD1502_yalnas-abou-deia, Coordinates: 11.548, 19.461
+
+### Bahr Azoum
+
+Code: TCD1501, Coordinates: 10.974, 20.373
+Sub-prefectures: 8
+
+#### Am-Timan
+
+Code: TCD1501_am-timan, Coordinates: 10.974, 20.373
+
+#### Barh-Azoum-Am-Timan
+
+Code: TCD1501_barh-azoum-am-timan, Coordinates: 10.974, 20.373
+
+#### Dagal
+
+Code: TCD1501_dagal, Coordinates: 10.974, 20.373
+
+#### Dar-Salim
+
+Code: TCD1501_dar-salim, Coordinates: 10.974, 20.373
+
+#### Hemat-Am-Timan
+
+Code: TCD1501_hemat-am-timan, Coordinates: 10.974, 20.373
+
+#### Kibet-Angreb
+
+Code: TCD1501_kibet-angreb, Coordinates: 10.974, 20.373
+
+#### Kibet-Soum-Soum
+
+Code: TCD1501_kibet-soum-soum, Coordinates: 10.974, 20.373
+
+#### Salamat-Am-Timan
+
+Code: TCD1501_salamat-am-timan, Coordinates: 10.974, 20.373
+
+### Haraze Mangueigne
+
+Code: TCD1503, Coordinates: 10.408, 21.294
+Sub-prefectures: 4
+
+#### Doudeye
+
+Code: TCD1503_doudeye, Coordinates: 10.408, 21.294
+
+#### Hemat-Haraze
+
+Code: TCD1503_hemat-haraze, Coordinates: 10.408, 21.294
+
+#### Kouga-Tchad
+
+Code: TCD1503_kouga-tchad, Coordinates: 10.408, 21.294
+
+#### Mangueigne
+
+Code: TCD1503_mangueigne, Coordinates: 10.408, 21.294
+

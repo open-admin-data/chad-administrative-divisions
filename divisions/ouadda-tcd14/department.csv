@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD1403,Assoungha,Assoungha,assoungha-tcd1403,TCD1403,6,13.454,21.954
+TCD1402,Djourf Al Ahmar,Djourf Al Ahmar,djourf-al-ahmar-tcd1402,TCD1402,9,12.324,20.597
+TCD1401,Ouara,Ouara,ouara-tcd1401,TCD1401,7,13.709,20.897

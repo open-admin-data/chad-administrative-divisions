@@ -1,0 +1,30 @@
+{
+  "id": "TCD20",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ENNEDI EST",
+    "en": "ENNEDI EST",
+    "slug": "ennedi-est-tcd20"
+  },
+  "code": {
+    "id": "TCD20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 2,
+    "sous_prefecture": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.887",
+    "lon": "23.18"
+  },
+  "metadata": {},
+  "source": {}
+}

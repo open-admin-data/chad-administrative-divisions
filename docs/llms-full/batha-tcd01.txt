@@ -1,0 +1,84 @@
+# BATHA — Chad Administrative Divisions
+
+> 3 departments, 15 sub-prefectures
+> Code: TCD01
+> Coordinates: 14.306, 18.886
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Batha Est
+
+Code: TCD0102, Coordinates: 14.308, 19.568
+Sub-prefectures: 7
+
+#### Dhok/Dopdop
+
+Code: TCD0102_dhokdopdop, Coordinates: 14.308, 19.568
+
+#### Kouka-Adjob
+
+Code: TCD0102_kouka-adjob, Coordinates: 14.308, 19.568
+
+#### Massalat-Oum-Hadjer
+
+Code: TCD0102_massalat-oum-hadjer, Coordinates: 14.308, 19.568
+
+#### Mesmedje
+
+Code: TCD0102_mesmedje, Coordinates: 14.308, 19.568
+
+#### Ratanine-Har-Djombo
+
+Code: TCD0102_ratanine-har-djombo, Coordinates: 14.308, 19.568
+
+#### Sedamis-Mr-Mn-Assine
+
+Code: TCD0102_sedamis-mr-mn-assine, Coordinates: 14.308, 19.568
+
+#### Zioud-Amsak
+
+Code: TCD0102_zioud-amsak, Coordinates: 14.308, 19.568
+
+### Batha Ouest
+
+Code: TCD0101, Coordinates: 14.308, 18.396
+Sub-prefectures: 4
+
+#### Fitri
+
+Code: TCD0101_fitri, Coordinates: 14.308, 18.396
+
+#### Kouka-Ati
+
+Code: TCD0101_kouka-ati, Coordinates: 14.308, 18.396
+
+#### Medego
+
+Code: TCD0101_medego, Coordinates: 14.308, 18.396
+
+#### Salamat
+
+Code: TCD0101_salamat, Coordinates: 14.308, 18.396
+
+### Fitri
+
+Code: TCD0103, Coordinates: 12.799, 17.511
+Sub-prefectures: 4
+
+#### Djaatne
+
+Code: TCD0103_djaatne, Coordinates: 12.799, 17.511
+
+#### Khozam
+
+Code: TCD0103_khozam, Coordinates: 12.799, 17.511
+
+#### Ouled-Himed
+
+Code: TCD0103_ouled-himed, Coordinates: 12.799, 17.511
+
+#### Ouled-Rachid
+
+Code: TCD0103_ouled-rachid, Coordinates: 12.799, 17.511
+

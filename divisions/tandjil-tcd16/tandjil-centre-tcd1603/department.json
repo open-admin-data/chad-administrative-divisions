@@ -1,0 +1,47 @@
+{
+  "id": "TCD1603",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tandjilé Centre",
+    "en": "Tandjilé Centre",
+    "slug": "tandjil-centre-tcd1603"
+  },
+  "code": {
+    "id": "TCD1603",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD16",
+    "level": 1,
+    "name": {
+      "local": "TANDJILÉ",
+      "en": "TANDJILÉ",
+      "slug": "tandjil-tcd16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD16",
+      "level": 1,
+      "name": {
+        "local": "TANDJILÉ",
+        "en": "TANDJILÉ",
+        "slug": "tandjil-tcd16"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.299",
+    "lon": "16.185"
+  },
+  "metadata": {},
+  "source": {}
+}

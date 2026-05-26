@@ -1,0 +1,190 @@
+[
+  {
+    "id": "TCD0402",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Abtouyour",
+      "en": "Abtouyour",
+      "slug": "abtouyour-tcd0402"
+    },
+    "code": {
+      "id": "TCD0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD04",
+      "level": 1,
+      "name": {
+        "local": "GUÉRA",
+        "en": "GUÉRA",
+        "slug": "gura-tcd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.006",
+      "lon": "18.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0403",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bahar Signaka",
+      "en": "Bahar Signaka",
+      "slug": "bahar-signaka-tcd0403"
+    },
+    "code": {
+      "id": "TCD0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD04",
+      "level": 1,
+      "name": {
+        "local": "GUÉRA",
+        "en": "GUÉRA",
+        "slug": "gura-tcd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.756",
+      "lon": "18.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0401",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Guéra",
+      "en": "Guéra",
+      "slug": "gura-tcd0401"
+    },
+    "code": {
+      "id": "TCD0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD04",
+      "level": 1,
+      "name": {
+        "local": "GUÉRA",
+        "en": "GUÉRA",
+        "slug": "gura-tcd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.997",
+      "lon": "18.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0404",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mangalmé",
+      "en": "Mangalmé",
+      "slug": "mangalm-tcd0404"
+    },
+    "code": {
+      "id": "TCD0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD04",
+      "level": 1,
+      "name": {
+        "local": "GUÉRA",
+        "en": "GUÉRA",
+        "slug": "gura-tcd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.298",
+      "lon": "19.547"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

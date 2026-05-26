@@ -1,0 +1,55 @@
+# SILA — Chad Administrative Divisions
+
+> 2 departments, 9 sub-prefectures
+> Code: TCD21
+> Coordinates: 12.075, 21.874
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Abdi
+
+Code: TCD2102, Coordinates: 12.909, 21.213
+Sub-prefectures: 0
+
+### Kimiti
+
+Code: TCD2101, Coordinates: 11.88, 21.875
+Sub-prefectures: 9
+
+#### Barh-Azoum-Goz-Beida
+
+Code: TCD2101_barh-azoum-goz-beida, Coordinates: 11.88, 21.875
+
+#### Fongoro
+
+Code: TCD2101_fongoro, Coordinates: 11.88, 21.875
+
+#### Goz-Beida
+
+Code: TCD2101_goz-beida, Coordinates: 11.88, 21.875
+
+#### Kadjeske-Goz-Beida
+
+Code: TCD2101_kadjeske-goz-beida, Coordinates: 11.88, 21.875
+
+#### Koloye
+
+Code: TCD2101_koloye, Coordinates: 11.88, 21.875
+
+#### Mourro
+
+Code: TCD2101_mourro, Coordinates: 11.88, 21.875
+
+#### Ouadi-Habile
+
+Code: TCD2101_ouadi-habile, Coordinates: 11.88, 21.875
+
+#### Ouadi-Kadja
+
+Code: TCD2101_ouadi-kadja, Coordinates: 11.88, 21.875
+
+#### Signar
+
+Code: TCD2101_signar, Coordinates: 11.88, 21.875
+

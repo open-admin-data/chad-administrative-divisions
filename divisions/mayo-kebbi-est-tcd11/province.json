@@ -1,0 +1,30 @@
+{
+  "id": "TCD11",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "MAYO KEBBI EST",
+    "en": "MAYO KEBBI EST",
+    "slug": "mayo-kebbi-est-tcd11"
+  },
+  "code": {
+    "id": "TCD11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sous_prefecture": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.215",
+    "lon": "15.807"
+  },
+  "metadata": {},
+  "source": {}
+}

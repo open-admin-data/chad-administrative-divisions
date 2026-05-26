@@ -1,0 +1,141 @@
+# LOGONE OCCIDENTAL — Chad Administrative Divisions
+
+> 4 departments, 28 sub-prefectures
+> Code: TCD08
+> Coordinates: 8.753, 15.924
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Djode
+
+Code: TCD0802, Coordinates: 8.681, 15.509
+Sub-prefectures: 4
+
+#### Beinamar
+
+Code: TCD0802_beinamar, Coordinates: 8.681, 15.509
+
+#### Beissa
+
+Code: TCD0802_beissa, Coordinates: 8.681, 15.509
+
+#### Lao-Kassi
+
+Code: TCD0802_lao-kassi, Coordinates: 8.681, 15.509
+
+#### Tapol
+
+Code: TCD0802_tapol, Coordinates: 8.681, 15.509
+
+### Gueni
+
+Code: TCD0803, Coordinates: 8.96, 15.77
+Sub-prefectures: 0
+
+### Lac wey
+
+Code: TCD0801, Coordinates: 8.642, 15.978
+Sub-prefectures: 13
+
+#### Bah
+
+Code: TCD0801_bah, Coordinates: 8.642, 15.978
+
+#### Bao
+
+Code: TCD0801_bao, Coordinates: 8.642, 15.978
+
+#### Biramanda
+
+Code: TCD0801_biramanda, Coordinates: 8.642, 15.978
+
+#### Dadjile
+
+Code: TCD0801_dadjile, Coordinates: 8.642, 15.978
+
+#### Deli
+
+Code: TCD0801_deli, Coordinates: 8.642, 15.978
+
+#### Dodinda
+
+Code: TCD0801_dodinda, Coordinates: 8.642, 15.978
+
+#### Kaga
+
+Code: TCD0801_kaga, Coordinates: 8.642, 15.978
+
+#### Krim-Krim
+
+Code: TCD0801_krim-krim, Coordinates: 8.642, 15.978
+
+#### Mbalkabra
+
+Code: TCD0801_mbalkabra, Coordinates: 8.642, 15.978
+
+#### Mballa
+
+Code: TCD0801_mballa, Coordinates: 8.642, 15.978
+
+#### Moundou/Koutou
+
+Code: TCD0801_moundoukoutou, Coordinates: 8.642, 15.978
+
+#### Ngondong
+
+Code: TCD0801_ngondong, Coordinates: 8.642, 15.978
+
+#### Tagoro
+
+Code: TCD0801_tagoro, Coordinates: 8.642, 15.978
+
+### Ngourkosso
+
+Code: TCD0804, Coordinates: 8.971, 16.327
+Sub-prefectures: 11
+
+#### Bebalem
+
+Code: TCD0804_bebalem, Coordinates: 8.971, 16.327
+
+#### Beladjia
+
+Code: TCD0804_beladjia, Coordinates: 8.971, 16.327
+
+#### Benoye
+
+Code: TCD0804_benoye, Coordinates: 8.971, 16.327
+
+#### Besseye
+
+Code: TCD0804_besseye, Coordinates: 8.971, 16.327
+
+#### Bourou
+
+Code: TCD0804_bourou, Coordinates: 8.971, 16.327
+
+#### Gore-Loc
+
+Code: TCD0804_gore-loc, Coordinates: 8.971, 16.327
+
+#### Koutoutou
+
+Code: TCD0804_koutoutou, Coordinates: 8.971, 16.327
+
+#### Manso
+
+Code: TCD0804_manso, Coordinates: 8.971, 16.327
+
+#### Mbaouroye
+
+Code: TCD0804_mbaouroye, Coordinates: 8.971, 16.327
+
+#### Saar
+
+Code: TCD0804_saar, Coordinates: 8.971, 16.327
+
+#### Tchaouen/Saoua
+
+Code: TCD0804_tchaouensaoua, Coordinates: 8.971, 16.327
+

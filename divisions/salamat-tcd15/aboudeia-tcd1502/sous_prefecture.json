@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TCD1502_autochtone",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Autochtone",
+      "en": "Autochtone",
+      "slug": "autochtone"
+    },
+    "code": {
+      "id": "TCD1502_autochtone",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1502",
+      "level": 2,
+      "name": {
+        "local": "Aboudeia",
+        "en": "Aboudeia",
+        "slug": "aboudeia-tcd1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1502",
+        "level": 2,
+        "name": {
+          "local": "Aboudeia",
+          "en": "Aboudeia",
+          "slug": "aboudeia-tcd1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "19.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1502_rachid",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Rachid",
+      "en": "Rachid",
+      "slug": "rachid"
+    },
+    "code": {
+      "id": "TCD1502_rachid",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1502",
+      "level": 2,
+      "name": {
+        "local": "Aboudeia",
+        "en": "Aboudeia",
+        "slug": "aboudeia-tcd1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1502",
+        "level": 2,
+        "name": {
+          "local": "Aboudeia",
+          "en": "Aboudeia",
+          "slug": "aboudeia-tcd1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "19.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1502_torom",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Torom",
+      "en": "Torom",
+      "slug": "torom"
+    },
+    "code": {
+      "id": "TCD1502_torom",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1502",
+      "level": 2,
+      "name": {
+        "local": "Aboudeia",
+        "en": "Aboudeia",
+        "slug": "aboudeia-tcd1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1502",
+        "level": 2,
+        "name": {
+          "local": "Aboudeia",
+          "en": "Aboudeia",
+          "slug": "aboudeia-tcd1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "19.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1502_yalnas-abou-deia",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yalnas-Abou-Deia",
+      "en": "Yalnas-Abou-Deia",
+      "slug": "yalnas-abou-deia"
+    },
+    "code": {
+      "id": "TCD1502_yalnas-abou-deia",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1502",
+      "level": 2,
+      "name": {
+        "local": "Aboudeia",
+        "en": "Aboudeia",
+        "slug": "aboudeia-tcd1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1502",
+        "level": 2,
+        "name": {
+          "local": "Aboudeia",
+          "en": "Aboudeia",
+          "slug": "aboudeia-tcd1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "19.461"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

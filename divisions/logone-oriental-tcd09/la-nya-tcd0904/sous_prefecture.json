@@ -1,0 +1,326 @@
+[
+  {
+    "id": "TCD0904_bebedjia",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bebedjia",
+      "en": "Bebedjia",
+      "slug": "bebedjia"
+    },
+    "code": {
+      "id": "TCD0904_bebedjia",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0904",
+      "level": 2,
+      "name": {
+        "local": "La nya",
+        "en": "La nya",
+        "slug": "la-nya-tcd0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0904",
+        "level": 2,
+        "name": {
+          "local": "La nya",
+          "en": "La nya",
+          "slug": "la-nya-tcd0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.562",
+      "lon": "16.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0904_beboni",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Beboni",
+      "en": "Beboni",
+      "slug": "beboni"
+    },
+    "code": {
+      "id": "TCD0904_beboni",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0904",
+      "level": 2,
+      "name": {
+        "local": "La nya",
+        "en": "La nya",
+        "slug": "la-nya-tcd0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0904",
+        "level": 2,
+        "name": {
+          "local": "La nya",
+          "en": "La nya",
+          "slug": "la-nya-tcd0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.562",
+      "lon": "16.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0904_bero",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bero",
+      "en": "Bero",
+      "slug": "bero"
+    },
+    "code": {
+      "id": "TCD0904_bero",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0904",
+      "level": 2,
+      "name": {
+        "local": "La nya",
+        "en": "La nya",
+        "slug": "la-nya-tcd0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0904",
+        "level": 2,
+        "name": {
+          "local": "La nya",
+          "en": "La nya",
+          "slug": "la-nya-tcd0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.562",
+      "lon": "16.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0904_komendobele",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kome/Ndobele",
+      "en": "Kome/Ndobele",
+      "slug": "komendobele"
+    },
+    "code": {
+      "id": "TCD0904_komendobele",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0904",
+      "level": 2,
+      "name": {
+        "local": "La nya",
+        "en": "La nya",
+        "slug": "la-nya-tcd0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0904",
+        "level": 2,
+        "name": {
+          "local": "La nya",
+          "en": "La nya",
+          "slug": "la-nya-tcd0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.562",
+      "lon": "16.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0904_mbikou",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mbikou",
+      "en": "Mbikou",
+      "slug": "mbikou"
+    },
+    "code": {
+      "id": "TCD0904_mbikou",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0904",
+      "level": 2,
+      "name": {
+        "local": "La nya",
+        "en": "La nya",
+        "slug": "la-nya-tcd0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0904",
+        "level": 2,
+        "name": {
+          "local": "La nya",
+          "en": "La nya",
+          "slug": "la-nya-tcd0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.562",
+      "lon": "16.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0904_miandoum",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Miandoum",
+      "en": "Miandoum",
+      "slug": "miandoum"
+    },
+    "code": {
+      "id": "TCD0904_miandoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0904",
+      "level": 2,
+      "name": {
+        "local": "La nya",
+        "en": "La nya",
+        "slug": "la-nya-tcd0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0904",
+        "level": 2,
+        "name": {
+          "local": "La nya",
+          "en": "La nya",
+          "slug": "la-nya-tcd0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.562",
+      "lon": "16.611"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

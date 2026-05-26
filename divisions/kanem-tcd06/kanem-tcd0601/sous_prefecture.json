@@ -1,0 +1,434 @@
+[
+  {
+    "id": "TCD0601_amdobak",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Amdobak",
+      "en": "Amdobak",
+      "slug": "amdobak"
+    },
+    "code": {
+      "id": "TCD0601_amdobak",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0601",
+      "level": 2,
+      "name": {
+        "local": "Kanem",
+        "en": "Kanem",
+        "slug": "kanem-tcd0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD06",
+        "level": 1,
+        "name": {
+          "local": "KANEM",
+          "en": "KANEM",
+          "slug": "kanem-tcd06"
+        }
+      },
+      {
+        "id": "TCD0601",
+        "level": 2,
+        "name": {
+          "local": "Kanem",
+          "en": "Kanem",
+          "slug": "kanem-tcd0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.099",
+      "lon": "15.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0601_dokora",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dokora",
+      "en": "Dokora",
+      "slug": "dokora"
+    },
+    "code": {
+      "id": "TCD0601_dokora",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0601",
+      "level": 2,
+      "name": {
+        "local": "Kanem",
+        "en": "Kanem",
+        "slug": "kanem-tcd0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD06",
+        "level": 1,
+        "name": {
+          "local": "KANEM",
+          "en": "KANEM",
+          "slug": "kanem-tcd06"
+        }
+      },
+      {
+        "id": "TCD0601",
+        "level": 2,
+        "name": {
+          "local": "Kanem",
+          "en": "Kanem",
+          "slug": "kanem-tcd0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.099",
+      "lon": "15.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0601_illili",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Illili",
+      "en": "Illili",
+      "slug": "illili"
+    },
+    "code": {
+      "id": "TCD0601_illili",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0601",
+      "level": 2,
+      "name": {
+        "local": "Kanem",
+        "en": "Kanem",
+        "slug": "kanem-tcd0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD06",
+        "level": 1,
+        "name": {
+          "local": "KANEM",
+          "en": "KANEM",
+          "slug": "kanem-tcd06"
+        }
+      },
+      {
+        "id": "TCD0601",
+        "level": 2,
+        "name": {
+          "local": "Kanem",
+          "en": "Kanem",
+          "slug": "kanem-tcd0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.099",
+      "lon": "15.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0601_moal",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moal",
+      "en": "Moal",
+      "slug": "moal"
+    },
+    "code": {
+      "id": "TCD0601_moal",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0601",
+      "level": 2,
+      "name": {
+        "local": "Kanem",
+        "en": "Kanem",
+        "slug": "kanem-tcd0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD06",
+        "level": 1,
+        "name": {
+          "local": "KANEM",
+          "en": "KANEM",
+          "slug": "kanem-tcd06"
+        }
+      },
+      {
+        "id": "TCD0601",
+        "level": 2,
+        "name": {
+          "local": "Kanem",
+          "en": "Kanem",
+          "slug": "kanem-tcd0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.099",
+      "lon": "15.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0601_mondo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mondo",
+      "en": "Mondo",
+      "slug": "mondo"
+    },
+    "code": {
+      "id": "TCD0601_mondo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0601",
+      "level": 2,
+      "name": {
+        "local": "Kanem",
+        "en": "Kanem",
+        "slug": "kanem-tcd0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD06",
+        "level": 1,
+        "name": {
+          "local": "KANEM",
+          "en": "KANEM",
+          "slug": "kanem-tcd06"
+        }
+      },
+      {
+        "id": "TCD0601",
+        "level": 2,
+        "name": {
+          "local": "Kanem",
+          "en": "Kanem",
+          "slug": "kanem-tcd0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.099",
+      "lon": "15.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0601_motoa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Motoa",
+      "en": "Motoa",
+      "slug": "motoa"
+    },
+    "code": {
+      "id": "TCD0601_motoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0601",
+      "level": 2,
+      "name": {
+        "local": "Kanem",
+        "en": "Kanem",
+        "slug": "kanem-tcd0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD06",
+        "level": 1,
+        "name": {
+          "local": "KANEM",
+          "en": "KANEM",
+          "slug": "kanem-tcd06"
+        }
+      },
+      {
+        "id": "TCD0601",
+        "level": 2,
+        "name": {
+          "local": "Kanem",
+          "en": "Kanem",
+          "slug": "kanem-tcd0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.099",
+      "lon": "15.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0601_mourzigui",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mourzigui",
+      "en": "Mourzigui",
+      "slug": "mourzigui"
+    },
+    "code": {
+      "id": "TCD0601_mourzigui",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0601",
+      "level": 2,
+      "name": {
+        "local": "Kanem",
+        "en": "Kanem",
+        "slug": "kanem-tcd0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD06",
+        "level": 1,
+        "name": {
+          "local": "KANEM",
+          "en": "KANEM",
+          "slug": "kanem-tcd06"
+        }
+      },
+      {
+        "id": "TCD0601",
+        "level": 2,
+        "name": {
+          "local": "Kanem",
+          "en": "Kanem",
+          "slug": "kanem-tcd0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.099",
+      "lon": "15.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0601_sultanat",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sultanat",
+      "en": "Sultanat",
+      "slug": "sultanat"
+    },
+    "code": {
+      "id": "TCD0601_sultanat",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0601",
+      "level": 2,
+      "name": {
+        "local": "Kanem",
+        "en": "Kanem",
+        "slug": "kanem-tcd0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD06",
+        "level": 1,
+        "name": {
+          "local": "KANEM",
+          "en": "KANEM",
+          "slug": "kanem-tcd06"
+        }
+      },
+      {
+        "id": "TCD0601",
+        "level": 2,
+        "name": {
+          "local": "Kanem",
+          "en": "Kanem",
+          "slug": "kanem-tcd0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.099",
+      "lon": "15.189"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

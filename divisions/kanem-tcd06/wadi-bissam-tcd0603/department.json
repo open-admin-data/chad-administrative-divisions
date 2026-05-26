@@ -1,0 +1,47 @@
+{
+  "id": "TCD0603",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Wadi Bissam",
+    "en": "Wadi Bissam",
+    "slug": "wadi-bissam-tcd0603"
+  },
+  "code": {
+    "id": "TCD0603",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD06",
+    "level": 1,
+    "name": {
+      "local": "KANEM",
+      "en": "KANEM",
+      "slug": "kanem-tcd06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD06",
+      "level": 1,
+      "name": {
+        "local": "KANEM",
+        "en": "KANEM",
+        "slug": "kanem-tcd06"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.523",
+    "lon": "15.691"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "TCD1002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Barh Sara",
+    "en": "Barh Sara",
+    "slug": "barh-sara-tcd1002"
+  },
+  "code": {
+    "id": "TCD1002",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD10",
+    "level": 1,
+    "name": {
+      "local": "MANDOUL",
+      "en": "MANDOUL",
+      "slug": "mandoul-tcd10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD10",
+      "level": 1,
+      "name": {
+        "local": "MANDOUL",
+        "en": "MANDOUL",
+        "slug": "mandoul-tcd10"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.371",
+    "lon": "17.753"
+  },
+  "metadata": {},
+  "source": {}
+}

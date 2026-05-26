@@ -1,0 +1,542 @@
+[
+  {
+    "id": "TCD0905_bekan",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bekan",
+      "en": "Bekan",
+      "slug": "bekan"
+    },
+    "code": {
+      "id": "TCD0905_bekan",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0905",
+      "level": 2,
+      "name": {
+        "local": "La Nya pendé",
+        "en": "La Nya pendé",
+        "slug": "la-nya-pend-tcd0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0905",
+        "level": 2,
+        "name": {
+          "local": "La Nya pendé",
+          "en": "La Nya pendé",
+          "slug": "la-nya-pend-tcd0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "16.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0905_boro",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boro",
+      "en": "Boro",
+      "slug": "boro"
+    },
+    "code": {
+      "id": "TCD0905_boro",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0905",
+      "level": 2,
+      "name": {
+        "local": "La Nya pendé",
+        "en": "La Nya pendé",
+        "slug": "la-nya-pend-tcd0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0905",
+        "level": 2,
+        "name": {
+          "local": "La Nya pendé",
+          "en": "La Nya pendé",
+          "slug": "la-nya-pend-tcd0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "16.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0905_boye-bessao",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boye-Bessao",
+      "en": "Boye-Bessao",
+      "slug": "boye-bessao"
+    },
+    "code": {
+      "id": "TCD0905_boye-bessao",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0905",
+      "level": 2,
+      "name": {
+        "local": "La Nya pendé",
+        "en": "La Nya pendé",
+        "slug": "la-nya-pend-tcd0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0905",
+        "level": 2,
+        "name": {
+          "local": "La Nya pendé",
+          "en": "La Nya pendé",
+          "slug": "la-nya-pend-tcd0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "16.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0905_gore",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gore",
+      "en": "Gore",
+      "slug": "gore"
+    },
+    "code": {
+      "id": "TCD0905_gore",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0905",
+      "level": 2,
+      "name": {
+        "local": "La Nya pendé",
+        "en": "La Nya pendé",
+        "slug": "la-nya-pend-tcd0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0905",
+        "level": 2,
+        "name": {
+          "local": "La Nya pendé",
+          "en": "La Nya pendé",
+          "slug": "la-nya-pend-tcd0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "16.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0905_kaba-donia",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaba-Donia",
+      "en": "Kaba-Donia",
+      "slug": "kaba-donia"
+    },
+    "code": {
+      "id": "TCD0905_kaba-donia",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0905",
+      "level": 2,
+      "name": {
+        "local": "La Nya pendé",
+        "en": "La Nya pendé",
+        "slug": "la-nya-pend-tcd0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0905",
+        "level": 2,
+        "name": {
+          "local": "La Nya pendé",
+          "en": "La Nya pendé",
+          "slug": "la-nya-pend-tcd0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "16.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0905_kaba-roangar",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaba-Roangar",
+      "en": "Kaba-Roangar",
+      "slug": "kaba-roangar"
+    },
+    "code": {
+      "id": "TCD0905_kaba-roangar",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0905",
+      "level": 2,
+      "name": {
+        "local": "La Nya pendé",
+        "en": "La Nya pendé",
+        "slug": "la-nya-pend-tcd0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0905",
+        "level": 2,
+        "name": {
+          "local": "La Nya pendé",
+          "en": "La Nya pendé",
+          "slug": "la-nya-pend-tcd0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "16.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0905_mbaikoro",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mbaikoro",
+      "en": "Mbaikoro",
+      "slug": "mbaikoro"
+    },
+    "code": {
+      "id": "TCD0905_mbaikoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0905",
+      "level": 2,
+      "name": {
+        "local": "La Nya pendé",
+        "en": "La Nya pendé",
+        "slug": "la-nya-pend-tcd0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0905",
+        "level": 2,
+        "name": {
+          "local": "La Nya pendé",
+          "en": "La Nya pendé",
+          "slug": "la-nya-pend-tcd0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "16.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0905_miladi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Miladi",
+      "en": "Miladi",
+      "slug": "miladi"
+    },
+    "code": {
+      "id": "TCD0905_miladi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0905",
+      "level": 2,
+      "name": {
+        "local": "La Nya pendé",
+        "en": "La Nya pendé",
+        "slug": "la-nya-pend-tcd0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0905",
+        "level": 2,
+        "name": {
+          "local": "La Nya pendé",
+          "en": "La Nya pendé",
+          "slug": "la-nya-pend-tcd0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "16.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0905_timberi",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Timberi",
+      "en": "Timberi",
+      "slug": "timberi"
+    },
+    "code": {
+      "id": "TCD0905_timberi",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0905",
+      "level": 2,
+      "name": {
+        "local": "La Nya pendé",
+        "en": "La Nya pendé",
+        "slug": "la-nya-pend-tcd0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0905",
+        "level": 2,
+        "name": {
+          "local": "La Nya pendé",
+          "en": "La Nya pendé",
+          "slug": "la-nya-pend-tcd0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "16.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0905_yamodo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yamodo",
+      "en": "Yamodo",
+      "slug": "yamodo"
+    },
+    "code": {
+      "id": "TCD0905_yamodo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0905",
+      "level": 2,
+      "name": {
+        "local": "La Nya pendé",
+        "en": "La Nya pendé",
+        "slug": "la-nya-pend-tcd0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0905",
+        "level": 2,
+        "name": {
+          "local": "La Nya pendé",
+          "en": "La Nya pendé",
+          "slug": "la-nya-pend-tcd0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "16.482"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

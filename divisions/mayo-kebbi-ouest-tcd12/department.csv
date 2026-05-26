@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD1202,Lac Léré,Lac Léré,lac-lr-tcd1202,TCD1202,5,9.619,14.383
+TCD1203,Mayo Binder,Mayo Binder,mayo-binder-tcd1203,TCD1203,0,9.844,14.483
+TCD1201,Mayo Dallah,Mayo Dallah,mayo-dallah-tcd1201,TCD1201,13,9.079,14.958

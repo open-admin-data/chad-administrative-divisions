@@ -1,0 +1,5463 @@
+[
+  {
+    "id": "TCD19",
+    "name": {
+      "local": "BARH EL GAZEL",
+      "en": "BARH EL GAZEL",
+      "slug": "barh-el-gazel-tcd19"
+    },
+    "code": {
+      "id": "TCD19",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD1903",
+        "name": {
+          "local": "Barh El Gazel Ouest",
+          "en": "Barh El Gazel Ouest",
+          "slug": "barh-el-gazel-ouest-tcd1903"
+        },
+        "code": {
+          "id": "TCD1903",
+          "iso": null
+        },
+        "sous_prefecture": []
+      },
+      {
+        "id": "TCD1901",
+        "name": {
+          "local": "Barh El Gazel Sud",
+          "en": "Barh El Gazel Sud",
+          "slug": "barh-el-gazel-sud-tcd1901"
+        },
+        "code": {
+          "id": "TCD1901",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1901_michemire",
+            "name": {
+              "local": "Michemire",
+              "en": "Michemire",
+              "slug": "michemire"
+            },
+            "code": {
+              "id": "TCD1901_michemire",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1901_moussoro",
+            "name": {
+              "local": "Moussoro",
+              "en": "Moussoro",
+              "slug": "moussoro"
+            },
+            "code": {
+              "id": "TCD1901_moussoro",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1901_salal",
+            "name": {
+              "local": "Salal",
+              "en": "Salal",
+              "slug": "salal"
+            },
+            "code": {
+              "id": "TCD1901_salal",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1902",
+        "name": {
+          "local": "Barh El Gazel Nord",
+          "en": "Barh El Gazel Nord",
+          "slug": "barh-el-gazel-nord-tcd1902"
+        },
+        "code": {
+          "id": "TCD1902",
+          "iso": null
+        },
+        "sous_prefecture": []
+      }
+    ]
+  },
+  {
+    "id": "TCD01",
+    "name": {
+      "local": "BATHA",
+      "en": "BATHA",
+      "slug": "batha-tcd01"
+    },
+    "code": {
+      "id": "TCD01",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD0103",
+        "name": {
+          "local": "Fitri",
+          "en": "Fitri",
+          "slug": "fitri-tcd0103"
+        },
+        "code": {
+          "id": "TCD0103",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0103_djaatne",
+            "name": {
+              "local": "Djaatne",
+              "en": "Djaatne",
+              "slug": "djaatne"
+            },
+            "code": {
+              "id": "TCD0103_djaatne",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0103_khozam",
+            "name": {
+              "local": "Khozam",
+              "en": "Khozam",
+              "slug": "khozam"
+            },
+            "code": {
+              "id": "TCD0103_khozam",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0103_ouled-himed",
+            "name": {
+              "local": "Ouled-Himed",
+              "en": "Ouled-Himed",
+              "slug": "ouled-himed"
+            },
+            "code": {
+              "id": "TCD0103_ouled-himed",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0103_ouled-rachid",
+            "name": {
+              "local": "Ouled-Rachid",
+              "en": "Ouled-Rachid",
+              "slug": "ouled-rachid"
+            },
+            "code": {
+              "id": "TCD0103_ouled-rachid",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0102",
+        "name": {
+          "local": "Batha Est",
+          "en": "Batha Est",
+          "slug": "batha-est-tcd0102"
+        },
+        "code": {
+          "id": "TCD0102",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0102_dhokdopdop",
+            "name": {
+              "local": "Dhok/Dopdop",
+              "en": "Dhok/Dopdop",
+              "slug": "dhokdopdop"
+            },
+            "code": {
+              "id": "TCD0102_dhokdopdop",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0102_kouka-adjob",
+            "name": {
+              "local": "Kouka-Adjob",
+              "en": "Kouka-Adjob",
+              "slug": "kouka-adjob"
+            },
+            "code": {
+              "id": "TCD0102_kouka-adjob",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0102_massalat-oum-hadjer",
+            "name": {
+              "local": "Massalat-Oum-Hadjer",
+              "en": "Massalat-Oum-Hadjer",
+              "slug": "massalat-oum-hadjer"
+            },
+            "code": {
+              "id": "TCD0102_massalat-oum-hadjer",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0102_mesmedje",
+            "name": {
+              "local": "Mesmedje",
+              "en": "Mesmedje",
+              "slug": "mesmedje"
+            },
+            "code": {
+              "id": "TCD0102_mesmedje",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0102_ratanine-har-djombo",
+            "name": {
+              "local": "Ratanine-Har-Djombo",
+              "en": "Ratanine-Har-Djombo",
+              "slug": "ratanine-har-djombo"
+            },
+            "code": {
+              "id": "TCD0102_ratanine-har-djombo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0102_sedamis-mr-mn-assine",
+            "name": {
+              "local": "Sedamis-Mr-Mn-Assine",
+              "en": "Sedamis-Mr-Mn-Assine",
+              "slug": "sedamis-mr-mn-assine"
+            },
+            "code": {
+              "id": "TCD0102_sedamis-mr-mn-assine",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0102_zioud-amsak",
+            "name": {
+              "local": "Zioud-Amsak",
+              "en": "Zioud-Amsak",
+              "slug": "zioud-amsak"
+            },
+            "code": {
+              "id": "TCD0102_zioud-amsak",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0101",
+        "name": {
+          "local": "Batha Ouest",
+          "en": "Batha Ouest",
+          "slug": "batha-ouest-tcd0101"
+        },
+        "code": {
+          "id": "TCD0101",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0101_fitri",
+            "name": {
+              "local": "Fitri",
+              "en": "Fitri",
+              "slug": "fitri"
+            },
+            "code": {
+              "id": "TCD0101_fitri",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0101_kouka-ati",
+            "name": {
+              "local": "Kouka-Ati",
+              "en": "Kouka-Ati",
+              "slug": "kouka-ati"
+            },
+            "code": {
+              "id": "TCD0101_kouka-ati",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0101_medego",
+            "name": {
+              "local": "Medego",
+              "en": "Medego",
+              "slug": "medego"
+            },
+            "code": {
+              "id": "TCD0101_medego",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0101_salamat",
+            "name": {
+              "local": "Salamat",
+              "en": "Salamat",
+              "slug": "salamat"
+            },
+            "code": {
+              "id": "TCD0101_salamat",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD02",
+    "name": {
+      "local": "BORKOU",
+      "en": "BORKOU",
+      "slug": "borkou-tcd02"
+    },
+    "code": {
+      "id": "TCD02",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD0201",
+        "name": {
+          "local": "Borkou",
+          "en": "Borkou",
+          "slug": "borkou-tcd0201"
+        },
+        "code": {
+          "id": "TCD0201",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0201_borkou",
+            "name": {
+              "local": "Borkou",
+              "en": "Borkou",
+              "slug": "borkou"
+            },
+            "code": {
+              "id": "TCD0201_borkou",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0202",
+        "name": {
+          "local": "Borkou Yala",
+          "en": "Borkou Yala",
+          "slug": "borkou-yala-tcd0202"
+        },
+        "code": {
+          "id": "TCD0202",
+          "iso": null
+        },
+        "sous_prefecture": []
+      }
+    ]
+  },
+  {
+    "id": "TCD03",
+    "name": {
+      "local": "CHARI BAGUIRMI",
+      "en": "CHARI BAGUIRMI",
+      "slug": "chari-baguirmi-tcd03"
+    },
+    "code": {
+      "id": "TCD03",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD0303",
+        "name": {
+          "local": "Loug Chari",
+          "en": "Loug Chari",
+          "slug": "loug-chari-tcd0303"
+        },
+        "code": {
+          "id": "TCD0303",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0303_ba-illi",
+            "name": {
+              "local": "Ba-Illi",
+              "en": "Ba-Illi",
+              "slug": "ba-illi"
+            },
+            "code": {
+              "id": "TCD0303_ba-illi",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0303_bogomoro",
+            "name": {
+              "local": "Bogomoro",
+              "en": "Bogomoro",
+              "slug": "bogomoro"
+            },
+            "code": {
+              "id": "TCD0303_bogomoro",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0303_bousso",
+            "name": {
+              "local": "Bousso",
+              "en": "Bousso",
+              "slug": "bousso"
+            },
+            "code": {
+              "id": "TCD0303_bousso",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0303_miltou-gourgara",
+            "name": {
+              "local": "Miltou-Gourgara",
+              "en": "Miltou-Gourgara",
+              "slug": "miltou-gourgara"
+            },
+            "code": {
+              "id": "TCD0303_miltou-gourgara",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0301",
+        "name": {
+          "local": "Baguirmi",
+          "en": "Baguirmi",
+          "slug": "baguirmi-tcd0301"
+        },
+        "code": {
+          "id": "TCD0301",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0301_batha-lairi",
+            "name": {
+              "local": "Batha-Lairi",
+              "en": "Batha-Lairi",
+              "slug": "batha-lairi"
+            },
+            "code": {
+              "id": "TCD0301_batha-lairi",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0301_bougoumene",
+            "name": {
+              "local": "Bougoumene",
+              "en": "Bougoumene",
+              "slug": "bougoumene"
+            },
+            "code": {
+              "id": "TCD0301_bougoumene",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0301_deredia",
+            "name": {
+              "local": "Deredia",
+              "en": "Deredia",
+              "slug": "deredia"
+            },
+            "code": {
+              "id": "TCD0301_deredia",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0301_dourbaliabouguerne",
+            "name": {
+              "local": "Dourbali/Abouguerne",
+              "en": "Dourbali/Abouguerne",
+              "slug": "dourbaliabouguerne"
+            },
+            "code": {
+              "id": "TCD0301_dourbaliabouguerne",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0301_mai-ache",
+            "name": {
+              "local": "Mai-Ache",
+              "en": "Mai-Ache",
+              "slug": "mai-ache"
+            },
+            "code": {
+              "id": "TCD0301_mai-ache",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0301_mandjafa",
+            "name": {
+              "local": "Mandjafa",
+              "en": "Mandjafa",
+              "slug": "mandjafa"
+            },
+            "code": {
+              "id": "TCD0301_mandjafa",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0301_massenya",
+            "name": {
+              "local": "Massenya",
+              "en": "Massenya",
+              "slug": "massenya"
+            },
+            "code": {
+              "id": "TCD0301_massenya",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0302",
+        "name": {
+          "local": "Chari",
+          "en": "Chari",
+          "slug": "chari-tcd0302"
+        },
+        "code": {
+          "id": "TCD0302",
+          "iso": null
+        },
+        "sous_prefecture": []
+      }
+    ]
+  },
+  {
+    "id": "TCD20",
+    "name": {
+      "local": "ENNEDI EST",
+      "en": "ENNEDI EST",
+      "slug": "ennedi-est-tcd20"
+    },
+    "code": {
+      "id": "TCD20",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD2002",
+        "name": {
+          "local": "Wadi Hawar",
+          "en": "Wadi Hawar",
+          "slug": "wadi-hawar-tcd2002"
+        },
+        "code": {
+          "id": "TCD2002",
+          "iso": null
+        },
+        "sous_prefecture": []
+      },
+      {
+        "id": "TCD2001",
+        "name": {
+          "local": "Amdjarass",
+          "en": "Amdjarass",
+          "slug": "amdjarass-tcd2001"
+        },
+        "code": {
+          "id": "TCD2001",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD2001_ennedi-est",
+            "name": {
+              "local": "Ennedi Est",
+              "en": "Ennedi Est",
+              "slug": "ennedi-est"
+            },
+            "code": {
+              "id": "TCD2001_ennedi-est",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD23",
+    "name": {
+      "local": "ENNEDI OUEST",
+      "en": "ENNEDI OUEST",
+      "slug": "ennedi-ouest-tcd23"
+    },
+    "code": {
+      "id": "TCD23",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD2302",
+        "name": {
+          "local": "Mourtcha",
+          "en": "Mourtcha",
+          "slug": "mourtcha-tcd2302"
+        },
+        "code": {
+          "id": "TCD2302",
+          "iso": null
+        },
+        "sous_prefecture": []
+      },
+      {
+        "id": "TCD2301",
+        "name": {
+          "local": "Fada",
+          "en": "Fada",
+          "slug": "fada-tcd2301"
+        },
+        "code": {
+          "id": "TCD2301",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD2301_ennedi-ouest",
+            "name": {
+              "local": "Ennedi Ouest",
+              "en": "Ennedi Ouest",
+              "slug": "ennedi-ouest"
+            },
+            "code": {
+              "id": "TCD2301_ennedi-ouest",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD04",
+    "name": {
+      "local": "GUÉRA",
+      "en": "GUÉRA",
+      "slug": "gura-tcd04"
+    },
+    "code": {
+      "id": "TCD04",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD0403",
+        "name": {
+          "local": "Bahar Signaka",
+          "en": "Bahar Signaka",
+          "slug": "bahar-signaka-tcd0403"
+        },
+        "code": {
+          "id": "TCD0403",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0403_bidio",
+            "name": {
+              "local": "Bidio",
+              "en": "Bidio",
+              "slug": "bidio"
+            },
+            "code": {
+              "id": "TCD0403_bidio",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0403_dadjo-i",
+            "name": {
+              "local": "Dadjo-I",
+              "en": "Dadjo-I",
+              "slug": "dadjo-i"
+            },
+            "code": {
+              "id": "TCD0403_dadjo-i",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0403_djonkor-aboutelfane",
+            "name": {
+              "local": "Djonkor-Aboutelfane",
+              "en": "Djonkor-Aboutelfane",
+              "slug": "djonkor-aboutelfane"
+            },
+            "code": {
+              "id": "TCD0403_djonkor-aboutelfane",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0403_koffa",
+            "name": {
+              "local": "Koffa",
+              "en": "Koffa",
+              "slug": "koffa"
+            },
+            "code": {
+              "id": "TCD0403_koffa",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0403_yalnass",
+            "name": {
+              "local": "Yalnass",
+              "en": "Yalnass",
+              "slug": "yalnass"
+            },
+            "code": {
+              "id": "TCD0403_yalnass",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0402",
+        "name": {
+          "local": "Abtouyour",
+          "en": "Abtouyour",
+          "slug": "abtouyour-tcd0402"
+        },
+        "code": {
+          "id": "TCD0402",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0402_bitkine",
+            "name": {
+              "local": "Bitkine",
+              "en": "Bitkine",
+              "slug": "bitkine"
+            },
+            "code": {
+              "id": "TCD0402_bitkine",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0402_dangaleat",
+            "name": {
+              "local": "Dangaleat",
+              "en": "Dangaleat",
+              "slug": "dangaleat"
+            },
+            "code": {
+              "id": "TCD0402_dangaleat",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0402_djonkor-guera",
+            "name": {
+              "local": "Djonkor-Guera",
+              "en": "Djonkor-Guera",
+              "slug": "djonkor-guera"
+            },
+            "code": {
+              "id": "TCD0402_djonkor-guera",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0402_kenga",
+            "name": {
+              "local": "Kenga",
+              "en": "Kenga",
+              "slug": "kenga"
+            },
+            "code": {
+              "id": "TCD0402_kenga",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0402_sara-arabe",
+            "name": {
+              "local": "Sara-Arabe",
+              "en": "Sara-Arabe",
+              "slug": "sara-arabe"
+            },
+            "code": {
+              "id": "TCD0402_sara-arabe",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0401",
+        "name": {
+          "local": "Guéra",
+          "en": "Guéra",
+          "slug": "gura-tcd0401"
+        },
+        "code": {
+          "id": "TCD0401",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0401_daguela",
+            "name": {
+              "local": "Daguela",
+              "en": "Daguela",
+              "slug": "daguela"
+            },
+            "code": {
+              "id": "TCD0401_daguela",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0401_dekakire",
+            "name": {
+              "local": "Dekakire",
+              "en": "Dekakire",
+              "slug": "dekakire"
+            },
+            "code": {
+              "id": "TCD0401_dekakire",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0401_gogmi",
+            "name": {
+              "local": "Gogmi",
+              "en": "Gogmi",
+              "slug": "gogmi"
+            },
+            "code": {
+              "id": "TCD0401_gogmi",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0401_melfi",
+            "name": {
+              "local": "Melfi",
+              "en": "Melfi",
+              "slug": "melfi"
+            },
+            "code": {
+              "id": "TCD0401_melfi",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0401_mokofi",
+            "name": {
+              "local": "Mokofi",
+              "en": "Mokofi",
+              "slug": "mokofi"
+            },
+            "code": {
+              "id": "TCD0401_mokofi",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0401_mousmare",
+            "name": {
+              "local": "Mousmare",
+              "en": "Mousmare",
+              "slug": "mousmare"
+            },
+            "code": {
+              "id": "TCD0401_mousmare",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0401_sorki",
+            "name": {
+              "local": "Sorki",
+              "en": "Sorki",
+              "slug": "sorki"
+            },
+            "code": {
+              "id": "TCD0401_sorki",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0404",
+        "name": {
+          "local": "Mangalmé",
+          "en": "Mangalmé",
+          "slug": "mangalm-tcd0404"
+        },
+        "code": {
+          "id": "TCD0404",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0404_dadjo-ii",
+            "name": {
+              "local": "Dadjo-Ii",
+              "en": "Dadjo-Ii",
+              "slug": "dadjo-ii"
+            },
+            "code": {
+              "id": "TCD0404_dadjo-ii",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0404_moubi-goz",
+            "name": {
+              "local": "Moubi-Goz",
+              "en": "Moubi-Goz",
+              "slug": "moubi-goz"
+            },
+            "code": {
+              "id": "TCD0404_moubi-goz",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0404_moubi-hadaba",
+            "name": {
+              "local": "Moubi-Hadaba",
+              "en": "Moubi-Hadaba",
+              "slug": "moubi-hadaba"
+            },
+            "code": {
+              "id": "TCD0404_moubi-hadaba",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0404_moubi-zarga",
+            "name": {
+              "local": "Moubi-Zarga",
+              "en": "Moubi-Zarga",
+              "slug": "moubi-zarga"
+            },
+            "code": {
+              "id": "TCD0404_moubi-zarga",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD05",
+    "name": {
+      "local": "HADJER LAMIS",
+      "en": "HADJER LAMIS",
+      "slug": "hadjer-lamis-tcd05"
+    },
+    "code": {
+      "id": "TCD05",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD0503",
+        "name": {
+          "local": "Haraze Al Biar",
+          "en": "Haraze Al Biar",
+          "slug": "haraze-al-biar-tcd0503"
+        },
+        "code": {
+          "id": "TCD0503",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0503_afrouk",
+            "name": {
+              "local": "Afrouk",
+              "en": "Afrouk",
+              "slug": "afrouk"
+            },
+            "code": {
+              "id": "TCD0503_afrouk",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0503_mani",
+            "name": {
+              "local": "Mani",
+              "en": "Mani",
+              "slug": "mani"
+            },
+            "code": {
+              "id": "TCD0503_mani",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0503_massaguet",
+            "name": {
+              "local": "Massaguet",
+              "en": "Massaguet",
+              "slug": "massaguet"
+            },
+            "code": {
+              "id": "TCD0503_massaguet",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0502",
+        "name": {
+          "local": "Dababa",
+          "en": "Dababa",
+          "slug": "dababa-tcd0502"
+        },
+        "code": {
+          "id": "TCD0502",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0502_amladoba",
+            "name": {
+              "local": "Amladoba",
+              "en": "Amladoba",
+              "slug": "amladoba"
+            },
+            "code": {
+              "id": "TCD0502_amladoba",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0502_bokorotania",
+            "name": {
+              "local": "Bokoro/Tania",
+              "en": "Bokoro/Tania",
+              "slug": "bokorotania"
+            },
+            "code": {
+              "id": "TCD0502_bokorotania",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0502_dababa",
+            "name": {
+              "local": "Dababa",
+              "en": "Dababa",
+              "slug": "dababa"
+            },
+            "code": {
+              "id": "TCD0502_dababa",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0502_mayakne",
+            "name": {
+              "local": "Mayakne",
+              "en": "Mayakne",
+              "slug": "mayakne"
+            },
+            "code": {
+              "id": "TCD0502_mayakne",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0502_moito",
+            "name": {
+              "local": "Moito",
+              "en": "Moito",
+              "slug": "moito"
+            },
+            "code": {
+              "id": "TCD0502_moito",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0502_yessiengama",
+            "name": {
+              "local": "Yessie/Ngama",
+              "en": "Yessie/Ngama",
+              "slug": "yessiengama"
+            },
+            "code": {
+              "id": "TCD0502_yessiengama",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0501",
+        "name": {
+          "local": "Dagana",
+          "en": "Dagana",
+          "slug": "dagana-tcd0501"
+        },
+        "code": {
+          "id": "TCD0501",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0501_massakory",
+            "name": {
+              "local": "Massakory",
+              "en": "Massakory",
+              "slug": "massakory"
+            },
+            "code": {
+              "id": "TCD0501_massakory",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD06",
+    "name": {
+      "local": "KANEM",
+      "en": "KANEM",
+      "slug": "kanem-tcd06"
+    },
+    "code": {
+      "id": "TCD06",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD0603",
+        "name": {
+          "local": "Wadi Bissam",
+          "en": "Wadi Bissam",
+          "slug": "wadi-bissam-tcd0603"
+        },
+        "code": {
+          "id": "TCD0603",
+          "iso": null
+        },
+        "sous_prefecture": []
+      },
+      {
+        "id": "TCD0601",
+        "name": {
+          "local": "Kanem",
+          "en": "Kanem",
+          "slug": "kanem-tcd0601"
+        },
+        "code": {
+          "id": "TCD0601",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0601_amdobak",
+            "name": {
+              "local": "Amdobak",
+              "en": "Amdobak",
+              "slug": "amdobak"
+            },
+            "code": {
+              "id": "TCD0601_amdobak",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0601_dokora",
+            "name": {
+              "local": "Dokora",
+              "en": "Dokora",
+              "slug": "dokora"
+            },
+            "code": {
+              "id": "TCD0601_dokora",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0601_illili",
+            "name": {
+              "local": "Illili",
+              "en": "Illili",
+              "slug": "illili"
+            },
+            "code": {
+              "id": "TCD0601_illili",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0601_moal",
+            "name": {
+              "local": "Moal",
+              "en": "Moal",
+              "slug": "moal"
+            },
+            "code": {
+              "id": "TCD0601_moal",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0601_mondo",
+            "name": {
+              "local": "Mondo",
+              "en": "Mondo",
+              "slug": "mondo"
+            },
+            "code": {
+              "id": "TCD0601_mondo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0601_motoa",
+            "name": {
+              "local": "Motoa",
+              "en": "Motoa",
+              "slug": "motoa"
+            },
+            "code": {
+              "id": "TCD0601_motoa",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0601_mourzigui",
+            "name": {
+              "local": "Mourzigui",
+              "en": "Mourzigui",
+              "slug": "mourzigui"
+            },
+            "code": {
+              "id": "TCD0601_mourzigui",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0601_sultanat",
+            "name": {
+              "local": "Sultanat",
+              "en": "Sultanat",
+              "slug": "sultanat"
+            },
+            "code": {
+              "id": "TCD0601_sultanat",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0602",
+        "name": {
+          "local": "Nord Kanem",
+          "en": "Nord Kanem",
+          "slug": "nord-kanem-tcd0602"
+        },
+        "code": {
+          "id": "TCD0602",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0602_nokou",
+            "name": {
+              "local": "Nokou",
+              "en": "Nokou",
+              "slug": "nokou"
+            },
+            "code": {
+              "id": "TCD0602_nokou",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0602_ntiona",
+            "name": {
+              "local": "Ntiona",
+              "en": "Ntiona",
+              "slug": "ntiona"
+            },
+            "code": {
+              "id": "TCD0602_ntiona",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0602_rig-rig",
+            "name": {
+              "local": "Rig-Rig",
+              "en": "Rig-Rig",
+              "slug": "rig-rig"
+            },
+            "code": {
+              "id": "TCD0602_rig-rig",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD07",
+    "name": {
+      "local": "LAC",
+      "en": "LAC",
+      "slug": "lac-tcd07"
+    },
+    "code": {
+      "id": "TCD07",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD0702",
+        "name": {
+          "local": "Wayi",
+          "en": "Wayi",
+          "slug": "wayi-tcd0702"
+        },
+        "code": {
+          "id": "TCD0702",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0702_ngouri",
+            "name": {
+              "local": "Ngouri",
+              "en": "Ngouri",
+              "slug": "ngouri"
+            },
+            "code": {
+              "id": "TCD0702_ngouri",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0701",
+        "name": {
+          "local": "Mamdi",
+          "en": "Mamdi",
+          "slug": "mamdi-tcd0701"
+        },
+        "code": {
+          "id": "TCD0701",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0701_bol",
+            "name": {
+              "local": "Bol",
+              "en": "Bol",
+              "slug": "bol"
+            },
+            "code": {
+              "id": "TCD0701_bol",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0703",
+        "name": {
+          "local": "Kaya",
+          "en": "Kaya",
+          "slug": "kaya-tcd0703"
+        },
+        "code": {
+          "id": "TCD0703",
+          "iso": null
+        },
+        "sous_prefecture": []
+      },
+      {
+        "id": "TCD0704",
+        "name": {
+          "local": "Fouli",
+          "en": "Fouli",
+          "slug": "fouli-tcd0704"
+        },
+        "code": {
+          "id": "TCD0704",
+          "iso": null
+        },
+        "sous_prefecture": []
+      }
+    ]
+  },
+  {
+    "id": "TCD08",
+    "name": {
+      "local": "LOGONE OCCIDENTAL",
+      "en": "LOGONE OCCIDENTAL",
+      "slug": "logone-occidental-tcd08"
+    },
+    "code": {
+      "id": "TCD08",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD0801",
+        "name": {
+          "local": "Lac wey",
+          "en": "Lac wey",
+          "slug": "lac-wey-tcd0801"
+        },
+        "code": {
+          "id": "TCD0801",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0801_bah",
+            "name": {
+              "local": "Bah",
+              "en": "Bah",
+              "slug": "bah"
+            },
+            "code": {
+              "id": "TCD0801_bah",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_bao",
+            "name": {
+              "local": "Bao",
+              "en": "Bao",
+              "slug": "bao"
+            },
+            "code": {
+              "id": "TCD0801_bao",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_biramanda",
+            "name": {
+              "local": "Biramanda",
+              "en": "Biramanda",
+              "slug": "biramanda"
+            },
+            "code": {
+              "id": "TCD0801_biramanda",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_dadjile",
+            "name": {
+              "local": "Dadjile",
+              "en": "Dadjile",
+              "slug": "dadjile"
+            },
+            "code": {
+              "id": "TCD0801_dadjile",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_deli",
+            "name": {
+              "local": "Deli",
+              "en": "Deli",
+              "slug": "deli"
+            },
+            "code": {
+              "id": "TCD0801_deli",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_dodinda",
+            "name": {
+              "local": "Dodinda",
+              "en": "Dodinda",
+              "slug": "dodinda"
+            },
+            "code": {
+              "id": "TCD0801_dodinda",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_kaga",
+            "name": {
+              "local": "Kaga",
+              "en": "Kaga",
+              "slug": "kaga"
+            },
+            "code": {
+              "id": "TCD0801_kaga",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_krim-krim",
+            "name": {
+              "local": "Krim-Krim",
+              "en": "Krim-Krim",
+              "slug": "krim-krim"
+            },
+            "code": {
+              "id": "TCD0801_krim-krim",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_mbalkabra",
+            "name": {
+              "local": "Mbalkabra",
+              "en": "Mbalkabra",
+              "slug": "mbalkabra"
+            },
+            "code": {
+              "id": "TCD0801_mbalkabra",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_mballa",
+            "name": {
+              "local": "Mballa",
+              "en": "Mballa",
+              "slug": "mballa"
+            },
+            "code": {
+              "id": "TCD0801_mballa",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_moundoukoutou",
+            "name": {
+              "local": "Moundou/Koutou",
+              "en": "Moundou/Koutou",
+              "slug": "moundoukoutou"
+            },
+            "code": {
+              "id": "TCD0801_moundoukoutou",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_ngondong",
+            "name": {
+              "local": "Ngondong",
+              "en": "Ngondong",
+              "slug": "ngondong"
+            },
+            "code": {
+              "id": "TCD0801_ngondong",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0801_tagoro",
+            "name": {
+              "local": "Tagoro",
+              "en": "Tagoro",
+              "slug": "tagoro"
+            },
+            "code": {
+              "id": "TCD0801_tagoro",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0802",
+        "name": {
+          "local": "Djode",
+          "en": "Djode",
+          "slug": "djode-tcd0802"
+        },
+        "code": {
+          "id": "TCD0802",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0802_beinamar",
+            "name": {
+              "local": "Beinamar",
+              "en": "Beinamar",
+              "slug": "beinamar"
+            },
+            "code": {
+              "id": "TCD0802_beinamar",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0802_beissa",
+            "name": {
+              "local": "Beissa",
+              "en": "Beissa",
+              "slug": "beissa"
+            },
+            "code": {
+              "id": "TCD0802_beissa",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0802_lao-kassi",
+            "name": {
+              "local": "Lao-Kassi",
+              "en": "Lao-Kassi",
+              "slug": "lao-kassi"
+            },
+            "code": {
+              "id": "TCD0802_lao-kassi",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0802_tapol",
+            "name": {
+              "local": "Tapol",
+              "en": "Tapol",
+              "slug": "tapol"
+            },
+            "code": {
+              "id": "TCD0802_tapol",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0803",
+        "name": {
+          "local": "Gueni",
+          "en": "Gueni",
+          "slug": "gueni-tcd0803"
+        },
+        "code": {
+          "id": "TCD0803",
+          "iso": null
+        },
+        "sous_prefecture": []
+      },
+      {
+        "id": "TCD0804",
+        "name": {
+          "local": "Ngourkosso",
+          "en": "Ngourkosso",
+          "slug": "ngourkosso-tcd0804"
+        },
+        "code": {
+          "id": "TCD0804",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0804_bebalem",
+            "name": {
+              "local": "Bebalem",
+              "en": "Bebalem",
+              "slug": "bebalem"
+            },
+            "code": {
+              "id": "TCD0804_bebalem",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0804_beladjia",
+            "name": {
+              "local": "Beladjia",
+              "en": "Beladjia",
+              "slug": "beladjia"
+            },
+            "code": {
+              "id": "TCD0804_beladjia",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0804_benoye",
+            "name": {
+              "local": "Benoye",
+              "en": "Benoye",
+              "slug": "benoye"
+            },
+            "code": {
+              "id": "TCD0804_benoye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0804_besseye",
+            "name": {
+              "local": "Besseye",
+              "en": "Besseye",
+              "slug": "besseye"
+            },
+            "code": {
+              "id": "TCD0804_besseye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0804_bourou",
+            "name": {
+              "local": "Bourou",
+              "en": "Bourou",
+              "slug": "bourou"
+            },
+            "code": {
+              "id": "TCD0804_bourou",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0804_gore-loc",
+            "name": {
+              "local": "Gore-Loc",
+              "en": "Gore-Loc",
+              "slug": "gore-loc"
+            },
+            "code": {
+              "id": "TCD0804_gore-loc",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0804_koutoutou",
+            "name": {
+              "local": "Koutoutou",
+              "en": "Koutoutou",
+              "slug": "koutoutou"
+            },
+            "code": {
+              "id": "TCD0804_koutoutou",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0804_manso",
+            "name": {
+              "local": "Manso",
+              "en": "Manso",
+              "slug": "manso"
+            },
+            "code": {
+              "id": "TCD0804_manso",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0804_mbaouroye",
+            "name": {
+              "local": "Mbaouroye",
+              "en": "Mbaouroye",
+              "slug": "mbaouroye"
+            },
+            "code": {
+              "id": "TCD0804_mbaouroye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0804_saar",
+            "name": {
+              "local": "Saar",
+              "en": "Saar",
+              "slug": "saar"
+            },
+            "code": {
+              "id": "TCD0804_saar",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0804_tchaouensaoua",
+            "name": {
+              "local": "Tchaouen/Saoua",
+              "en": "Tchaouen/Saoua",
+              "slug": "tchaouensaoua"
+            },
+            "code": {
+              "id": "TCD0804_tchaouensaoua",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD09",
+    "name": {
+      "local": "LOGONE ORIENTAL",
+      "en": "LOGONE ORIENTAL",
+      "slug": "logone-oriental-tcd09"
+    },
+    "code": {
+      "id": "TCD09",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD0903",
+        "name": {
+          "local": "Kouh Ouest",
+          "en": "Kouh Ouest",
+          "slug": "kouh-ouest-tcd0903"
+        },
+        "code": {
+          "id": "TCD0903",
+          "iso": null
+        },
+        "sous_prefecture": []
+      },
+      {
+        "id": "TCD0902",
+        "name": {
+          "local": "Kouh Est",
+          "en": "Kouh Est",
+          "slug": "kouh-est-tcd0902"
+        },
+        "code": {
+          "id": "TCD0902",
+          "iso": null
+        },
+        "sous_prefecture": []
+      },
+      {
+        "id": "TCD0904",
+        "name": {
+          "local": "La nya",
+          "en": "La nya",
+          "slug": "la-nya-tcd0904"
+        },
+        "code": {
+          "id": "TCD0904",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0904_bebedjia",
+            "name": {
+              "local": "Bebedjia",
+              "en": "Bebedjia",
+              "slug": "bebedjia"
+            },
+            "code": {
+              "id": "TCD0904_bebedjia",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0904_beboni",
+            "name": {
+              "local": "Beboni",
+              "en": "Beboni",
+              "slug": "beboni"
+            },
+            "code": {
+              "id": "TCD0904_beboni",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0904_bero",
+            "name": {
+              "local": "Bero",
+              "en": "Bero",
+              "slug": "bero"
+            },
+            "code": {
+              "id": "TCD0904_bero",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0904_komendobele",
+            "name": {
+              "local": "Kome/Ndobele",
+              "en": "Kome/Ndobele",
+              "slug": "komendobele"
+            },
+            "code": {
+              "id": "TCD0904_komendobele",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0904_mbikou",
+            "name": {
+              "local": "Mbikou",
+              "en": "Mbikou",
+              "slug": "mbikou"
+            },
+            "code": {
+              "id": "TCD0904_mbikou",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0904_miandoum",
+            "name": {
+              "local": "Miandoum",
+              "en": "Miandoum",
+              "slug": "miandoum"
+            },
+            "code": {
+              "id": "TCD0904_miandoum",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0901",
+        "name": {
+          "local": "La pendé",
+          "en": "La pendé",
+          "slug": "la-pend-tcd0901"
+        },
+        "code": {
+          "id": "TCD0901",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0901_beboto",
+            "name": {
+              "local": "Beboto",
+              "en": "Beboto",
+              "slug": "beboto"
+            },
+            "code": {
+              "id": "TCD0901_beboto",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0901_beti",
+            "name": {
+              "local": "Beti",
+              "en": "Beti",
+              "slug": "beti"
+            },
+            "code": {
+              "id": "TCD0901_beti",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0901_bodo",
+            "name": {
+              "local": "Bodo",
+              "en": "Bodo",
+              "slug": "bodo"
+            },
+            "code": {
+              "id": "TCD0901_bodo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0901_doba",
+            "name": {
+              "local": "Doba",
+              "en": "Doba",
+              "slug": "doba"
+            },
+            "code": {
+              "id": "TCD0901_doba",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0901_karamaibo-goulaye",
+            "name": {
+              "local": "Kara/Maibo-Goulaye",
+              "en": "Kara/Maibo-Goulaye",
+              "slug": "karamaibo-goulaye"
+            },
+            "code": {
+              "id": "TCD0901_karamaibo-goulaye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0901_maibo-mbaye",
+            "name": {
+              "local": "Maibo-Mbaye",
+              "en": "Maibo-Mbaye",
+              "slug": "maibo-mbaye"
+            },
+            "code": {
+              "id": "TCD0901_maibo-mbaye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0901_mango",
+            "name": {
+              "local": "Mango",
+              "en": "Mango",
+              "slug": "mango"
+            },
+            "code": {
+              "id": "TCD0901_mango",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0901_nankesse",
+            "name": {
+              "local": "Nankesse",
+              "en": "Nankesse",
+              "slug": "nankesse"
+            },
+            "code": {
+              "id": "TCD0901_nankesse",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0901_nassian",
+            "name": {
+              "local": "Nassian",
+              "en": "Nassian",
+              "slug": "nassian"
+            },
+            "code": {
+              "id": "TCD0901_nassian",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0901_sama",
+            "name": {
+              "local": "Sama",
+              "en": "Sama",
+              "slug": "sama"
+            },
+            "code": {
+              "id": "TCD0901_sama",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0905",
+        "name": {
+          "local": "La Nya pendé",
+          "en": "La Nya pendé",
+          "slug": "la-nya-pend-tcd0905"
+        },
+        "code": {
+          "id": "TCD0905",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0905_bekan",
+            "name": {
+              "local": "Bekan",
+              "en": "Bekan",
+              "slug": "bekan"
+            },
+            "code": {
+              "id": "TCD0905_bekan",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0905_boro",
+            "name": {
+              "local": "Boro",
+              "en": "Boro",
+              "slug": "boro"
+            },
+            "code": {
+              "id": "TCD0905_boro",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0905_boye-bessao",
+            "name": {
+              "local": "Boye-Bessao",
+              "en": "Boye-Bessao",
+              "slug": "boye-bessao"
+            },
+            "code": {
+              "id": "TCD0905_boye-bessao",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0905_gore",
+            "name": {
+              "local": "Gore",
+              "en": "Gore",
+              "slug": "gore"
+            },
+            "code": {
+              "id": "TCD0905_gore",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0905_kaba-donia",
+            "name": {
+              "local": "Kaba-Donia",
+              "en": "Kaba-Donia",
+              "slug": "kaba-donia"
+            },
+            "code": {
+              "id": "TCD0905_kaba-donia",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0905_kaba-roangar",
+            "name": {
+              "local": "Kaba-Roangar",
+              "en": "Kaba-Roangar",
+              "slug": "kaba-roangar"
+            },
+            "code": {
+              "id": "TCD0905_kaba-roangar",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0905_mbaikoro",
+            "name": {
+              "local": "Mbaikoro",
+              "en": "Mbaikoro",
+              "slug": "mbaikoro"
+            },
+            "code": {
+              "id": "TCD0905_mbaikoro",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0905_miladi",
+            "name": {
+              "local": "Miladi",
+              "en": "Miladi",
+              "slug": "miladi"
+            },
+            "code": {
+              "id": "TCD0905_miladi",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0905_timberi",
+            "name": {
+              "local": "Timberi",
+              "en": "Timberi",
+              "slug": "timberi"
+            },
+            "code": {
+              "id": "TCD0905_timberi",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0905_yamodo",
+            "name": {
+              "local": "Yamodo",
+              "en": "Yamodo",
+              "slug": "yamodo"
+            },
+            "code": {
+              "id": "TCD0905_yamodo",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD0906",
+        "name": {
+          "local": "Monts de lam",
+          "en": "Monts de lam",
+          "slug": "monts-de-lam-tcd0906"
+        },
+        "code": {
+          "id": "TCD0906",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD0906_andoum",
+            "name": {
+              "local": "Andoum",
+              "en": "Andoum",
+              "slug": "andoum"
+            },
+            "code": {
+              "id": "TCD0906_andoum",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0906_bessao",
+            "name": {
+              "local": "Bessao",
+              "en": "Bessao",
+              "slug": "bessao"
+            },
+            "code": {
+              "id": "TCD0906_bessao",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0906_gadjibian",
+            "name": {
+              "local": "Gadjibian",
+              "en": "Gadjibian",
+              "slug": "gadjibian"
+            },
+            "code": {
+              "id": "TCD0906_gadjibian",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0906_loumbogo",
+            "name": {
+              "local": "Loumbogo",
+              "en": "Loumbogo",
+              "slug": "loumbogo"
+            },
+            "code": {
+              "id": "TCD0906_loumbogo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0906_mbaissaye",
+            "name": {
+              "local": "Mbaissaye",
+              "en": "Mbaissaye",
+              "slug": "mbaissaye"
+            },
+            "code": {
+              "id": "TCD0906_mbaissaye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0906_mbouroum",
+            "name": {
+              "local": "Mbouroum",
+              "en": "Mbouroum",
+              "slug": "mbouroum"
+            },
+            "code": {
+              "id": "TCD0906_mbouroum",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0906_mont-de-lam",
+            "name": {
+              "local": "Mont-De-Lam",
+              "en": "Mont-De-Lam",
+              "slug": "mont-de-lam"
+            },
+            "code": {
+              "id": "TCD0906_mont-de-lam",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0906_oudoumian",
+            "name": {
+              "local": "Oudoumian",
+              "en": "Oudoumian",
+              "slug": "oudoumian"
+            },
+            "code": {
+              "id": "TCD0906_oudoumian",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0906_pandzangue",
+            "name": {
+              "local": "Pandzangue",
+              "en": "Pandzangue",
+              "slug": "pandzangue"
+            },
+            "code": {
+              "id": "TCD0906_pandzangue",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD0906_pao",
+            "name": {
+              "local": "Pao",
+              "en": "Pao",
+              "slug": "pao"
+            },
+            "code": {
+              "id": "TCD0906_pao",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD10",
+    "name": {
+      "local": "MANDOUL",
+      "en": "MANDOUL",
+      "slug": "mandoul-tcd10"
+    },
+    "code": {
+      "id": "TCD10",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD1003",
+        "name": {
+          "local": "Mandoul Occidental",
+          "en": "Mandoul Occidental",
+          "slug": "mandoul-occidental-tcd1003"
+        },
+        "code": {
+          "id": "TCD1003",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1003_bangoul",
+            "name": {
+              "local": "Bangoul",
+              "en": "Bangoul",
+              "slug": "bangoul"
+            },
+            "code": {
+              "id": "TCD1003_bangoul",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1003_bebo-pen",
+            "name": {
+              "local": "Bebo-Pen",
+              "en": "Bebo-Pen",
+              "slug": "bebo-pen"
+            },
+            "code": {
+              "id": "TCD1003_bebo-pen",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1003_bedjondo",
+            "name": {
+              "local": "Bedjondo",
+              "en": "Bedjondo",
+              "slug": "bedjondo"
+            },
+            "code": {
+              "id": "TCD1003_bedjondo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1003_bekamba-koumra",
+            "name": {
+              "local": "Bekamba-Koumra",
+              "en": "Bekamba-Koumra",
+              "slug": "bekamba-koumra"
+            },
+            "code": {
+              "id": "TCD1003_bekamba-koumra",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1003_nderguigui",
+            "name": {
+              "local": "Nderguigui",
+              "en": "Nderguigui",
+              "slug": "nderguigui"
+            },
+            "code": {
+              "id": "TCD1003_nderguigui",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1003_peni-tchad",
+            "name": {
+              "local": "Peni-Tchad",
+              "en": "Peni-Tchad",
+              "slug": "peni-tchad"
+            },
+            "code": {
+              "id": "TCD1003_peni-tchad",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1003_yomi",
+            "name": {
+              "local": "Yomi",
+              "en": "Yomi",
+              "slug": "yomi"
+            },
+            "code": {
+              "id": "TCD1003_yomi",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1001",
+        "name": {
+          "local": "Mandoul Oriental",
+          "en": "Mandoul Oriental",
+          "slug": "mandoul-oriental-tcd1001"
+        },
+        "code": {
+          "id": "TCD1001",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1001_bedaya",
+            "name": {
+              "local": "Bedaya",
+              "en": "Bedaya",
+              "slug": "bedaya"
+            },
+            "code": {
+              "id": "TCD1001_bedaya",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1001_bessada",
+            "name": {
+              "local": "Bessada",
+              "en": "Bessada",
+              "slug": "bessada"
+            },
+            "code": {
+              "id": "TCD1001_bessada",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1001_dobo",
+            "name": {
+              "local": "Dobo",
+              "en": "Dobo",
+              "slug": "dobo"
+            },
+            "code": {
+              "id": "TCD1001_dobo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1001_goundi",
+            "name": {
+              "local": "Goundi",
+              "en": "Goundi",
+              "slug": "goundi"
+            },
+            "code": {
+              "id": "TCD1001_goundi",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1001_koumra",
+            "name": {
+              "local": "Koumra",
+              "en": "Koumra",
+              "slug": "koumra"
+            },
+            "code": {
+              "id": "TCD1001_koumra",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1001_mahim-toki",
+            "name": {
+              "local": "Mahim-Toki",
+              "en": "Mahim-Toki",
+              "slug": "mahim-toki"
+            },
+            "code": {
+              "id": "TCD1001_mahim-toki",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1001_matekaga",
+            "name": {
+              "local": "Matekaga",
+              "en": "Matekaga",
+              "slug": "matekaga"
+            },
+            "code": {
+              "id": "TCD1001_matekaga",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1001_mouroum-goulaye",
+            "name": {
+              "local": "Mouroum-Goulaye",
+              "en": "Mouroum-Goulaye",
+              "slug": "mouroum-goulaye"
+            },
+            "code": {
+              "id": "TCD1001_mouroum-goulaye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1001_ngangara",
+            "name": {
+              "local": "Ngangara",
+              "en": "Ngangara",
+              "slug": "ngangara"
+            },
+            "code": {
+              "id": "TCD1001_ngangara",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1002",
+        "name": {
+          "local": "Barh Sara",
+          "en": "Barh Sara",
+          "slug": "barh-sara-tcd1002"
+        },
+        "code": {
+          "id": "TCD1002",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1002_beboro",
+            "name": {
+              "local": "Beboro",
+              "en": "Beboro",
+              "slug": "beboro"
+            },
+            "code": {
+              "id": "TCD1002_beboro",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_begara",
+            "name": {
+              "local": "Begara",
+              "en": "Begara",
+              "slug": "begara"
+            },
+            "code": {
+              "id": "TCD1002_begara",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_bekamba-moissala",
+            "name": {
+              "local": "Bekamba-Moissala",
+              "en": "Bekamba-Moissala",
+              "slug": "bekamba-moissala"
+            },
+            "code": {
+              "id": "TCD1002_bekamba-moissala",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_bekourou",
+            "name": {
+              "local": "Bekourou",
+              "en": "Bekourou",
+              "slug": "bekourou"
+            },
+            "code": {
+              "id": "TCD1002_bekourou",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_bengoro",
+            "name": {
+              "local": "Bengoro",
+              "en": "Bengoro",
+              "slug": "bengoro"
+            },
+            "code": {
+              "id": "TCD1002_bengoro",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_bessara",
+            "name": {
+              "local": "Bessara",
+              "en": "Bessara",
+              "slug": "bessara"
+            },
+            "code": {
+              "id": "TCD1002_bessara",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_dembo",
+            "name": {
+              "local": "Dembo",
+              "en": "Dembo",
+              "slug": "dembo"
+            },
+            "code": {
+              "id": "TCD1002_dembo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_dilingala",
+            "name": {
+              "local": "Dilingala",
+              "en": "Dilingala",
+              "slug": "dilingala"
+            },
+            "code": {
+              "id": "TCD1002_dilingala",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_doubadene",
+            "name": {
+              "local": "Doubadene",
+              "en": "Doubadene",
+              "slug": "doubadene"
+            },
+            "code": {
+              "id": "TCD1002_doubadene",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_gabian",
+            "name": {
+              "local": "Gabian",
+              "en": "Gabian",
+              "slug": "gabian"
+            },
+            "code": {
+              "id": "TCD1002_gabian",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_gon",
+            "name": {
+              "local": "Gon",
+              "en": "Gon",
+              "slug": "gon"
+            },
+            "code": {
+              "id": "TCD1002_gon",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_koldaga",
+            "name": {
+              "local": "Koldaga",
+              "en": "Koldaga",
+              "slug": "koldaga"
+            },
+            "code": {
+              "id": "TCD1002_koldaga",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_moissala",
+            "name": {
+              "local": "Moissala",
+              "en": "Moissala",
+              "slug": "moissala"
+            },
+            "code": {
+              "id": "TCD1002_moissala",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_nadili",
+            "name": {
+              "local": "Nadili",
+              "en": "Nadili",
+              "slug": "nadili"
+            },
+            "code": {
+              "id": "TCD1002_nadili",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_ngalo",
+            "name": {
+              "local": "Ngalo",
+              "en": "Ngalo",
+              "slug": "ngalo"
+            },
+            "code": {
+              "id": "TCD1002_ngalo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1002_takoua",
+            "name": {
+              "local": "Takoua",
+              "en": "Takoua",
+              "slug": "takoua"
+            },
+            "code": {
+              "id": "TCD1002_takoua",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD11",
+    "name": {
+      "local": "MAYO KEBBI EST",
+      "en": "MAYO KEBBI EST",
+      "slug": "mayo-kebbi-est-tcd11"
+    },
+    "code": {
+      "id": "TCD11",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD1102",
+        "name": {
+          "local": "La kabbia",
+          "en": "La kabbia",
+          "slug": "la-kabbia-tcd1102"
+        },
+        "code": {
+          "id": "TCD1102",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1102_berem",
+            "name": {
+              "local": "Berem",
+              "en": "Berem",
+              "slug": "berem"
+            },
+            "code": {
+              "id": "TCD1102_berem",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1102_djarao",
+            "name": {
+              "local": "Djarao",
+              "en": "Djarao",
+              "slug": "djarao"
+            },
+            "code": {
+              "id": "TCD1102_djarao",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1102_domo",
+            "name": {
+              "local": "Domo",
+              "en": "Domo",
+              "slug": "domo"
+            },
+            "code": {
+              "id": "TCD1102_domo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1102_gounou-gaya",
+            "name": {
+              "local": "Gounou-Gaya",
+              "en": "Gounou-Gaya",
+              "slug": "gounou-gaya"
+            },
+            "code": {
+              "id": "TCD1102_gounou-gaya",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1102_gounou",
+            "name": {
+              "local": "Gounou",
+              "en": "Gounou",
+              "slug": "gounou"
+            },
+            "code": {
+              "id": "TCD1102_gounou",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1102_leo-mbassa",
+            "name": {
+              "local": "Leo-Mbassa",
+              "en": "Leo-Mbassa",
+              "slug": "leo-mbassa"
+            },
+            "code": {
+              "id": "TCD1102_leo-mbassa",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1102_tagal",
+            "name": {
+              "local": "Tagal",
+              "en": "Tagal",
+              "slug": "tagal"
+            },
+            "code": {
+              "id": "TCD1102_tagal",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1104",
+        "name": {
+          "local": "Mont Illi",
+          "en": "Mont Illi",
+          "slug": "mont-illi-tcd1104"
+        },
+        "code": {
+          "id": "TCD1104",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1104_fianga",
+            "name": {
+              "local": "Fianga",
+              "en": "Fianga",
+              "slug": "fianga"
+            },
+            "code": {
+              "id": "TCD1104_fianga",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1104_gami",
+            "name": {
+              "local": "Gami",
+              "en": "Gami",
+              "slug": "gami"
+            },
+            "code": {
+              "id": "TCD1104_gami",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1104_kera",
+            "name": {
+              "local": "Kera",
+              "en": "Kera",
+              "slug": "kera"
+            },
+            "code": {
+              "id": "TCD1104_kera",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1104_malboumhollom",
+            "name": {
+              "local": "Malboum/Hollom",
+              "en": "Malboum/Hollom",
+              "slug": "malboumhollom"
+            },
+            "code": {
+              "id": "TCD1104_malboumhollom",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1104_tikem",
+            "name": {
+              "local": "Tikem",
+              "en": "Tikem",
+              "slug": "tikem"
+            },
+            "code": {
+              "id": "TCD1104_tikem",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1104_youe",
+            "name": {
+              "local": "Youe",
+              "en": "Youe",
+              "slug": "youe"
+            },
+            "code": {
+              "id": "TCD1104_youe",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1101",
+        "name": {
+          "local": "Mayo Boneye",
+          "en": "Mayo Boneye",
+          "slug": "mayo-boneye-tcd1101"
+        },
+        "code": {
+          "id": "TCD1101",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1101_bongor",
+            "name": {
+              "local": "Bongor",
+              "en": "Bongor",
+              "slug": "bongor"
+            },
+            "code": {
+              "id": "TCD1101_bongor",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_djoumane",
+            "name": {
+              "local": "Djoumane",
+              "en": "Djoumane",
+              "slug": "djoumane"
+            },
+            "code": {
+              "id": "TCD1101_djoumane",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_ere",
+            "name": {
+              "local": "Ere",
+              "en": "Ere",
+              "slug": "ere"
+            },
+            "code": {
+              "id": "TCD1101_ere",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_ham",
+            "name": {
+              "local": "Ham",
+              "en": "Ham",
+              "slug": "ham"
+            },
+            "code": {
+              "id": "TCD1101_ham",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_katoa",
+            "name": {
+              "local": "Katoa",
+              "en": "Katoa",
+              "slug": "katoa"
+            },
+            "code": {
+              "id": "TCD1101_katoa",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_kim",
+            "name": {
+              "local": "Kim",
+              "en": "Kim",
+              "slug": "kim"
+            },
+            "code": {
+              "id": "TCD1101_kim",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_kolobo",
+            "name": {
+              "local": "Kolobo",
+              "en": "Kolobo",
+              "slug": "kolobo"
+            },
+            "code": {
+              "id": "TCD1101_kolobo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_koumi",
+            "name": {
+              "local": "Koumi",
+              "en": "Koumi",
+              "slug": "koumi"
+            },
+            "code": {
+              "id": "TCD1101_koumi",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_magao",
+            "name": {
+              "local": "Magao",
+              "en": "Magao",
+              "slug": "magao"
+            },
+            "code": {
+              "id": "TCD1101_magao",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_mitau",
+            "name": {
+              "local": "Mitau",
+              "en": "Mitau",
+              "slug": "mitau"
+            },
+            "code": {
+              "id": "TCD1101_mitau",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_mogroum",
+            "name": {
+              "local": "Mogroum",
+              "en": "Mogroum",
+              "slug": "mogroum"
+            },
+            "code": {
+              "id": "TCD1101_mogroum",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_ngam",
+            "name": {
+              "local": "Ngam",
+              "en": "Ngam",
+              "slug": "ngam"
+            },
+            "code": {
+              "id": "TCD1101_ngam",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_teleme",
+            "name": {
+              "local": "Teleme",
+              "en": "Teleme",
+              "slug": "teleme"
+            },
+            "code": {
+              "id": "TCD1101_teleme",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_tougoude",
+            "name": {
+              "local": "Tougoude",
+              "en": "Tougoude",
+              "slug": "tougoude"
+            },
+            "code": {
+              "id": "TCD1101_tougoude",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1101_toura",
+            "name": {
+              "local": "Toura",
+              "en": "Toura",
+              "slug": "toura"
+            },
+            "code": {
+              "id": "TCD1101_toura",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1103",
+        "name": {
+          "local": "Mayo Lemyé",
+          "en": "Mayo Lemyé",
+          "slug": "mayo-lemy-tcd1103"
+        },
+        "code": {
+          "id": "TCD1103",
+          "iso": null
+        },
+        "sous_prefecture": []
+      }
+    ]
+  },
+  {
+    "id": "TCD12",
+    "name": {
+      "local": "MAYO KEBBI OUEST",
+      "en": "MAYO KEBBI OUEST",
+      "slug": "mayo-kebbi-ouest-tcd12"
+    },
+    "code": {
+      "id": "TCD12",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD1201",
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        },
+        "code": {
+          "id": "TCD1201",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1201_dari",
+            "name": {
+              "local": "Dari",
+              "en": "Dari",
+              "slug": "dari"
+            },
+            "code": {
+              "id": "TCD1201_dari",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_doue",
+            "name": {
+              "local": "Doue",
+              "en": "Doue",
+              "slug": "doue"
+            },
+            "code": {
+              "id": "TCD1201_doue",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_erde-pala",
+            "name": {
+              "local": "Erde-Pala",
+              "en": "Erde-Pala",
+              "slug": "erde-pala"
+            },
+            "code": {
+              "id": "TCD1201_erde-pala",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_gagal",
+            "name": {
+              "local": "Gagal",
+              "en": "Gagal",
+              "slug": "gagal"
+            },
+            "code": {
+              "id": "TCD1201_gagal",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_gouey-goudoum",
+            "name": {
+              "local": "Gouey-Goudoum",
+              "en": "Gouey-Goudoum",
+              "slug": "gouey-goudoum"
+            },
+            "code": {
+              "id": "TCD1201_gouey-goudoum",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_gouin",
+            "name": {
+              "local": "Gouin",
+              "en": "Gouin",
+              "slug": "gouin"
+            },
+            "code": {
+              "id": "TCD1201_gouin",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_goumadji",
+            "name": {
+              "local": "Goumadji",
+              "en": "Goumadji",
+              "slug": "goumadji"
+            },
+            "code": {
+              "id": "TCD1201_goumadji",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_keuni",
+            "name": {
+              "local": "Keuni",
+              "en": "Keuni",
+              "slug": "keuni"
+            },
+            "code": {
+              "id": "TCD1201_keuni",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_korbokordo",
+            "name": {
+              "local": "Korbo/Kordo",
+              "en": "Korbo/Kordo",
+              "slug": "korbokordo"
+            },
+            "code": {
+              "id": "TCD1201_korbokordo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_lame",
+            "name": {
+              "local": "Lame",
+              "en": "Lame",
+              "slug": "lame"
+            },
+            "code": {
+              "id": "TCD1201_lame",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_salamata",
+            "name": {
+              "local": "Salamata",
+              "en": "Salamata",
+              "slug": "salamata"
+            },
+            "code": {
+              "id": "TCD1201_salamata",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_tagobo-foulbe",
+            "name": {
+              "local": "Tagobo-Foulbe",
+              "en": "Tagobo-Foulbe",
+              "slug": "tagobo-foulbe"
+            },
+            "code": {
+              "id": "TCD1201_tagobo-foulbe",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1201_torrok",
+            "name": {
+              "local": "Torrok",
+              "en": "Torrok",
+              "slug": "torrok"
+            },
+            "code": {
+              "id": "TCD1201_torrok",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1203",
+        "name": {
+          "local": "Mayo Binder",
+          "en": "Mayo Binder",
+          "slug": "mayo-binder-tcd1203"
+        },
+        "code": {
+          "id": "TCD1203",
+          "iso": null
+        },
+        "sous_prefecture": []
+      },
+      {
+        "id": "TCD1202",
+        "name": {
+          "local": "Lac Léré",
+          "en": "Lac Léré",
+          "slug": "lac-lr-tcd1202"
+        },
+        "code": {
+          "id": "TCD1202",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1202_binder",
+            "name": {
+              "local": "Binder",
+              "en": "Binder",
+              "slug": "binder"
+            },
+            "code": {
+              "id": "TCD1202_binder",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1202_bipare",
+            "name": {
+              "local": "Bipare",
+              "en": "Bipare",
+              "slug": "bipare"
+            },
+            "code": {
+              "id": "TCD1202_bipare",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1202_guegou",
+            "name": {
+              "local": "Guegou",
+              "en": "Guegou",
+              "slug": "guegou"
+            },
+            "code": {
+              "id": "TCD1202_guegou",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1202_lagon",
+            "name": {
+              "local": "Lagon",
+              "en": "Lagon",
+              "slug": "lagon"
+            },
+            "code": {
+              "id": "TCD1202_lagon",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1202_lere-tchad",
+            "name": {
+              "local": "Lere-Tchad",
+              "en": "Lere-Tchad",
+              "slug": "lere-tchad"
+            },
+            "code": {
+              "id": "TCD1202_lere-tchad",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD13",
+    "name": {
+      "local": "MOYEN CHARI",
+      "en": "MOYEN CHARI",
+      "slug": "moyen-chari-tcd13"
+    },
+    "code": {
+      "id": "TCD13",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD1302",
+        "name": {
+          "local": "Grande Sido",
+          "en": "Grande Sido",
+          "slug": "grande-sido-tcd1302"
+        },
+        "code": {
+          "id": "TCD1302",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1302_maro",
+            "name": {
+              "local": "Maro",
+              "en": "Maro",
+              "slug": "maro"
+            },
+            "code": {
+              "id": "TCD1302_maro",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1301",
+        "name": {
+          "local": "Bahr Koh",
+          "en": "Bahr Koh",
+          "slug": "bahr-koh-tcd1301"
+        },
+        "code": {
+          "id": "TCD1301",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1301_balimba",
+            "name": {
+              "local": "Balimba",
+              "en": "Balimba",
+              "slug": "balimba"
+            },
+            "code": {
+              "id": "TCD1301_balimba",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1301_banda",
+            "name": {
+              "local": "Banda",
+              "en": "Banda",
+              "slug": "banda"
+            },
+            "code": {
+              "id": "TCD1301_banda",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1301_djoli",
+            "name": {
+              "local": "Djoli",
+              "en": "Djoli",
+              "slug": "djoli"
+            },
+            "code": {
+              "id": "TCD1301_djoli",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1301_kokaga",
+            "name": {
+              "local": "Kokaga",
+              "en": "Kokaga",
+              "slug": "kokaga"
+            },
+            "code": {
+              "id": "TCD1301_kokaga",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1301_korbol",
+            "name": {
+              "local": "Korbol",
+              "en": "Korbol",
+              "slug": "korbol"
+            },
+            "code": {
+              "id": "TCD1301_korbol",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1301_koumogo",
+            "name": {
+              "local": "Koumogo",
+              "en": "Koumogo",
+              "slug": "koumogo"
+            },
+            "code": {
+              "id": "TCD1301_koumogo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1301_moussafoyo",
+            "name": {
+              "local": "Moussafoyo",
+              "en": "Moussafoyo",
+              "slug": "moussafoyo"
+            },
+            "code": {
+              "id": "TCD1301_moussafoyo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1301_niellim",
+            "name": {
+              "local": "Niellim",
+              "en": "Niellim",
+              "slug": "niellim"
+            },
+            "code": {
+              "id": "TCD1301_niellim",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1301_sarh",
+            "name": {
+              "local": "Sarh",
+              "en": "Sarh",
+              "slug": "sarh"
+            },
+            "code": {
+              "id": "TCD1301_sarh",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1303",
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        },
+        "code": {
+          "id": "TCD1303",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1303_alako",
+            "name": {
+              "local": "Alako",
+              "en": "Alako",
+              "slug": "alako"
+            },
+            "code": {
+              "id": "TCD1303_alako",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_bale",
+            "name": {
+              "local": "Bale",
+              "en": "Bale",
+              "slug": "bale"
+            },
+            "code": {
+              "id": "TCD1303_bale",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_baltoubaye",
+            "name": {
+              "local": "Baltoubaye",
+              "en": "Baltoubaye",
+              "slug": "baltoubaye"
+            },
+            "code": {
+              "id": "TCD1303_baltoubaye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_bohobe",
+            "name": {
+              "local": "Bohobe",
+              "en": "Bohobe",
+              "slug": "bohobe"
+            },
+            "code": {
+              "id": "TCD1303_bohobe",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_boum-kebir",
+            "name": {
+              "local": "Boum-Kebir",
+              "en": "Boum-Kebir",
+              "slug": "boum-kebir"
+            },
+            "code": {
+              "id": "TCD1303_boum-kebir",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_dindje",
+            "name": {
+              "local": "Dindje",
+              "en": "Dindje",
+              "slug": "dindje"
+            },
+            "code": {
+              "id": "TCD1303_dindje",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_koskobo",
+            "name": {
+              "local": "Koskobo",
+              "en": "Koskobo",
+              "slug": "koskobo"
+            },
+            "code": {
+              "id": "TCD1303_koskobo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_kotongoro",
+            "name": {
+              "local": "Kotongoro",
+              "en": "Kotongoro",
+              "slug": "kotongoro"
+            },
+            "code": {
+              "id": "TCD1303_kotongoro",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_kyabe",
+            "name": {
+              "local": "Kyabe",
+              "en": "Kyabe",
+              "slug": "kyabe"
+            },
+            "code": {
+              "id": "TCD1303_kyabe",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_marabe",
+            "name": {
+              "local": "Marabe",
+              "en": "Marabe",
+              "slug": "marabe"
+            },
+            "code": {
+              "id": "TCD1303_marabe",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_moufa",
+            "name": {
+              "local": "Moufa",
+              "en": "Moufa",
+              "slug": "moufa"
+            },
+            "code": {
+              "id": "TCD1303_moufa",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_ndjokou",
+            "name": {
+              "local": "Ndjokou",
+              "en": "Ndjokou",
+              "slug": "ndjokou"
+            },
+            "code": {
+              "id": "TCD1303_ndjokou",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_simegotobe",
+            "name": {
+              "local": "Simegotobe",
+              "en": "Simegotobe",
+              "slug": "simegotobe"
+            },
+            "code": {
+              "id": "TCD1303_simegotobe",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1303_singako",
+            "name": {
+              "local": "Singako",
+              "en": "Singako",
+              "slug": "singako"
+            },
+            "code": {
+              "id": "TCD1303_singako",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD18",
+    "name": {
+      "local": "N'DJAMENA",
+      "en": "N'DJAMENA",
+      "slug": "ndjamena-tcd18"
+    },
+    "code": {
+      "id": "TCD18",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD1801",
+        "name": {
+          "local": "N'Djamena",
+          "en": "N'Djamena",
+          "slug": "ndjamena-tcd1801"
+        },
+        "code": {
+          "id": "TCD1801",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1801_el-fass",
+            "name": {
+              "local": "El-Fass",
+              "en": "El-Fass",
+              "slug": "el-fass"
+            },
+            "code": {
+              "id": "TCD1801_el-fass",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1801_kadada",
+            "name": {
+              "local": "Kadada",
+              "en": "Kadada",
+              "slug": "kadada"
+            },
+            "code": {
+              "id": "TCD1801_kadada",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1801_madiago",
+            "name": {
+              "local": "Madiago",
+              "en": "Madiago",
+              "slug": "madiago"
+            },
+            "code": {
+              "id": "TCD1801_madiago",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1801_ndjamena",
+            "name": {
+              "local": "Ndjamena",
+              "en": "Ndjamena",
+              "slug": "ndjamena"
+            },
+            "code": {
+              "id": "TCD1801_ndjamena",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD14",
+    "name": {
+      "local": "OUADDAÏ",
+      "en": "OUADDAÏ",
+      "slug": "ouadda-tcd14"
+    },
+    "code": {
+      "id": "TCD14",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD1402",
+        "name": {
+          "local": "Djourf Al Ahmar",
+          "en": "Djourf Al Ahmar",
+          "slug": "djourf-al-ahmar-tcd1402"
+        },
+        "code": {
+          "id": "TCD1402",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1402_abker",
+            "name": {
+              "local": "Abker",
+              "en": "Abker",
+              "slug": "abker"
+            },
+            "code": {
+              "id": "TCD1402_abker",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1402_kognere",
+            "name": {
+              "local": "Kognere",
+              "en": "Kognere",
+              "slug": "kognere"
+            },
+            "code": {
+              "id": "TCD1402_kognere",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1402_korio",
+            "name": {
+              "local": "Korio",
+              "en": "Korio",
+              "slug": "korio"
+            },
+            "code": {
+              "id": "TCD1402_korio",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1402_bakhat",
+            "name": {
+              "local": "Bakhat",
+              "en": "Bakhat",
+              "slug": "bakhat"
+            },
+            "code": {
+              "id": "TCD1402_bakhat",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1402_bandala",
+            "name": {
+              "local": "Bandala",
+              "en": "Bandala",
+              "slug": "bandala"
+            },
+            "code": {
+              "id": "TCD1402_bandala",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1402_birguit",
+            "name": {
+              "local": "Birguit",
+              "en": "Birguit",
+              "slug": "birguit"
+            },
+            "code": {
+              "id": "TCD1402_birguit",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1402_dadjo",
+            "name": {
+              "local": "Dadjo",
+              "en": "Dadjo",
+              "slug": "dadjo"
+            },
+            "code": {
+              "id": "TCD1402_dadjo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1402_kadjeske-am-dam",
+            "name": {
+              "local": "Kadjeske-Am-Dam",
+              "en": "Kadjeske-Am-Dam",
+              "slug": "kadjeske-am-dam"
+            },
+            "code": {
+              "id": "TCD1402_kadjeske-am-dam",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1402_massalat-am-dam",
+            "name": {
+              "local": "Massalat-Am-Dam",
+              "en": "Massalat-Am-Dam",
+              "slug": "massalat-am-dam"
+            },
+            "code": {
+              "id": "TCD1402_massalat-am-dam",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1403",
+        "name": {
+          "local": "Assoungha",
+          "en": "Assoungha",
+          "slug": "assoungha-tcd1403"
+        },
+        "code": {
+          "id": "TCD1403",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1403_barde",
+            "name": {
+              "local": "Barde",
+              "en": "Barde",
+              "slug": "barde"
+            },
+            "code": {
+              "id": "TCD1403_barde",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1403_guergne",
+            "name": {
+              "local": "Guergne",
+              "en": "Guergne",
+              "slug": "guergne"
+            },
+            "code": {
+              "id": "TCD1403_guergne",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1403_kado",
+            "name": {
+              "local": "Kado",
+              "en": "Kado",
+              "slug": "kado"
+            },
+            "code": {
+              "id": "TCD1403_kado",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1403_mabrone",
+            "name": {
+              "local": "Mabrone",
+              "en": "Mabrone",
+              "slug": "mabrone"
+            },
+            "code": {
+              "id": "TCD1403_mabrone",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1403_molou",
+            "name": {
+              "local": "Molou",
+              "en": "Molou",
+              "slug": "molou"
+            },
+            "code": {
+              "id": "TCD1403_molou",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1403_troane",
+            "name": {
+              "local": "Troane",
+              "en": "Troane",
+              "slug": "troane"
+            },
+            "code": {
+              "id": "TCD1403_troane",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1401",
+        "name": {
+          "local": "Ouara",
+          "en": "Ouara",
+          "slug": "ouara-tcd1401"
+        },
+        "code": {
+          "id": "TCD1401",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1401_bourtail",
+            "name": {
+              "local": "Bourtail",
+              "en": "Bourtail",
+              "slug": "bourtail"
+            },
+            "code": {
+              "id": "TCD1401_bourtail",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1401_guerri",
+            "name": {
+              "local": "Guerri",
+              "en": "Guerri",
+              "slug": "guerri"
+            },
+            "code": {
+              "id": "TCD1401_guerri",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1401_kachimel-abeche",
+            "name": {
+              "local": "Kachimel-Abeche",
+              "en": "Kachimel-Abeche",
+              "slug": "kachimel-abeche"
+            },
+            "code": {
+              "id": "TCD1401_kachimel-abeche",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1401_mandjobo",
+            "name": {
+              "local": "Mandjobo",
+              "en": "Mandjobo",
+              "slug": "mandjobo"
+            },
+            "code": {
+              "id": "TCD1401_mandjobo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1401_marfa",
+            "name": {
+              "local": "Marfa",
+              "en": "Marfa",
+              "slug": "marfa"
+            },
+            "code": {
+              "id": "TCD1401_marfa",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1401_ouadi-chok-abougouda",
+            "name": {
+              "local": "Ouadi-Chok-Abougouda",
+              "en": "Ouadi-Chok-Abougouda",
+              "slug": "ouadi-chok-abougouda"
+            },
+            "code": {
+              "id": "TCD1401_ouadi-chok-abougouda",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1401_ouadi-hamra",
+            "name": {
+              "local": "Ouadi-Hamra",
+              "en": "Ouadi-Hamra",
+              "slug": "ouadi-hamra"
+            },
+            "code": {
+              "id": "TCD1401_ouadi-hamra",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD15",
+    "name": {
+      "local": "SALAMAT",
+      "en": "SALAMAT",
+      "slug": "salamat-tcd15"
+    },
+    "code": {
+      "id": "TCD15",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD1503",
+        "name": {
+          "local": "Haraze Mangueigne",
+          "en": "Haraze Mangueigne",
+          "slug": "haraze-mangueigne-tcd1503"
+        },
+        "code": {
+          "id": "TCD1503",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1503_doudeye",
+            "name": {
+              "local": "Doudeye",
+              "en": "Doudeye",
+              "slug": "doudeye"
+            },
+            "code": {
+              "id": "TCD1503_doudeye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1503_hemat-haraze",
+            "name": {
+              "local": "Hemat-Haraze",
+              "en": "Hemat-Haraze",
+              "slug": "hemat-haraze"
+            },
+            "code": {
+              "id": "TCD1503_hemat-haraze",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1503_kouga-tchad",
+            "name": {
+              "local": "Kouga-Tchad",
+              "en": "Kouga-Tchad",
+              "slug": "kouga-tchad"
+            },
+            "code": {
+              "id": "TCD1503_kouga-tchad",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1503_mangueigne",
+            "name": {
+              "local": "Mangueigne",
+              "en": "Mangueigne",
+              "slug": "mangueigne"
+            },
+            "code": {
+              "id": "TCD1503_mangueigne",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1501",
+        "name": {
+          "local": "Bahr Azoum",
+          "en": "Bahr Azoum",
+          "slug": "bahr-azoum-tcd1501"
+        },
+        "code": {
+          "id": "TCD1501",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1501_am-timan",
+            "name": {
+              "local": "Am-Timan",
+              "en": "Am-Timan",
+              "slug": "am-timan"
+            },
+            "code": {
+              "id": "TCD1501_am-timan",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1501_barh-azoum-am-timan",
+            "name": {
+              "local": "Barh-Azoum-Am-Timan",
+              "en": "Barh-Azoum-Am-Timan",
+              "slug": "barh-azoum-am-timan"
+            },
+            "code": {
+              "id": "TCD1501_barh-azoum-am-timan",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1501_dagal",
+            "name": {
+              "local": "Dagal",
+              "en": "Dagal",
+              "slug": "dagal"
+            },
+            "code": {
+              "id": "TCD1501_dagal",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1501_dar-salim",
+            "name": {
+              "local": "Dar-Salim",
+              "en": "Dar-Salim",
+              "slug": "dar-salim"
+            },
+            "code": {
+              "id": "TCD1501_dar-salim",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1501_hemat-am-timan",
+            "name": {
+              "local": "Hemat-Am-Timan",
+              "en": "Hemat-Am-Timan",
+              "slug": "hemat-am-timan"
+            },
+            "code": {
+              "id": "TCD1501_hemat-am-timan",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1501_kibet-angreb",
+            "name": {
+              "local": "Kibet-Angreb",
+              "en": "Kibet-Angreb",
+              "slug": "kibet-angreb"
+            },
+            "code": {
+              "id": "TCD1501_kibet-angreb",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1501_kibet-soum-soum",
+            "name": {
+              "local": "Kibet-Soum-Soum",
+              "en": "Kibet-Soum-Soum",
+              "slug": "kibet-soum-soum"
+            },
+            "code": {
+              "id": "TCD1501_kibet-soum-soum",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1501_salamat-am-timan",
+            "name": {
+              "local": "Salamat-Am-Timan",
+              "en": "Salamat-Am-Timan",
+              "slug": "salamat-am-timan"
+            },
+            "code": {
+              "id": "TCD1501_salamat-am-timan",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1502",
+        "name": {
+          "local": "Aboudeia",
+          "en": "Aboudeia",
+          "slug": "aboudeia-tcd1502"
+        },
+        "code": {
+          "id": "TCD1502",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1502_autochtone",
+            "name": {
+              "local": "Autochtone",
+              "en": "Autochtone",
+              "slug": "autochtone"
+            },
+            "code": {
+              "id": "TCD1502_autochtone",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1502_rachid",
+            "name": {
+              "local": "Rachid",
+              "en": "Rachid",
+              "slug": "rachid"
+            },
+            "code": {
+              "id": "TCD1502_rachid",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1502_torom",
+            "name": {
+              "local": "Torom",
+              "en": "Torom",
+              "slug": "torom"
+            },
+            "code": {
+              "id": "TCD1502_torom",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1502_yalnas-abou-deia",
+            "name": {
+              "local": "Yalnas-Abou-Deia",
+              "en": "Yalnas-Abou-Deia",
+              "slug": "yalnas-abou-deia"
+            },
+            "code": {
+              "id": "TCD1502_yalnas-abou-deia",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD21",
+    "name": {
+      "local": "SILA",
+      "en": "SILA",
+      "slug": "sila-tcd21"
+    },
+    "code": {
+      "id": "TCD21",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD2101",
+        "name": {
+          "local": "Kimiti",
+          "en": "Kimiti",
+          "slug": "kimiti-tcd2101"
+        },
+        "code": {
+          "id": "TCD2101",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD2101_barh-azoum-goz-beida",
+            "name": {
+              "local": "Barh-Azoum-Goz-Beida",
+              "en": "Barh-Azoum-Goz-Beida",
+              "slug": "barh-azoum-goz-beida"
+            },
+            "code": {
+              "id": "TCD2101_barh-azoum-goz-beida",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD2101_fongoro",
+            "name": {
+              "local": "Fongoro",
+              "en": "Fongoro",
+              "slug": "fongoro"
+            },
+            "code": {
+              "id": "TCD2101_fongoro",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD2101_goz-beida",
+            "name": {
+              "local": "Goz-Beida",
+              "en": "Goz-Beida",
+              "slug": "goz-beida"
+            },
+            "code": {
+              "id": "TCD2101_goz-beida",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD2101_kadjeske-goz-beida",
+            "name": {
+              "local": "Kadjeske-Goz-Beida",
+              "en": "Kadjeske-Goz-Beida",
+              "slug": "kadjeske-goz-beida"
+            },
+            "code": {
+              "id": "TCD2101_kadjeske-goz-beida",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD2101_koloye",
+            "name": {
+              "local": "Koloye",
+              "en": "Koloye",
+              "slug": "koloye"
+            },
+            "code": {
+              "id": "TCD2101_koloye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD2101_mourro",
+            "name": {
+              "local": "Mourro",
+              "en": "Mourro",
+              "slug": "mourro"
+            },
+            "code": {
+              "id": "TCD2101_mourro",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD2101_ouadi-habile",
+            "name": {
+              "local": "Ouadi-Habile",
+              "en": "Ouadi-Habile",
+              "slug": "ouadi-habile"
+            },
+            "code": {
+              "id": "TCD2101_ouadi-habile",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD2101_ouadi-kadja",
+            "name": {
+              "local": "Ouadi-Kadja",
+              "en": "Ouadi-Kadja",
+              "slug": "ouadi-kadja"
+            },
+            "code": {
+              "id": "TCD2101_ouadi-kadja",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD2101_signar",
+            "name": {
+              "local": "Signar",
+              "en": "Signar",
+              "slug": "signar"
+            },
+            "code": {
+              "id": "TCD2101_signar",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD2102",
+        "name": {
+          "local": "Abdi",
+          "en": "Abdi",
+          "slug": "abdi-tcd2102"
+        },
+        "code": {
+          "id": "TCD2102",
+          "iso": null
+        },
+        "sous_prefecture": []
+      }
+    ]
+  },
+  {
+    "id": "TCD16",
+    "name": {
+      "local": "TANDJILÉ",
+      "en": "TANDJILÉ",
+      "slug": "tandjil-tcd16"
+    },
+    "code": {
+      "id": "TCD16",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD1603",
+        "name": {
+          "local": "Tandjilé Centre",
+          "en": "Tandjilé Centre",
+          "slug": "tandjil-centre-tcd1603"
+        },
+        "code": {
+          "id": "TCD1603",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1603_bere-tchad",
+            "name": {
+              "local": "Bere-Tchad",
+              "en": "Bere-Tchad",
+              "slug": "bere-tchad"
+            },
+            "code": {
+              "id": "TCD1603_bere-tchad",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1603_delbian",
+            "name": {
+              "local": "Delbian",
+              "en": "Delbian",
+              "slug": "delbian"
+            },
+            "code": {
+              "id": "TCD1603_delbian",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1603_tamion-ngolo",
+            "name": {
+              "local": "Tamion-Ngolo",
+              "en": "Tamion-Ngolo",
+              "slug": "tamion-ngolo"
+            },
+            "code": {
+              "id": "TCD1603_tamion-ngolo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1603_tchoa",
+            "name": {
+              "local": "Tchoa",
+              "en": "Tchoa",
+              "slug": "tchoa"
+            },
+            "code": {
+              "id": "TCD1603_tchoa",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1602",
+        "name": {
+          "local": "Tandjilé Ouest",
+          "en": "Tandjilé Ouest",
+          "slug": "tandjil-ouest-tcd1602"
+        },
+        "code": {
+          "id": "TCD1602",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1602_bagaye",
+            "name": {
+              "local": "Bagaye",
+              "en": "Bagaye",
+              "slug": "bagaye"
+            },
+            "code": {
+              "id": "TCD1602_bagaye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1602_kelo",
+            "name": {
+              "local": "Kelo",
+              "en": "Kelo",
+              "slug": "kelo"
+            },
+            "code": {
+              "id": "TCD1602_kelo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1602_kolon",
+            "name": {
+              "local": "Kolon",
+              "en": "Kolon",
+              "slug": "kolon"
+            },
+            "code": {
+              "id": "TCD1602_kolon",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1602_lele",
+            "name": {
+              "local": "Lele",
+              "en": "Lele",
+              "slug": "lele"
+            },
+            "code": {
+              "id": "TCD1602_lele",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1602_marba",
+            "name": {
+              "local": "Marba",
+              "en": "Marba",
+              "slug": "marba"
+            },
+            "code": {
+              "id": "TCD1602_marba",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1602_mesme",
+            "name": {
+              "local": "Mesme",
+              "en": "Mesme",
+              "slug": "mesme"
+            },
+            "code": {
+              "id": "TCD1602_mesme",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1601",
+        "name": {
+          "local": "Tandjilé Est",
+          "en": "Tandjilé Est",
+          "slug": "tandjil-est-tcd1601"
+        },
+        "code": {
+          "id": "TCD1601",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1601_darbe",
+            "name": {
+              "local": "Darbe",
+              "en": "Darbe",
+              "slug": "darbe"
+            },
+            "code": {
+              "id": "TCD1601_darbe",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_deressia",
+            "name": {
+              "local": "Deressia",
+              "en": "Deressia",
+              "slug": "deressia"
+            },
+            "code": {
+              "id": "TCD1601_deressia",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_dormon",
+            "name": {
+              "local": "Dormon",
+              "en": "Dormon",
+              "slug": "dormon"
+            },
+            "code": {
+              "id": "TCD1601_dormon",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_gabri-ngolo",
+            "name": {
+              "local": "Gabri-Ngolo",
+              "en": "Gabri-Ngolo",
+              "slug": "gabri-ngolo"
+            },
+            "code": {
+              "id": "TCD1601_gabri-ngolo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_goulaye",
+            "name": {
+              "local": "Goulaye",
+              "en": "Goulaye",
+              "slug": "goulaye"
+            },
+            "code": {
+              "id": "TCD1601_goulaye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_kabalaye",
+            "name": {
+              "local": "Kabalaye",
+              "en": "Kabalaye",
+              "slug": "kabalaye"
+            },
+            "code": {
+              "id": "TCD1601_kabalaye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_kariade-boum",
+            "name": {
+              "local": "Kariade-Boum",
+              "en": "Kariade-Boum",
+              "slug": "kariade-boum"
+            },
+            "code": {
+              "id": "TCD1601_kariade-boum",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_kimre",
+            "name": {
+              "local": "Kimre",
+              "en": "Kimre",
+              "slug": "kimre"
+            },
+            "code": {
+              "id": "TCD1601_kimre",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_koro-tchad",
+            "name": {
+              "local": "Koro-Tchad",
+              "en": "Koro-Tchad",
+              "slug": "koro-tchad"
+            },
+            "code": {
+              "id": "TCD1601_koro-tchad",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_lai",
+            "name": {
+              "local": "Lai",
+              "en": "Lai",
+              "slug": "lai"
+            },
+            "code": {
+              "id": "TCD1601_lai",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_mouroum-touloum",
+            "name": {
+              "local": "Mouroum-Touloum",
+              "en": "Mouroum-Touloum",
+              "slug": "mouroum-touloum"
+            },
+            "code": {
+              "id": "TCD1601_mouroum-touloum",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_ndam",
+            "name": {
+              "local": "Ndam",
+              "en": "Ndam",
+              "slug": "ndam"
+            },
+            "code": {
+              "id": "TCD1601_ndam",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_ngamongo",
+            "name": {
+              "local": "Ngamongo",
+              "en": "Ngamongo",
+              "slug": "ngamongo"
+            },
+            "code": {
+              "id": "TCD1601_ngamongo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_ninga",
+            "name": {
+              "local": "Ninga",
+              "en": "Ninga",
+              "slug": "ninga"
+            },
+            "code": {
+              "id": "TCD1601_ninga",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_soumraye",
+            "name": {
+              "local": "Soumraye",
+              "en": "Soumraye",
+              "slug": "soumraye"
+            },
+            "code": {
+              "id": "TCD1601_soumraye",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_tchaguine-ngolo",
+            "name": {
+              "local": "Tchaguine-Ngolo",
+              "en": "Tchaguine-Ngolo",
+              "slug": "tchaguine-ngolo"
+            },
+            "code": {
+              "id": "TCD1601_tchaguine-ngolo",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1601_tchedoum",
+            "name": {
+              "local": "Tchedoum",
+              "en": "Tchedoum",
+              "slug": "tchedoum"
+            },
+            "code": {
+              "id": "TCD1601_tchedoum",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TCD22",
+    "name": {
+      "local": "TIBESTI",
+      "en": "TIBESTI",
+      "slug": "tibesti-tcd22"
+    },
+    "code": {
+      "id": "TCD22",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD2201",
+        "name": {
+          "local": "Tibesti Est",
+          "en": "Tibesti Est",
+          "slug": "tibesti-est-tcd2201"
+        },
+        "code": {
+          "id": "TCD2201",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD2201_tibesti",
+            "name": {
+              "local": "Tibesti",
+              "en": "Tibesti",
+              "slug": "tibesti"
+            },
+            "code": {
+              "id": "TCD2201_tibesti",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD2202",
+        "name": {
+          "local": "Tibesti Ouest",
+          "en": "Tibesti Ouest",
+          "slug": "tibesti-ouest-tcd2202"
+        },
+        "code": {
+          "id": "TCD2202",
+          "iso": null
+        },
+        "sous_prefecture": []
+      }
+    ]
+  },
+  {
+    "id": "TCD17",
+    "name": {
+      "local": "WADI FIRA",
+      "en": "WADI FIRA",
+      "slug": "wadi-fira-tcd17"
+    },
+    "code": {
+      "id": "TCD17",
+      "iso": null
+    },
+    "department": [
+      {
+        "id": "TCD1702",
+        "name": {
+          "local": "Dar Tama",
+          "en": "Dar Tama",
+          "slug": "dar-tama-tcd1702"
+        },
+        "code": {
+          "id": "TCD1702",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1702_bali",
+            "name": {
+              "local": "Bali",
+              "en": "Bali",
+              "slug": "bali"
+            },
+            "code": {
+              "id": "TCD1702_bali",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_birak",
+            "name": {
+              "local": "Birak",
+              "en": "Birak",
+              "slug": "birak"
+            },
+            "code": {
+              "id": "TCD1702_birak",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_djimeze",
+            "name": {
+              "local": "Djimeze",
+              "en": "Djimeze",
+              "slug": "djimeze"
+            },
+            "code": {
+              "id": "TCD1702_djimeze",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_fare",
+            "name": {
+              "local": "Fare",
+              "en": "Fare",
+              "slug": "fare"
+            },
+            "code": {
+              "id": "TCD1702_fare",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_gnere",
+            "name": {
+              "local": "Gnere",
+              "en": "Gnere",
+              "slug": "gnere"
+            },
+            "code": {
+              "id": "TCD1702_gnere",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_guereda",
+            "name": {
+              "local": "Guereda",
+              "en": "Guereda",
+              "slug": "guereda"
+            },
+            "code": {
+              "id": "TCD1702_guereda",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_kassine",
+            "name": {
+              "local": "Kassine",
+              "en": "Kassine",
+              "slug": "kassine"
+            },
+            "code": {
+              "id": "TCD1702_kassine",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_kolonga",
+            "name": {
+              "local": "Kolonga",
+              "en": "Kolonga",
+              "slug": "kolonga"
+            },
+            "code": {
+              "id": "TCD1702_kolonga",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_koursigue",
+            "name": {
+              "local": "Koursigue",
+              "en": "Koursigue",
+              "slug": "koursigue"
+            },
+            "code": {
+              "id": "TCD1702_koursigue",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_lima",
+            "name": {
+              "local": "Lima",
+              "en": "Lima",
+              "slug": "lima"
+            },
+            "code": {
+              "id": "TCD1702_lima",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_mabraone",
+            "name": {
+              "local": "Mabraone",
+              "en": "Mabraone",
+              "slug": "mabraone"
+            },
+            "code": {
+              "id": "TCD1702_mabraone",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_moore",
+            "name": {
+              "local": "Moore",
+              "en": "Moore",
+              "slug": "moore"
+            },
+            "code": {
+              "id": "TCD1702_moore",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_ouli-koure",
+            "name": {
+              "local": "Ouli-Koure",
+              "en": "Ouli-Koure",
+              "slug": "ouli-koure"
+            },
+            "code": {
+              "id": "TCD1702_ouli-koure",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1702_troa",
+            "name": {
+              "local": "Troa",
+              "en": "Troa",
+              "slug": "troa"
+            },
+            "code": {
+              "id": "TCD1702_troa",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1703",
+        "name": {
+          "local": "Kobé",
+          "en": "Kobé",
+          "slug": "kob-tcd1703"
+        },
+        "code": {
+          "id": "TCD1703",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1703_dourene",
+            "name": {
+              "local": "Dourene",
+              "en": "Dourene",
+              "slug": "dourene"
+            },
+            "code": {
+              "id": "TCD1703_dourene",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1703_gourouf",
+            "name": {
+              "local": "Gourouf",
+              "en": "Gourouf",
+              "slug": "gourouf"
+            },
+            "code": {
+              "id": "TCD1703_gourouf",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1703_kapka-bakaore",
+            "name": {
+              "local": "Kapka-Bakaore",
+              "en": "Kapka-Bakaore",
+              "slug": "kapka-bakaore"
+            },
+            "code": {
+              "id": "TCD1703_kapka-bakaore",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1703_kobe-nord-est",
+            "name": {
+              "local": "Kobe-Nord-Est",
+              "en": "Kobe-Nord-Est",
+              "slug": "kobe-nord-est"
+            },
+            "code": {
+              "id": "TCD1703_kobe-nord-est",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1703_kobe-nord-ouest",
+            "name": {
+              "local": "Kobe-Nord-Ouest",
+              "en": "Kobe-Nord-Ouest",
+              "slug": "kobe-nord-ouest"
+            },
+            "code": {
+              "id": "TCD1703_kobe-nord-ouest",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1703_kobe-sud",
+            "name": {
+              "local": "Kobe-Sud",
+              "en": "Kobe-Sud",
+              "slug": "kobe-sud"
+            },
+            "code": {
+              "id": "TCD1703_kobe-sud",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1701",
+        "name": {
+          "local": "Biltine",
+          "en": "Biltine",
+          "slug": "biltine-tcd1701"
+        },
+        "code": {
+          "id": "TCD1701",
+          "iso": null
+        },
+        "sous_prefecture": [
+          {
+            "id": "TCD1701_abou-charib-ii",
+            "name": {
+              "local": "Abou-Charib-Ii",
+              "en": "Abou-Charib-Ii",
+              "slug": "abou-charib-ii"
+            },
+            "code": {
+              "id": "TCD1701_abou-charib-ii",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1701_abou-charib-i",
+            "name": {
+              "local": "Abou-Charib-I",
+              "en": "Abou-Charib-I",
+              "slug": "abou-charib-i"
+            },
+            "code": {
+              "id": "TCD1701_abou-charib-i",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1701_arada",
+            "name": {
+              "local": "Arada",
+              "en": "Arada",
+              "slug": "arada"
+            },
+            "code": {
+              "id": "TCD1701_arada",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1701_kodoye-ii",
+            "name": {
+              "local": "Kodoye-Ii",
+              "en": "Kodoye-Ii",
+              "slug": "kodoye-ii"
+            },
+            "code": {
+              "id": "TCD1701_kodoye-ii",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1701_kodoye-i",
+            "name": {
+              "local": "Kodoye-I",
+              "en": "Kodoye-I",
+              "slug": "kodoye-i"
+            },
+            "code": {
+              "id": "TCD1701_kodoye-i",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1701_mimi",
+            "name": {
+              "local": "Mimi",
+              "en": "Mimi",
+              "slug": "mimi"
+            },
+            "code": {
+              "id": "TCD1701_mimi",
+              "iso": null
+            }
+          },
+          {
+            "id": "TCD1701_ouled-djema",
+            "name": {
+              "local": "Ouled-Djema",
+              "en": "Ouled-Djema",
+              "slug": "ouled-djema"
+            },
+            "code": {
+              "id": "TCD1701_ouled-djema",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "TCD1704",
+        "name": {
+          "local": "Megri",
+          "en": "Megri",
+          "slug": "megri-tcd1704"
+        },
+        "code": {
+          "id": "TCD1704",
+          "iso": null
+        },
+        "sous_prefecture": []
+      }
+    ]
+  }
+]

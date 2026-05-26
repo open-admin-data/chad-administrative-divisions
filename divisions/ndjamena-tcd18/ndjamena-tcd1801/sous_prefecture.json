@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TCD1801_el-fass",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "El-Fass",
+      "en": "El-Fass",
+      "slug": "el-fass"
+    },
+    "code": {
+      "id": "TCD1801_el-fass",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1801",
+      "level": 2,
+      "name": {
+        "local": "N'Djamena",
+        "en": "N'Djamena",
+        "slug": "ndjamena-tcd1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD18",
+        "level": 1,
+        "name": {
+          "local": "N'DJAMENA",
+          "en": "N'DJAMENA",
+          "slug": "ndjamena-tcd18"
+        }
+      },
+      {
+        "id": "TCD1801",
+        "level": 2,
+        "name": {
+          "local": "N'Djamena",
+          "en": "N'Djamena",
+          "slug": "ndjamena-tcd1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.125",
+      "lon": "15.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1801_kadada",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kadada",
+      "en": "Kadada",
+      "slug": "kadada"
+    },
+    "code": {
+      "id": "TCD1801_kadada",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1801",
+      "level": 2,
+      "name": {
+        "local": "N'Djamena",
+        "en": "N'Djamena",
+        "slug": "ndjamena-tcd1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD18",
+        "level": 1,
+        "name": {
+          "local": "N'DJAMENA",
+          "en": "N'DJAMENA",
+          "slug": "ndjamena-tcd18"
+        }
+      },
+      {
+        "id": "TCD1801",
+        "level": 2,
+        "name": {
+          "local": "N'Djamena",
+          "en": "N'Djamena",
+          "slug": "ndjamena-tcd1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.125",
+      "lon": "15.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1801_madiago",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Madiago",
+      "en": "Madiago",
+      "slug": "madiago"
+    },
+    "code": {
+      "id": "TCD1801_madiago",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1801",
+      "level": 2,
+      "name": {
+        "local": "N'Djamena",
+        "en": "N'Djamena",
+        "slug": "ndjamena-tcd1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD18",
+        "level": 1,
+        "name": {
+          "local": "N'DJAMENA",
+          "en": "N'DJAMENA",
+          "slug": "ndjamena-tcd18"
+        }
+      },
+      {
+        "id": "TCD1801",
+        "level": 2,
+        "name": {
+          "local": "N'Djamena",
+          "en": "N'Djamena",
+          "slug": "ndjamena-tcd1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.125",
+      "lon": "15.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1801_ndjamena",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ndjamena",
+      "en": "Ndjamena",
+      "slug": "ndjamena"
+    },
+    "code": {
+      "id": "TCD1801_ndjamena",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1801",
+      "level": 2,
+      "name": {
+        "local": "N'Djamena",
+        "en": "N'Djamena",
+        "slug": "ndjamena-tcd1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD18",
+        "level": 1,
+        "name": {
+          "local": "N'DJAMENA",
+          "en": "N'DJAMENA",
+          "slug": "ndjamena-tcd18"
+        }
+      },
+      {
+        "id": "TCD1801",
+        "level": 2,
+        "name": {
+          "local": "N'Djamena",
+          "en": "N'Djamena",
+          "slug": "ndjamena-tcd1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.125",
+      "lon": "15.048"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

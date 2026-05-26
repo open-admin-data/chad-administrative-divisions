@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD1701,Biltine,Biltine,biltine-tcd1701,TCD1701,7,14.945,20.53
+TCD1702,Dar Tama,Dar Tama,dar-tama-tcd1702,TCD1702,14,14.451,21.961
+TCD1703,Kobé,Kobé,kob-tcd1703,TCD1703,6,15.075,22.427
+TCD1704,Megri,Megri,megri-tcd1704,TCD1704,0,15.36,21.867

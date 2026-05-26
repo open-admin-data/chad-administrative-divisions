@@ -1,0 +1,47 @@
+{
+  "id": "TCD0502",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Dababa",
+    "en": "Dababa",
+    "slug": "dababa-tcd0502"
+  },
+  "code": {
+    "id": "TCD0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD05",
+    "level": 1,
+    "name": {
+      "local": "HADJER LAMIS",
+      "en": "HADJER LAMIS",
+      "slug": "hadjer-lamis-tcd05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD05",
+      "level": 1,
+      "name": {
+        "local": "HADJER LAMIS",
+        "en": "HADJER LAMIS",
+        "slug": "hadjer-lamis-tcd05"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.314",
+    "lon": "16.877"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "TCD1102",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "La kabbia",
+      "en": "La kabbia",
+      "slug": "la-kabbia-tcd1102"
+    },
+    "code": {
+      "id": "TCD1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD11",
+      "level": 1,
+      "name": {
+        "local": "MAYO KEBBI EST",
+        "en": "MAYO KEBBI EST",
+        "slug": "mayo-kebbi-est-tcd11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.524",
+      "lon": "15.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1101",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mayo Boneye",
+      "en": "Mayo Boneye",
+      "slug": "mayo-boneye-tcd1101"
+    },
+    "code": {
+      "id": "TCD1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD11",
+      "level": 1,
+      "name": {
+        "local": "MAYO KEBBI EST",
+        "en": "MAYO KEBBI EST",
+        "slug": "mayo-kebbi-est-tcd11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.254",
+      "lon": "15.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1103",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mayo Lemyé",
+      "en": "Mayo Lemyé",
+      "slug": "mayo-lemy-tcd1103"
+    },
+    "code": {
+      "id": "TCD1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD11",
+      "level": 1,
+      "name": {
+        "local": "MAYO KEBBI EST",
+        "en": "MAYO KEBBI EST",
+        "slug": "mayo-kebbi-est-tcd11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.859",
+      "lon": "15.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1104",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mont Illi",
+      "en": "Mont Illi",
+      "slug": "mont-illi-tcd1104"
+    },
+    "code": {
+      "id": "TCD1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD11",
+      "level": 1,
+      "name": {
+        "local": "MAYO KEBBI EST",
+        "en": "MAYO KEBBI EST",
+        "slug": "mayo-kebbi-est-tcd11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.769",
+      "lon": "15.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

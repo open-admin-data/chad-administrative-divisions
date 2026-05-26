@@ -1,0 +1,47 @@
+{
+  "id": "TCD0703",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Kaya",
+    "en": "Kaya",
+    "slug": "kaya-tcd0703"
+  },
+  "code": {
+    "id": "TCD0703",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD07",
+    "level": 1,
+    "name": {
+      "local": "LAC",
+      "en": "LAC",
+      "slug": "lac-tcd07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD07",
+      "level": 1,
+      "name": {
+        "local": "LAC",
+        "en": "LAC",
+        "slug": "lac-tcd07"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.485",
+    "lon": "14.306"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,98 @@
+# Chad Administrative Divisions
+
+> Open dataset of Chad's administrative hierarchy:
+> 23 provinces, 70 departments, 348 sub-prefectures.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 23
+- Total departments: 70
+- Total sub-prefectures: 348
+- Coordinates: included (all levels)
+- Last updated: 2026-05-26
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/data/all-province.json)
+- [All departments (JSON)](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/data/all-department.json)
+- [All sub-prefectures (JSON)](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/data/all-sous_prefecture.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [BARH EL GAZEL](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/barh-el-gazel-tcd19/) — 3 departments, 3 sub-prefectures
+- [BATHA](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/batha-tcd01/) — 3 departments, 15 sub-prefectures
+- [BORKOU](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/borkou-tcd02/) — 2 departments, 1 sub-prefectures
+- [CHARI BAGUIRMI](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/chari-baguirmi-tcd03/) — 3 departments, 11 sub-prefectures
+- [ENNEDI EST](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/ennedi-est-tcd20/) — 2 departments, 1 sub-prefectures
+- [ENNEDI OUEST](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/ennedi-ouest-tcd23/) — 2 departments, 1 sub-prefectures
+- [GUÉRA](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/gura-tcd04/) — 4 departments, 21 sub-prefectures
+- [HADJER LAMIS](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/hadjer-lamis-tcd05/) — 3 departments, 10 sub-prefectures
+- [KANEM](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/kanem-tcd06/) — 3 departments, 11 sub-prefectures
+- [LAC](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/lac-tcd07/) — 4 departments, 2 sub-prefectures
+- [LOGONE OCCIDENTAL](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/logone-occidental-tcd08/) — 4 departments, 28 sub-prefectures
+- [LOGONE ORIENTAL](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/logone-oriental-tcd09/) — 6 departments, 36 sub-prefectures
+- [MANDOUL](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/mandoul-tcd10/) — 3 departments, 32 sub-prefectures
+- [MAYO KEBBI EST](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/mayo-kebbi-est-tcd11/) — 4 departments, 28 sub-prefectures
+- [MAYO KEBBI OUEST](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/mayo-kebbi-ouest-tcd12/) — 3 departments, 18 sub-prefectures
+- [MOYEN CHARI](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/moyen-chari-tcd13/) — 3 departments, 24 sub-prefectures
+- [N&#39;DJAMENA](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/ndjamena-tcd18/) — 1 departments, 4 sub-prefectures
+- [OUADDAÏ](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/ouadda-tcd14/) — 3 departments, 22 sub-prefectures
+- [SALAMAT](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/salamat-tcd15/) — 3 departments, 16 sub-prefectures
+- [SILA](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/sila-tcd21/) — 2 departments, 9 sub-prefectures
+- [TANDJILÉ](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/tandjil-tcd16/) — 3 departments, 27 sub-prefectures
+- [TIBESTI](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/tibesti-tcd22/) — 2 departments, 1 sub-prefectures
+- [WADI FIRA](https://github.com/open-admin-data/chad-administrative-divisions/tree/main/divisions/wadi-fira-tcd17/) — 4 departments, 27 sub-prefectures
+
+## Per-Province Full Data
+
+- [BARH EL GAZEL](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/barh-el-gazel-tcd19.txt)
+- [BATHA](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/batha-tcd01.txt)
+- [BORKOU](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/borkou-tcd02.txt)
+- [CHARI BAGUIRMI](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/chari-baguirmi-tcd03.txt)
+- [ENNEDI EST](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/ennedi-est-tcd20.txt)
+- [ENNEDI OUEST](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/ennedi-ouest-tcd23.txt)
+- [GUÉRA](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/gura-tcd04.txt)
+- [HADJER LAMIS](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/hadjer-lamis-tcd05.txt)
+- [KANEM](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/kanem-tcd06.txt)
+- [LAC](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/lac-tcd07.txt)
+- [LOGONE OCCIDENTAL](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/logone-occidental-tcd08.txt)
+- [LOGONE ORIENTAL](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/logone-oriental-tcd09.txt)
+- [MANDOUL](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/mandoul-tcd10.txt)
+- [MAYO KEBBI EST](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/mayo-kebbi-est-tcd11.txt)
+- [MAYO KEBBI OUEST](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/mayo-kebbi-ouest-tcd12.txt)
+- [MOYEN CHARI](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/moyen-chari-tcd13.txt)
+- [N&#39;DJAMENA](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/ndjamena-tcd18.txt)
+- [OUADDAÏ](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/ouadda-tcd14.txt)
+- [SALAMAT](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/salamat-tcd15.txt)
+- [SILA](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/sila-tcd21.txt)
+- [TANDJILÉ](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/tandjil-tcd16.txt)
+- [TIBESTI](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/tibesti-tcd22.txt)
+- [WADI FIRA](https://raw.githubusercontent.com/open-admin-data/chad-administrative-divisions/main/docs/llms-full/wadi-fira-tcd17.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (department), 3 (sub-prefecture)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Chad Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/chad-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

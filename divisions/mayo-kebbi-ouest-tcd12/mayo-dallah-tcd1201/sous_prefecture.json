@@ -1,0 +1,704 @@
+[
+  {
+    "id": "TCD1201_dari",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dari",
+      "en": "Dari",
+      "slug": "dari"
+    },
+    "code": {
+      "id": "TCD1201_dari",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_doue",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Doue",
+      "en": "Doue",
+      "slug": "doue"
+    },
+    "code": {
+      "id": "TCD1201_doue",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_erde-pala",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Erde-Pala",
+      "en": "Erde-Pala",
+      "slug": "erde-pala"
+    },
+    "code": {
+      "id": "TCD1201_erde-pala",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_gagal",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gagal",
+      "en": "Gagal",
+      "slug": "gagal"
+    },
+    "code": {
+      "id": "TCD1201_gagal",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_gouey-goudoum",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gouey-Goudoum",
+      "en": "Gouey-Goudoum",
+      "slug": "gouey-goudoum"
+    },
+    "code": {
+      "id": "TCD1201_gouey-goudoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_gouin",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gouin",
+      "en": "Gouin",
+      "slug": "gouin"
+    },
+    "code": {
+      "id": "TCD1201_gouin",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_goumadji",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Goumadji",
+      "en": "Goumadji",
+      "slug": "goumadji"
+    },
+    "code": {
+      "id": "TCD1201_goumadji",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_keuni",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Keuni",
+      "en": "Keuni",
+      "slug": "keuni"
+    },
+    "code": {
+      "id": "TCD1201_keuni",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_korbokordo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Korbo/Kordo",
+      "en": "Korbo/Kordo",
+      "slug": "korbokordo"
+    },
+    "code": {
+      "id": "TCD1201_korbokordo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_lame",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lame",
+      "en": "Lame",
+      "slug": "lame"
+    },
+    "code": {
+      "id": "TCD1201_lame",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_salamata",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Salamata",
+      "en": "Salamata",
+      "slug": "salamata"
+    },
+    "code": {
+      "id": "TCD1201_salamata",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_tagobo-foulbe",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tagobo-Foulbe",
+      "en": "Tagobo-Foulbe",
+      "slug": "tagobo-foulbe"
+    },
+    "code": {
+      "id": "TCD1201_tagobo-foulbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1201_torrok",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Torrok",
+      "en": "Torrok",
+      "slug": "torrok"
+    },
+    "code": {
+      "id": "TCD1201_torrok",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1201",
+      "level": 2,
+      "name": {
+        "local": "Mayo Dallah",
+        "en": "Mayo Dallah",
+        "slug": "mayo-dallah-tcd1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD12",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI OUEST",
+          "en": "MAYO KEBBI OUEST",
+          "slug": "mayo-kebbi-ouest-tcd12"
+        }
+      },
+      {
+        "id": "TCD1201",
+        "level": 2,
+        "name": {
+          "local": "Mayo Dallah",
+          "en": "Mayo Dallah",
+          "slug": "mayo-dallah-tcd1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "14.958"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

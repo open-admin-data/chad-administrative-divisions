@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD1502,Aboudeia,Aboudeia,aboudeia-tcd1502,TCD1502,4,11.548,19.461
+TCD1501,Bahr Azoum,Bahr Azoum,bahr-azoum-tcd1501,TCD1501,8,10.974,20.373
+TCD1503,Haraze Mangueigne,Haraze Mangueigne,haraze-mangueigne-tcd1503,TCD1503,4,10.408,21.294

@@ -1,0 +1,47 @@
+{
+  "id": "TCD0906",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Monts de lam",
+    "en": "Monts de lam",
+    "slug": "monts-de-lam-tcd0906"
+  },
+  "code": {
+    "id": "TCD0906",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD09",
+    "level": 1,
+    "name": {
+      "local": "LOGONE ORIENTAL",
+      "en": "LOGONE ORIENTAL",
+      "slug": "logone-oriental-tcd09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD09",
+      "level": 1,
+      "name": {
+        "local": "LOGONE ORIENTAL",
+        "en": "LOGONE ORIENTAL",
+        "slug": "logone-oriental-tcd09"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.069",
+    "lon": "15.848"
+  },
+  "metadata": {},
+  "source": {}
+}

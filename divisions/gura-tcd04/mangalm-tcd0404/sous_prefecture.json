@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TCD0404_dadjo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dadjo-Ii",
+      "en": "Dadjo-Ii",
+      "slug": "dadjo-ii"
+    },
+    "code": {
+      "id": "TCD0404_dadjo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0404",
+      "level": 2,
+      "name": {
+        "local": "Mangalmé",
+        "en": "Mangalmé",
+        "slug": "mangalm-tcd0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0404",
+        "level": 2,
+        "name": {
+          "local": "Mangalmé",
+          "en": "Mangalmé",
+          "slug": "mangalm-tcd0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.298",
+      "lon": "19.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0404_moubi-goz",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moubi-Goz",
+      "en": "Moubi-Goz",
+      "slug": "moubi-goz"
+    },
+    "code": {
+      "id": "TCD0404_moubi-goz",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0404",
+      "level": 2,
+      "name": {
+        "local": "Mangalmé",
+        "en": "Mangalmé",
+        "slug": "mangalm-tcd0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0404",
+        "level": 2,
+        "name": {
+          "local": "Mangalmé",
+          "en": "Mangalmé",
+          "slug": "mangalm-tcd0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.298",
+      "lon": "19.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0404_moubi-hadaba",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moubi-Hadaba",
+      "en": "Moubi-Hadaba",
+      "slug": "moubi-hadaba"
+    },
+    "code": {
+      "id": "TCD0404_moubi-hadaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0404",
+      "level": 2,
+      "name": {
+        "local": "Mangalmé",
+        "en": "Mangalmé",
+        "slug": "mangalm-tcd0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0404",
+        "level": 2,
+        "name": {
+          "local": "Mangalmé",
+          "en": "Mangalmé",
+          "slug": "mangalm-tcd0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.298",
+      "lon": "19.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0404_moubi-zarga",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moubi-Zarga",
+      "en": "Moubi-Zarga",
+      "slug": "moubi-zarga"
+    },
+    "code": {
+      "id": "TCD0404_moubi-zarga",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0404",
+      "level": 2,
+      "name": {
+        "local": "Mangalmé",
+        "en": "Mangalmé",
+        "slug": "mangalm-tcd0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD04",
+        "level": 1,
+        "name": {
+          "local": "GUÉRA",
+          "en": "GUÉRA",
+          "slug": "gura-tcd04"
+        }
+      },
+      {
+        "id": "TCD0404",
+        "level": 2,
+        "name": {
+          "local": "Mangalmé",
+          "en": "Mangalmé",
+          "slug": "mangalm-tcd0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.298",
+      "lon": "19.547"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

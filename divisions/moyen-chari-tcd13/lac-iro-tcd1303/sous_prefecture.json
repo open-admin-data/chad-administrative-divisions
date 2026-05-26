@@ -1,0 +1,758 @@
+[
+  {
+    "id": "TCD1303_alako",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Alako",
+      "en": "Alako",
+      "slug": "alako"
+    },
+    "code": {
+      "id": "TCD1303_alako",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_bale",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bale",
+      "en": "Bale",
+      "slug": "bale"
+    },
+    "code": {
+      "id": "TCD1303_bale",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_baltoubaye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Baltoubaye",
+      "en": "Baltoubaye",
+      "slug": "baltoubaye"
+    },
+    "code": {
+      "id": "TCD1303_baltoubaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_bohobe",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bohobe",
+      "en": "Bohobe",
+      "slug": "bohobe"
+    },
+    "code": {
+      "id": "TCD1303_bohobe",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_boum-kebir",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boum-Kebir",
+      "en": "Boum-Kebir",
+      "slug": "boum-kebir"
+    },
+    "code": {
+      "id": "TCD1303_boum-kebir",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_dindje",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dindje",
+      "en": "Dindje",
+      "slug": "dindje"
+    },
+    "code": {
+      "id": "TCD1303_dindje",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_koskobo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koskobo",
+      "en": "Koskobo",
+      "slug": "koskobo"
+    },
+    "code": {
+      "id": "TCD1303_koskobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_kotongoro",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kotongoro",
+      "en": "Kotongoro",
+      "slug": "kotongoro"
+    },
+    "code": {
+      "id": "TCD1303_kotongoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_kyabe",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kyabe",
+      "en": "Kyabe",
+      "slug": "kyabe"
+    },
+    "code": {
+      "id": "TCD1303_kyabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_marabe",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Marabe",
+      "en": "Marabe",
+      "slug": "marabe"
+    },
+    "code": {
+      "id": "TCD1303_marabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_moufa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moufa",
+      "en": "Moufa",
+      "slug": "moufa"
+    },
+    "code": {
+      "id": "TCD1303_moufa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_ndjokou",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ndjokou",
+      "en": "Ndjokou",
+      "slug": "ndjokou"
+    },
+    "code": {
+      "id": "TCD1303_ndjokou",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_simegotobe",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Simegotobe",
+      "en": "Simegotobe",
+      "slug": "simegotobe"
+    },
+    "code": {
+      "id": "TCD1303_simegotobe",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1303_singako",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Singako",
+      "en": "Singako",
+      "slug": "singako"
+    },
+    "code": {
+      "id": "TCD1303_singako",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1303",
+      "level": 2,
+      "name": {
+        "local": "Lac Iro",
+        "en": "Lac Iro",
+        "slug": "lac-iro-tcd1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1303",
+        "level": 2,
+        "name": {
+          "local": "Lac Iro",
+          "en": "Lac Iro",
+          "slug": "lac-iro-tcd1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "19.053"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "TCD1302_maro",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Maro",
+      "en": "Maro",
+      "slug": "maro"
+    },
+    "code": {
+      "id": "TCD1302_maro",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1302",
+      "level": 2,
+      "name": {
+        "local": "Grande Sido",
+        "en": "Grande Sido",
+        "slug": "grande-sido-tcd1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1302",
+        "level": 2,
+        "name": {
+          "local": "Grande Sido",
+          "en": "Grande Sido",
+          "slug": "grande-sido-tcd1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.452",
+      "lon": "18.541"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

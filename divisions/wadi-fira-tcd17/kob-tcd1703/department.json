@@ -1,0 +1,47 @@
+{
+  "id": "TCD1703",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Kobé",
+    "en": "Kobé",
+    "slug": "kob-tcd1703"
+  },
+  "code": {
+    "id": "TCD1703",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD17",
+    "level": 1,
+    "name": {
+      "local": "WADI FIRA",
+      "en": "WADI FIRA",
+      "slug": "wadi-fira-tcd17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD17",
+      "level": 1,
+      "name": {
+        "local": "WADI FIRA",
+        "en": "WADI FIRA",
+        "slug": "wadi-fira-tcd17"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.075",
+    "lon": "22.427"
+  },
+  "metadata": {},
+  "source": {}
+}

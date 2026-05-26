@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD1301,Bahr Koh,Bahr Koh,bahr-koh-tcd1301,TCD1301,9,9.515,17.97
+TCD1302,Grande Sido,Grande Sido,grande-sido-tcd1302,TCD1302,1,8.452,18.541
+TCD1303,Lac Iro,Lac Iro,lac-iro-tcd1303,TCD1303,14,9.801,19.053

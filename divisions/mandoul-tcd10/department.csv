@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD1002,Barh Sara,Barh Sara,barh-sara-tcd1002,TCD1002,16,8.371,17.753
+TCD1003,Mandoul Occidental,Mandoul Occidental,mandoul-occidental-tcd1003,TCD1003,7,8.599,17.283
+TCD1001,Mandoul Oriental,Mandoul Oriental,mandoul-oriental-tcd1001,TCD1001,9,9.136,17.688

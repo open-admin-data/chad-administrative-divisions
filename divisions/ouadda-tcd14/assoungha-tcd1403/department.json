@@ -1,0 +1,47 @@
+{
+  "id": "TCD1403",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Assoungha",
+    "en": "Assoungha",
+    "slug": "assoungha-tcd1403"
+  },
+  "code": {
+    "id": "TCD1403",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD14",
+    "level": 1,
+    "name": {
+      "local": "OUADDAÏ",
+      "en": "OUADDAÏ",
+      "slug": "ouadda-tcd14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD14",
+      "level": 1,
+      "name": {
+        "local": "OUADDAÏ",
+        "en": "OUADDAÏ",
+        "slug": "ouadda-tcd14"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.454",
+    "lon": "21.954"
+  },
+  "metadata": {},
+  "source": {}
+}

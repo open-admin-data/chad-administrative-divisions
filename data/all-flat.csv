@@ -1,0 +1,94 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.department,children_count.sous_prefecture,zip_codes,geo.lat,geo.lon
+TCD01,1,Province,Province,BATHA,BATHA,batha-tcd01,TCD01,,,,,,3,15,,14.306,18.886
+TCD0101,2,Département,Department,Batha Ouest,Batha Ouest,batha-ouest-tcd0101,TCD0101,,TCD01,BATHA,BATHA,,,4,,14.308,18.396
+TCD0102,2,Département,Department,Batha Est,Batha Est,batha-est-tcd0102,TCD0102,,TCD01,BATHA,BATHA,,,7,,14.308,19.568
+TCD0103,2,Département,Department,Fitri,Fitri,fitri-tcd0103,TCD0103,,TCD01,BATHA,BATHA,,,4,,12.799,17.511
+TCD02,1,Province,Province,BORKOU,BORKOU,borkou-tcd02,TCD02,,,,,,2,1,,17.078,18.087
+TCD0201,2,Département,Department,Borkou,Borkou,borkou-tcd0201,TCD0201,,TCD02,BORKOU,BORKOU,,,1,,16.487,18.973
+TCD0202,2,Département,Department,Borkou Yala,Borkou Yala,borkou-yala-tcd0202,TCD0202,,TCD02,BORKOU,BORKOU,,,0,,17.324,17.098
+TCD03,1,Province,Province,CHARI BAGUIRMI,CHARI BAGUIRMI,chari-baguirmi-tcd03,TCD03,,,,,,3,11,,11.103,16.375
+TCD0301,2,Département,Department,Baguirmi,Baguirmi,baguirmi-tcd0301,TCD0301,,TCD03,CHARI BAGUIRMI,CHARI BAGUIRMI,,,7,,11.436,16.352
+TCD0302,2,Département,Department,Chari,Chari,chari-tcd0302,TCD0302,,TCD03,CHARI BAGUIRMI,CHARI BAGUIRMI,,,0,,11.729,15.23
+TCD0303,2,Département,Department,Loug Chari,Loug Chari,loug-chari-tcd0303,TCD0303,,TCD03,CHARI BAGUIRMI,CHARI BAGUIRMI,,,4,,10.458,16.827
+TCD04,1,Province,Province,GUÉRA,GUÉRA,gura-tcd04,TCD04,,,,,,4,21,,11.456,18.105
+TCD0401,2,Département,Department,Guéra,Guéra,gura-tcd0401,TCD0401,,TCD04,GUÉRA,GUÉRA,,,7,,11.997,18.876
+TCD0402,2,Département,Department,Abtouyour,Abtouyour,abtouyour-tcd0402,TCD0402,,TCD04,GUÉRA,GUÉRA,,,5,,12.006,18.098
+TCD0403,2,Département,Department,Bahar Signaka,Bahar Signaka,bahar-signaka-tcd0403,TCD0403,,TCD04,GUÉRA,GUÉRA,,,5,,10.756,18.54
+TCD0404,2,Département,Department,Mangalmé,Mangalmé,mangalm-tcd0404,TCD0404,,TCD04,GUÉRA,GUÉRA,,,4,,12.298,19.547
+TCD05,1,Province,Province,HADJER LAMIS,HADJER LAMIS,hadjer-lamis-tcd05,TCD05,,,,,,3,10,,12.42,16.092
+TCD0501,2,Département,Department,Dagana,Dagana,dagana-tcd0501,TCD0501,,TCD05,HADJER LAMIS,HADJER LAMIS,,,1,,12.976,15.471
+TCD0502,2,Département,Department,Dababa,Dababa,dababa-tcd0502,TCD0502,,TCD05,HADJER LAMIS,HADJER LAMIS,,,6,,12.314,16.877
+TCD0503,2,Département,Department,Haraze Al Biar,Haraze Al Biar,haraze-al-biar-tcd0503,TCD0503,,TCD05,HADJER LAMIS,HADJER LAMIS,,,3,,12.596,15.045
+TCD06,1,Province,Province,KANEM,KANEM,kanem-tcd06,TCD06,,,,,,3,11,,14.912,15.044
+TCD0601,2,Département,Department,Kanem,Kanem,kanem-tcd0601,TCD0601,,TCD06,KANEM,KANEM,,,8,,14.099,15.189
+TCD0602,2,Département,Department,Nord Kanem,Nord Kanem,nord-kanem-tcd0602,TCD0602,,TCD06,KANEM,KANEM,,,3,,15.294,15.314
+TCD0603,2,Département,Department,Wadi Bissam,Wadi Bissam,wadi-bissam-tcd0603,TCD0603,,TCD06,KANEM,KANEM,,,0,,13.523,15.691
+TCD07,1,Province,Province,LAC,LAC,lac-tcd07,TCD07,,,,,,4,2,,13.769,14.158
+TCD0701,2,Département,Department,Mamdi,Mamdi,mamdi-tcd0701,TCD0701,,TCD07,LAC,LAC,,,1,,13.289,14.528
+TCD0702,2,Département,Department,Wayi,Wayi,wayi-tcd0702,TCD0702,,TCD07,LAC,LAC,,,1,,13.418,15.248
+TCD0703,2,Département,Department,Kaya,Kaya,kaya-tcd0703,TCD0703,,TCD07,LAC,LAC,,,0,,13.485,14.306
+TCD0704,2,Département,Department,Fouli,Fouli,fouli-tcd0704,TCD0704,,TCD07,LAC,LAC,,,0,,14.025,14.04
+TCD08,1,Province,Province,LOGONE OCCIDENTAL,LOGONE OCCIDENTAL,logone-occidental-tcd08,TCD08,,,,,,4,28,,8.753,15.924
+TCD0801,2,Département,Department,Lac wey,Lac wey,lac-wey-tcd0801,TCD0801,,TCD08,LOGONE OCCIDENTAL,LOGONE OCCIDENTAL,,,13,,8.642,15.978
+TCD0802,2,Département,Department,Djode,Djode,djode-tcd0802,TCD0802,,TCD08,LOGONE OCCIDENTAL,LOGONE OCCIDENTAL,,,4,,8.681,15.509
+TCD0803,2,Département,Department,Gueni,Gueni,gueni-tcd0803,TCD0803,,TCD08,LOGONE OCCIDENTAL,LOGONE OCCIDENTAL,,,0,,8.96,15.77
+TCD0804,2,Département,Department,Ngourkosso,Ngourkosso,ngourkosso-tcd0804,TCD0804,,TCD08,LOGONE OCCIDENTAL,LOGONE OCCIDENTAL,,,11,,8.971,16.327
+TCD09,1,Province,Province,LOGONE ORIENTAL,LOGONE ORIENTAL,logone-oriental-tcd09,TCD09,,,,,,6,36,,8.304,16.463
+TCD0901,2,Département,Department,La pendé,La pendé,la-pend-tcd0901,TCD0901,,TCD09,LOGONE ORIENTAL,LOGONE ORIENTAL,,,10,,8.857,16.939
+TCD0902,2,Département,Department,Kouh Est,Kouh Est,kouh-est-tcd0902,TCD0902,,TCD09,LOGONE ORIENTAL,LOGONE ORIENTAL,,,0,,8.369,17.111
+TCD0903,2,Département,Department,Kouh Ouest,Kouh Ouest,kouh-ouest-tcd0903,TCD0903,,TCD09,LOGONE ORIENTAL,LOGONE ORIENTAL,,,0,,8.182,16.868
+TCD0904,2,Département,Department,La nya,La nya,la-nya-tcd0904,TCD0904,,TCD09,LOGONE ORIENTAL,LOGONE ORIENTAL,,,6,,8.562,16.611
+TCD0905,2,Département,Department,La Nya pendé,La Nya pendé,la-nya-pend-tcd0905,TCD0905,,TCD09,LOGONE ORIENTAL,LOGONE ORIENTAL,,,10,,8.007,16.482
+TCD0906,2,Département,Department,Monts de lam,Monts de lam,monts-de-lam-tcd0906,TCD0906,,TCD09,LOGONE ORIENTAL,LOGONE ORIENTAL,,,10,,8.069,15.848
+TCD10,1,Province,Province,MANDOUL,MANDOUL,mandoul-tcd10,TCD10,,,,,,3,32,,8.734,17.588
+TCD1001,2,Département,Department,Mandoul Oriental,Mandoul Oriental,mandoul-oriental-tcd1001,TCD1001,,TCD10,MANDOUL,MANDOUL,,,9,,9.136,17.688
+TCD1002,2,Département,Department,Barh Sara,Barh Sara,barh-sara-tcd1002,TCD1002,,TCD10,MANDOUL,MANDOUL,,,16,,8.371,17.753
+TCD1003,2,Département,Department,Mandoul Occidental,Mandoul Occidental,mandoul-occidental-tcd1003,TCD1003,,TCD10,MANDOUL,MANDOUL,,,7,,8.599,17.283
+TCD11,1,Province,Province,MAYO KEBBI EST,MAYO KEBBI EST,mayo-kebbi-est-tcd11,TCD11,,,,,,4,28,,10.215,15.807
+TCD1101,2,Département,Department,Mayo Boneye,Mayo Boneye,mayo-boneye-tcd1101,TCD1101,,TCD11,MAYO KEBBI EST,MAYO KEBBI EST,,,15,,10.254,15.78
+TCD1102,2,Département,Department,La kabbia,La kabbia,la-kabbia-tcd1102,TCD1102,,TCD11,MAYO KEBBI EST,MAYO KEBBI EST,,,7,,9.524,15.378
+TCD1103,2,Département,Department,Mayo Lemyé,Mayo Lemyé,mayo-lemy-tcd1103,TCD1103,,TCD11,MAYO KEBBI EST,MAYO KEBBI EST,,,0,,10.859,15.397
+TCD1104,2,Département,Department,Mont Illi,Mont Illi,mont-illi-tcd1104,TCD1104,,TCD11,MAYO KEBBI EST,MAYO KEBBI EST,,,6,,9.769,15.058
+TCD12,1,Province,Province,MAYO KEBBI OUEST,MAYO KEBBI OUEST,mayo-kebbi-ouest-tcd12,TCD12,,,,,,3,18,,9.225,14.867
+TCD1201,2,Département,Department,Mayo Dallah,Mayo Dallah,mayo-dallah-tcd1201,TCD1201,,TCD12,MAYO KEBBI OUEST,MAYO KEBBI OUEST,,,13,,9.079,14.958
+TCD1202,2,Département,Department,Lac Léré,Lac Léré,lac-lr-tcd1202,TCD1202,,TCD12,MAYO KEBBI OUEST,MAYO KEBBI OUEST,,,5,,9.619,14.383
+TCD1203,2,Département,Department,Mayo Binder,Mayo Binder,mayo-binder-tcd1203,TCD1203,,TCD12,MAYO KEBBI OUEST,MAYO KEBBI OUEST,,,0,,9.844,14.483
+TCD13,1,Province,Province,MOYEN CHARI,MOYEN CHARI,moyen-chari-tcd13,TCD13,,,,,,3,24,,9.315,18.866
+TCD1301,2,Département,Department,Bahr Koh,Bahr Koh,bahr-koh-tcd1301,TCD1301,,TCD13,MOYEN CHARI,MOYEN CHARI,,,9,,9.515,17.97
+TCD1302,2,Département,Department,Grande Sido,Grande Sido,grande-sido-tcd1302,TCD1302,,TCD13,MOYEN CHARI,MOYEN CHARI,,,1,,8.452,18.541
+TCD1303,2,Département,Department,Lac Iro,Lac Iro,lac-iro-tcd1303,TCD1303,,TCD13,MOYEN CHARI,MOYEN CHARI,,,14,,9.801,19.053
+TCD14,1,Province,Province,OUADDAÏ,OUADDAÏ,ouadda-tcd14,TCD14,,,,,,3,22,,13.032,20.595
+TCD1401,2,Département,Department,Ouara,Ouara,ouara-tcd1401,TCD1401,,TCD14,OUADDAÏ,OUADDAÏ,,,7,,13.709,20.897
+TCD1402,2,Département,Department,Djourf Al Ahmar,Djourf Al Ahmar,djourf-al-ahmar-tcd1402,TCD1402,,TCD14,OUADDAÏ,OUADDAÏ,,,9,,12.324,20.597
+TCD1403,2,Département,Department,Assoungha,Assoungha,assoungha-tcd1403,TCD1403,,TCD14,OUADDAÏ,OUADDAÏ,,,6,,13.454,21.954
+TCD15,1,Province,Province,SALAMAT,SALAMAT,salamat-tcd15,TCD15,,,,,,3,16,,10.626,20.718
+TCD1501,2,Département,Department,Bahr Azoum,Bahr Azoum,bahr-azoum-tcd1501,TCD1501,,TCD15,SALAMAT,SALAMAT,,,8,,10.974,20.373
+TCD1502,2,Département,Department,Aboudeia,Aboudeia,aboudeia-tcd1502,TCD1502,,TCD15,SALAMAT,SALAMAT,,,4,,11.548,19.461
+TCD1503,2,Département,Department,Haraze Mangueigne,Haraze Mangueigne,haraze-mangueigne-tcd1503,TCD1503,,TCD15,SALAMAT,SALAMAT,,,4,,10.408,21.294
+TCD16,1,Province,Province,TANDJILÉ,TANDJILÉ,tandjil-tcd16,TCD16,,,,,,3,27,,9.648,16.652
+TCD1601,2,Département,Department,Tandjilé Est,Tandjilé Est,tandjil-est-tcd1601,TCD1601,,TCD16,TANDJILÉ,TANDJILÉ,,,17,,9.657,16.787
+TCD1602,2,Département,Department,Tandjilé Ouest,Tandjilé Ouest,tandjil-ouest-tcd1602,TCD1602,,TCD16,TANDJILÉ,TANDJILÉ,,,6,,9.363,15.791
+TCD1603,2,Département,Department,Tandjilé Centre,Tandjilé Centre,tandjil-centre-tcd1603,TCD1603,,TCD16,TANDJILÉ,TANDJILÉ,,,4,,9.299,16.185
+TCD17,1,Province,Province,WADI FIRA,WADI FIRA,wadi-fira-tcd17,TCD17,,,,,,4,27,,14.94,21.402
+TCD1701,2,Département,Department,Biltine,Biltine,biltine-tcd1701,TCD1701,,TCD17,WADI FIRA,WADI FIRA,,,7,,14.945,20.53
+TCD1702,2,Département,Department,Dar Tama,Dar Tama,dar-tama-tcd1702,TCD1702,,TCD17,WADI FIRA,WADI FIRA,,,14,,14.451,21.961
+TCD1703,2,Département,Department,Kobé,Kobé,kob-tcd1703,TCD1703,,TCD17,WADI FIRA,WADI FIRA,,,6,,15.075,22.427
+TCD1704,2,Département,Department,Megri,Megri,megri-tcd1704,TCD1704,,TCD17,WADI FIRA,WADI FIRA,,,0,,15.36,21.867
+TCD18,1,Province,Province,N'DJAMENA,N'DJAMENA,ndjamena-tcd18,TCD18,,,,,,1,4,,12.125,15.048
+TCD1801,2,Département,Department,N'Djamena,N'Djamena,ndjamena-tcd1801,TCD1801,,TCD18,N'DJAMENA,N'DJAMENA,,,4,,12.125,15.048
+TCD19,1,Province,Province,BARH EL GAZEL,BARH EL GAZEL,barh-el-gazel-tcd19,TCD19,,,,,,3,3,,14.452,16.898
+TCD1901,2,Département,Department,Barh El Gazel Sud,Barh El Gazel Sud,barh-el-gazel-sud-tcd1901,TCD1901,,TCD19,BARH EL GAZEL,BARH EL GAZEL,,,3,,13.695,16.557
+TCD1902,2,Département,Department,Barh El Gazel Nord,Barh El Gazel Nord,barh-el-gazel-nord-tcd1902,TCD1902,,TCD19,BARH EL GAZEL,BARH EL GAZEL,,,0,,14.773,17.015
+TCD1903,2,Département,Department,Barh El Gazel Ouest,Barh El Gazel Ouest,barh-el-gazel-ouest-tcd1903,TCD1903,,TCD19,BARH EL GAZEL,BARH EL GAZEL,,,0,,13.279,16.248
+TCD20,1,Province,Province,ENNEDI EST,ENNEDI EST,ennedi-est-tcd20,TCD20,,,,,,2,1,,17.887,23.18
+TCD2001,2,Département,Department,Amdjarass,Amdjarass,amdjarass-tcd2001,TCD2001,,TCD20,ENNEDI EST,ENNEDI EST,,,1,,17.99,23.18
+TCD2002,2,Département,Department,Wadi Hawar,Wadi Hawar,wadi-hawar-tcd2002,TCD2002,,TCD20,ENNEDI EST,ENNEDI EST,,,0,,15.805,22.713
+TCD21,1,Province,Province,SILA,SILA,sila-tcd21,TCD21,,,,,,2,9,,12.075,21.874
+TCD2101,2,Département,Department,Kimiti,Kimiti,kimiti-tcd2101,TCD2101,,TCD21,SILA,SILA,,,9,,11.88,21.875
+TCD2102,2,Département,Department,Abdi,Abdi,abdi-tcd2102,TCD2102,,TCD21,SILA,SILA,,,0,,12.909,21.213
+TCD22,1,Province,Province,TIBESTI,TIBESTI,tibesti-tcd22,TCD22,,,,,,2,1,,20.176,18.237
+TCD2201,2,Département,Department,Tibesti Est,Tibesti Est,tibesti-est-tcd2201,TCD2201,,TCD22,TIBESTI,TIBESTI,,,1,,20.775,19.004
+TCD2202,2,Département,Department,Tibesti Ouest,Tibesti Ouest,tibesti-ouest-tcd2202,TCD2202,,TCD22,TIBESTI,TIBESTI,,,0,,20.144,16.575
+TCD23,1,Province,Province,ENNEDI OUEST,ENNEDI OUEST,ennedi-ouest-tcd23,TCD23,,,,,,2,1,,18.256,20.962
+TCD2301,2,Département,Department,Fada,Fada,fada-tcd2301,TCD2301,,TCD23,ENNEDI OUEST,ENNEDI OUEST,,,1,,18.256,20.962
+TCD2302,2,Département,Department,Mourtcha,Mourtcha,mourtcha-tcd2302,TCD2302,,TCD23,ENNEDI OUEST,ENNEDI OUEST,,,0,,16.345,20.909

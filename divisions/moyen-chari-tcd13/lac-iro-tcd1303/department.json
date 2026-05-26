@@ -1,0 +1,47 @@
+{
+  "id": "TCD1303",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Lac Iro",
+    "en": "Lac Iro",
+    "slug": "lac-iro-tcd1303"
+  },
+  "code": {
+    "id": "TCD1303",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD13",
+    "level": 1,
+    "name": {
+      "local": "MOYEN CHARI",
+      "en": "MOYEN CHARI",
+      "slug": "moyen-chari-tcd13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD13",
+      "level": 1,
+      "name": {
+        "local": "MOYEN CHARI",
+        "en": "MOYEN CHARI",
+        "slug": "moyen-chari-tcd13"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.801",
+    "lon": "19.053"
+  },
+  "metadata": {},
+  "source": {}
+}

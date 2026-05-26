@@ -1,0 +1,488 @@
+[
+  {
+    "id": "TCD1301_balimba",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Balimba",
+      "en": "Balimba",
+      "slug": "balimba"
+    },
+    "code": {
+      "id": "TCD1301_balimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1301",
+      "level": 2,
+      "name": {
+        "local": "Bahr Koh",
+        "en": "Bahr Koh",
+        "slug": "bahr-koh-tcd1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1301",
+        "level": 2,
+        "name": {
+          "local": "Bahr Koh",
+          "en": "Bahr Koh",
+          "slug": "bahr-koh-tcd1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.515",
+      "lon": "17.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1301_banda",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Banda",
+      "en": "Banda",
+      "slug": "banda"
+    },
+    "code": {
+      "id": "TCD1301_banda",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1301",
+      "level": 2,
+      "name": {
+        "local": "Bahr Koh",
+        "en": "Bahr Koh",
+        "slug": "bahr-koh-tcd1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1301",
+        "level": 2,
+        "name": {
+          "local": "Bahr Koh",
+          "en": "Bahr Koh",
+          "slug": "bahr-koh-tcd1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.515",
+      "lon": "17.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1301_djoli",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djoli",
+      "en": "Djoli",
+      "slug": "djoli"
+    },
+    "code": {
+      "id": "TCD1301_djoli",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1301",
+      "level": 2,
+      "name": {
+        "local": "Bahr Koh",
+        "en": "Bahr Koh",
+        "slug": "bahr-koh-tcd1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1301",
+        "level": 2,
+        "name": {
+          "local": "Bahr Koh",
+          "en": "Bahr Koh",
+          "slug": "bahr-koh-tcd1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.515",
+      "lon": "17.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1301_kokaga",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kokaga",
+      "en": "Kokaga",
+      "slug": "kokaga"
+    },
+    "code": {
+      "id": "TCD1301_kokaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1301",
+      "level": 2,
+      "name": {
+        "local": "Bahr Koh",
+        "en": "Bahr Koh",
+        "slug": "bahr-koh-tcd1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1301",
+        "level": 2,
+        "name": {
+          "local": "Bahr Koh",
+          "en": "Bahr Koh",
+          "slug": "bahr-koh-tcd1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.515",
+      "lon": "17.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1301_korbol",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Korbol",
+      "en": "Korbol",
+      "slug": "korbol"
+    },
+    "code": {
+      "id": "TCD1301_korbol",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1301",
+      "level": 2,
+      "name": {
+        "local": "Bahr Koh",
+        "en": "Bahr Koh",
+        "slug": "bahr-koh-tcd1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1301",
+        "level": 2,
+        "name": {
+          "local": "Bahr Koh",
+          "en": "Bahr Koh",
+          "slug": "bahr-koh-tcd1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.515",
+      "lon": "17.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1301_koumogo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koumogo",
+      "en": "Koumogo",
+      "slug": "koumogo"
+    },
+    "code": {
+      "id": "TCD1301_koumogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1301",
+      "level": 2,
+      "name": {
+        "local": "Bahr Koh",
+        "en": "Bahr Koh",
+        "slug": "bahr-koh-tcd1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1301",
+        "level": 2,
+        "name": {
+          "local": "Bahr Koh",
+          "en": "Bahr Koh",
+          "slug": "bahr-koh-tcd1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.515",
+      "lon": "17.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1301_moussafoyo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moussafoyo",
+      "en": "Moussafoyo",
+      "slug": "moussafoyo"
+    },
+    "code": {
+      "id": "TCD1301_moussafoyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1301",
+      "level": 2,
+      "name": {
+        "local": "Bahr Koh",
+        "en": "Bahr Koh",
+        "slug": "bahr-koh-tcd1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1301",
+        "level": 2,
+        "name": {
+          "local": "Bahr Koh",
+          "en": "Bahr Koh",
+          "slug": "bahr-koh-tcd1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.515",
+      "lon": "17.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1301_niellim",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niellim",
+      "en": "Niellim",
+      "slug": "niellim"
+    },
+    "code": {
+      "id": "TCD1301_niellim",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1301",
+      "level": 2,
+      "name": {
+        "local": "Bahr Koh",
+        "en": "Bahr Koh",
+        "slug": "bahr-koh-tcd1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1301",
+        "level": 2,
+        "name": {
+          "local": "Bahr Koh",
+          "en": "Bahr Koh",
+          "slug": "bahr-koh-tcd1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.515",
+      "lon": "17.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1301_sarh",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sarh",
+      "en": "Sarh",
+      "slug": "sarh"
+    },
+    "code": {
+      "id": "TCD1301_sarh",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1301",
+      "level": 2,
+      "name": {
+        "local": "Bahr Koh",
+        "en": "Bahr Koh",
+        "slug": "bahr-koh-tcd1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD13",
+        "level": 1,
+        "name": {
+          "local": "MOYEN CHARI",
+          "en": "MOYEN CHARI",
+          "slug": "moyen-chari-tcd13"
+        }
+      },
+      {
+        "id": "TCD1301",
+        "level": 2,
+        "name": {
+          "local": "Bahr Koh",
+          "en": "Bahr Koh",
+          "slug": "bahr-koh-tcd1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.515",
+      "lon": "17.97"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

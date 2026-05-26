@@ -1,0 +1,120 @@
+# MOYEN CHARI — Chad Administrative Divisions
+
+> 3 departments, 24 sub-prefectures
+> Code: TCD13
+> Coordinates: 9.315, 18.866
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Bahr Koh
+
+Code: TCD1301, Coordinates: 9.515, 17.97
+Sub-prefectures: 9
+
+#### Balimba
+
+Code: TCD1301_balimba, Coordinates: 9.515, 17.97
+
+#### Banda
+
+Code: TCD1301_banda, Coordinates: 9.515, 17.97
+
+#### Djoli
+
+Code: TCD1301_djoli, Coordinates: 9.515, 17.97
+
+#### Kokaga
+
+Code: TCD1301_kokaga, Coordinates: 9.515, 17.97
+
+#### Korbol
+
+Code: TCD1301_korbol, Coordinates: 9.515, 17.97
+
+#### Koumogo
+
+Code: TCD1301_koumogo, Coordinates: 9.515, 17.97
+
+#### Moussafoyo
+
+Code: TCD1301_moussafoyo, Coordinates: 9.515, 17.97
+
+#### Niellim
+
+Code: TCD1301_niellim, Coordinates: 9.515, 17.97
+
+#### Sarh
+
+Code: TCD1301_sarh, Coordinates: 9.515, 17.97
+
+### Grande Sido
+
+Code: TCD1302, Coordinates: 8.452, 18.541
+Sub-prefectures: 1
+
+#### Maro
+
+Code: TCD1302_maro, Coordinates: 8.452, 18.541
+
+### Lac Iro
+
+Code: TCD1303, Coordinates: 9.801, 19.053
+Sub-prefectures: 14
+
+#### Alako
+
+Code: TCD1303_alako, Coordinates: 9.801, 19.053
+
+#### Bale
+
+Code: TCD1303_bale, Coordinates: 9.801, 19.053
+
+#### Baltoubaye
+
+Code: TCD1303_baltoubaye, Coordinates: 9.801, 19.053
+
+#### Bohobe
+
+Code: TCD1303_bohobe, Coordinates: 9.801, 19.053
+
+#### Boum-Kebir
+
+Code: TCD1303_boum-kebir, Coordinates: 9.801, 19.053
+
+#### Dindje
+
+Code: TCD1303_dindje, Coordinates: 9.801, 19.053
+
+#### Koskobo
+
+Code: TCD1303_koskobo, Coordinates: 9.801, 19.053
+
+#### Kotongoro
+
+Code: TCD1303_kotongoro, Coordinates: 9.801, 19.053
+
+#### Kyabe
+
+Code: TCD1303_kyabe, Coordinates: 9.801, 19.053
+
+#### Marabe
+
+Code: TCD1303_marabe, Coordinates: 9.801, 19.053
+
+#### Moufa
+
+Code: TCD1303_moufa, Coordinates: 9.801, 19.053
+
+#### Ndjokou
+
+Code: TCD1303_ndjokou, Coordinates: 9.801, 19.053
+
+#### Simegotobe
+
+Code: TCD1303_simegotobe, Coordinates: 9.801, 19.053
+
+#### Singako
+
+Code: TCD1303_singako, Coordinates: 9.801, 19.053
+

@@ -1,0 +1,37 @@
+# LAC — Chad Administrative Divisions
+
+> 4 departments, 2 sub-prefectures
+> Code: TCD07
+> Coordinates: 13.769, 14.158
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Fouli
+
+Code: TCD0704, Coordinates: 14.025, 14.04
+Sub-prefectures: 0
+
+### Kaya
+
+Code: TCD0703, Coordinates: 13.485, 14.306
+Sub-prefectures: 0
+
+### Mamdi
+
+Code: TCD0701, Coordinates: 13.289, 14.528
+Sub-prefectures: 1
+
+#### Bol
+
+Code: TCD0701_bol, Coordinates: 13.289, 14.528
+
+### Wayi
+
+Code: TCD0702, Coordinates: 13.418, 15.248
+Sub-prefectures: 1
+
+#### Ngouri
+
+Code: TCD0702_ngouri, Coordinates: 13.418, 15.248
+

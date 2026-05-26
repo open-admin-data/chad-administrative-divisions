@@ -1,0 +1,56 @@
+[
+  {
+    "id": "TCD0702_ngouri",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ngouri",
+      "en": "Ngouri",
+      "slug": "ngouri"
+    },
+    "code": {
+      "id": "TCD0702_ngouri",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0702",
+      "level": 2,
+      "name": {
+        "local": "Wayi",
+        "en": "Wayi",
+        "slug": "wayi-tcd0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD07",
+        "level": 1,
+        "name": {
+          "local": "LAC",
+          "en": "LAC",
+          "slug": "lac-tcd07"
+        }
+      },
+      {
+        "id": "TCD0702",
+        "level": 2,
+        "name": {
+          "local": "Wayi",
+          "en": "Wayi",
+          "slug": "wayi-tcd0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.418",
+      "lon": "15.248"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

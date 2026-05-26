@@ -1,0 +1,152 @@
+# MANDOUL — Chad Administrative Divisions
+
+> 3 departments, 32 sub-prefectures
+> Code: TCD10
+> Coordinates: 8.734, 17.588
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Barh Sara
+
+Code: TCD1002, Coordinates: 8.371, 17.753
+Sub-prefectures: 16
+
+#### Beboro
+
+Code: TCD1002_beboro, Coordinates: 8.371, 17.753
+
+#### Begara
+
+Code: TCD1002_begara, Coordinates: 8.371, 17.753
+
+#### Bekamba-Moissala
+
+Code: TCD1002_bekamba-moissala, Coordinates: 8.371, 17.753
+
+#### Bekourou
+
+Code: TCD1002_bekourou, Coordinates: 8.371, 17.753
+
+#### Bengoro
+
+Code: TCD1002_bengoro, Coordinates: 8.371, 17.753
+
+#### Bessara
+
+Code: TCD1002_bessara, Coordinates: 8.371, 17.753
+
+#### Dembo
+
+Code: TCD1002_dembo, Coordinates: 8.371, 17.753
+
+#### Dilingala
+
+Code: TCD1002_dilingala, Coordinates: 8.371, 17.753
+
+#### Doubadene
+
+Code: TCD1002_doubadene, Coordinates: 8.371, 17.753
+
+#### Gabian
+
+Code: TCD1002_gabian, Coordinates: 8.371, 17.753
+
+#### Gon
+
+Code: TCD1002_gon, Coordinates: 8.371, 17.753
+
+#### Koldaga
+
+Code: TCD1002_koldaga, Coordinates: 8.371, 17.753
+
+#### Moissala
+
+Code: TCD1002_moissala, Coordinates: 8.371, 17.753
+
+#### Nadili
+
+Code: TCD1002_nadili, Coordinates: 8.371, 17.753
+
+#### Ngalo
+
+Code: TCD1002_ngalo, Coordinates: 8.371, 17.753
+
+#### Takoua
+
+Code: TCD1002_takoua, Coordinates: 8.371, 17.753
+
+### Mandoul Occidental
+
+Code: TCD1003, Coordinates: 8.599, 17.283
+Sub-prefectures: 7
+
+#### Bangoul
+
+Code: TCD1003_bangoul, Coordinates: 8.599, 17.283
+
+#### Bebo-Pen
+
+Code: TCD1003_bebo-pen, Coordinates: 8.599, 17.283
+
+#### Bedjondo
+
+Code: TCD1003_bedjondo, Coordinates: 8.599, 17.283
+
+#### Bekamba-Koumra
+
+Code: TCD1003_bekamba-koumra, Coordinates: 8.599, 17.283
+
+#### Nderguigui
+
+Code: TCD1003_nderguigui, Coordinates: 8.599, 17.283
+
+#### Peni-Tchad
+
+Code: TCD1003_peni-tchad, Coordinates: 8.599, 17.283
+
+#### Yomi
+
+Code: TCD1003_yomi, Coordinates: 8.599, 17.283
+
+### Mandoul Oriental
+
+Code: TCD1001, Coordinates: 9.136, 17.688
+Sub-prefectures: 9
+
+#### Bedaya
+
+Code: TCD1001_bedaya, Coordinates: 9.136, 17.688
+
+#### Bessada
+
+Code: TCD1001_bessada, Coordinates: 9.136, 17.688
+
+#### Dobo
+
+Code: TCD1001_dobo, Coordinates: 9.136, 17.688
+
+#### Goundi
+
+Code: TCD1001_goundi, Coordinates: 9.136, 17.688
+
+#### Koumra
+
+Code: TCD1001_koumra, Coordinates: 9.136, 17.688
+
+#### Mahim-Toki
+
+Code: TCD1001_mahim-toki, Coordinates: 9.136, 17.688
+
+#### Matekaga
+
+Code: TCD1001_matekaga, Coordinates: 9.136, 17.688
+
+#### Mouroum-Goulaye
+
+Code: TCD1001_mouroum-goulaye, Coordinates: 9.136, 17.688
+
+#### Ngangara
+
+Code: TCD1001_ngangara, Coordinates: 9.136, 17.688
+

@@ -1,0 +1,47 @@
+{
+  "id": "TCD1101",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mayo Boneye",
+    "en": "Mayo Boneye",
+    "slug": "mayo-boneye-tcd1101"
+  },
+  "code": {
+    "id": "TCD1101",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD11",
+    "level": 1,
+    "name": {
+      "local": "MAYO KEBBI EST",
+      "en": "MAYO KEBBI EST",
+      "slug": "mayo-kebbi-est-tcd11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD11",
+      "level": 1,
+      "name": {
+        "local": "MAYO KEBBI EST",
+        "en": "MAYO KEBBI EST",
+        "slug": "mayo-kebbi-est-tcd11"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.254",
+    "lon": "15.78"
+  },
+  "metadata": {},
+  "source": {}
+}

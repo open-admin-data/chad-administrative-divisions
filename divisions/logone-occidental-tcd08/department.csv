@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD0802,Djode,Djode,djode-tcd0802,TCD0802,4,8.681,15.509
+TCD0803,Gueni,Gueni,gueni-tcd0803,TCD0803,0,8.96,15.77
+TCD0801,Lac wey,Lac wey,lac-wey-tcd0801,TCD0801,13,8.642,15.978
+TCD0804,Ngourkosso,Ngourkosso,ngourkosso-tcd0804,TCD0804,11,8.971,16.327

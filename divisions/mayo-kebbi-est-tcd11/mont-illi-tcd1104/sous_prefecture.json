@@ -1,0 +1,326 @@
+[
+  {
+    "id": "TCD1104_fianga",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fianga",
+      "en": "Fianga",
+      "slug": "fianga"
+    },
+    "code": {
+      "id": "TCD1104_fianga",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1104",
+      "level": 2,
+      "name": {
+        "local": "Mont Illi",
+        "en": "Mont Illi",
+        "slug": "mont-illi-tcd1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1104",
+        "level": 2,
+        "name": {
+          "local": "Mont Illi",
+          "en": "Mont Illi",
+          "slug": "mont-illi-tcd1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.769",
+      "lon": "15.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1104_gami",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gami",
+      "en": "Gami",
+      "slug": "gami"
+    },
+    "code": {
+      "id": "TCD1104_gami",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1104",
+      "level": 2,
+      "name": {
+        "local": "Mont Illi",
+        "en": "Mont Illi",
+        "slug": "mont-illi-tcd1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1104",
+        "level": 2,
+        "name": {
+          "local": "Mont Illi",
+          "en": "Mont Illi",
+          "slug": "mont-illi-tcd1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.769",
+      "lon": "15.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1104_kera",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kera",
+      "en": "Kera",
+      "slug": "kera"
+    },
+    "code": {
+      "id": "TCD1104_kera",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1104",
+      "level": 2,
+      "name": {
+        "local": "Mont Illi",
+        "en": "Mont Illi",
+        "slug": "mont-illi-tcd1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1104",
+        "level": 2,
+        "name": {
+          "local": "Mont Illi",
+          "en": "Mont Illi",
+          "slug": "mont-illi-tcd1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.769",
+      "lon": "15.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1104_malboumhollom",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Malboum/Hollom",
+      "en": "Malboum/Hollom",
+      "slug": "malboumhollom"
+    },
+    "code": {
+      "id": "TCD1104_malboumhollom",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1104",
+      "level": 2,
+      "name": {
+        "local": "Mont Illi",
+        "en": "Mont Illi",
+        "slug": "mont-illi-tcd1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1104",
+        "level": 2,
+        "name": {
+          "local": "Mont Illi",
+          "en": "Mont Illi",
+          "slug": "mont-illi-tcd1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.769",
+      "lon": "15.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1104_tikem",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tikem",
+      "en": "Tikem",
+      "slug": "tikem"
+    },
+    "code": {
+      "id": "TCD1104_tikem",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1104",
+      "level": 2,
+      "name": {
+        "local": "Mont Illi",
+        "en": "Mont Illi",
+        "slug": "mont-illi-tcd1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1104",
+        "level": 2,
+        "name": {
+          "local": "Mont Illi",
+          "en": "Mont Illi",
+          "slug": "mont-illi-tcd1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.769",
+      "lon": "15.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1104_youe",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Youe",
+      "en": "Youe",
+      "slug": "youe"
+    },
+    "code": {
+      "id": "TCD1104_youe",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1104",
+      "level": 2,
+      "name": {
+        "local": "Mont Illi",
+        "en": "Mont Illi",
+        "slug": "mont-illi-tcd1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1104",
+        "level": 2,
+        "name": {
+          "local": "Mont Illi",
+          "en": "Mont Illi",
+          "slug": "mont-illi-tcd1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.769",
+      "lon": "15.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

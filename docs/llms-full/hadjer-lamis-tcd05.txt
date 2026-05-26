@@ -1,0 +1,64 @@
+# HADJER LAMIS — Chad Administrative Divisions
+
+> 3 departments, 10 sub-prefectures
+> Code: TCD05
+> Coordinates: 12.42, 16.092
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Dababa
+
+Code: TCD0502, Coordinates: 12.314, 16.877
+Sub-prefectures: 6
+
+#### Amladoba
+
+Code: TCD0502_amladoba, Coordinates: 12.314, 16.877
+
+#### Bokoro/Tania
+
+Code: TCD0502_bokorotania, Coordinates: 12.314, 16.877
+
+#### Dababa
+
+Code: TCD0502_dababa, Coordinates: 12.314, 16.877
+
+#### Mayakne
+
+Code: TCD0502_mayakne, Coordinates: 12.314, 16.877
+
+#### Moito
+
+Code: TCD0502_moito, Coordinates: 12.314, 16.877
+
+#### Yessie/Ngama
+
+Code: TCD0502_yessiengama, Coordinates: 12.314, 16.877
+
+### Dagana
+
+Code: TCD0501, Coordinates: 12.976, 15.471
+Sub-prefectures: 1
+
+#### Massakory
+
+Code: TCD0501_massakory, Coordinates: 12.976, 15.471
+
+### Haraze Al Biar
+
+Code: TCD0503, Coordinates: 12.596, 15.045
+Sub-prefectures: 3
+
+#### Afrouk
+
+Code: TCD0503_afrouk, Coordinates: 12.596, 15.045
+
+#### Mani
+
+Code: TCD0503_mani, Coordinates: 12.596, 15.045
+
+#### Massaguet
+
+Code: TCD0503_massaguet, Coordinates: 12.596, 15.045
+

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "TCD1102_berem",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Berem",
+      "en": "Berem",
+      "slug": "berem"
+    },
+    "code": {
+      "id": "TCD1102_berem",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1102",
+      "level": 2,
+      "name": {
+        "local": "La kabbia",
+        "en": "La kabbia",
+        "slug": "la-kabbia-tcd1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1102",
+        "level": 2,
+        "name": {
+          "local": "La kabbia",
+          "en": "La kabbia",
+          "slug": "la-kabbia-tcd1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.524",
+      "lon": "15.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1102_djarao",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djarao",
+      "en": "Djarao",
+      "slug": "djarao"
+    },
+    "code": {
+      "id": "TCD1102_djarao",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1102",
+      "level": 2,
+      "name": {
+        "local": "La kabbia",
+        "en": "La kabbia",
+        "slug": "la-kabbia-tcd1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1102",
+        "level": 2,
+        "name": {
+          "local": "La kabbia",
+          "en": "La kabbia",
+          "slug": "la-kabbia-tcd1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.524",
+      "lon": "15.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1102_domo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Domo",
+      "en": "Domo",
+      "slug": "domo"
+    },
+    "code": {
+      "id": "TCD1102_domo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1102",
+      "level": 2,
+      "name": {
+        "local": "La kabbia",
+        "en": "La kabbia",
+        "slug": "la-kabbia-tcd1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1102",
+        "level": 2,
+        "name": {
+          "local": "La kabbia",
+          "en": "La kabbia",
+          "slug": "la-kabbia-tcd1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.524",
+      "lon": "15.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1102_gounou",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gounou",
+      "en": "Gounou",
+      "slug": "gounou"
+    },
+    "code": {
+      "id": "TCD1102_gounou",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1102",
+      "level": 2,
+      "name": {
+        "local": "La kabbia",
+        "en": "La kabbia",
+        "slug": "la-kabbia-tcd1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1102",
+        "level": 2,
+        "name": {
+          "local": "La kabbia",
+          "en": "La kabbia",
+          "slug": "la-kabbia-tcd1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.524",
+      "lon": "15.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1102_gounou-gaya",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gounou-Gaya",
+      "en": "Gounou-Gaya",
+      "slug": "gounou-gaya"
+    },
+    "code": {
+      "id": "TCD1102_gounou-gaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1102",
+      "level": 2,
+      "name": {
+        "local": "La kabbia",
+        "en": "La kabbia",
+        "slug": "la-kabbia-tcd1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1102",
+        "level": 2,
+        "name": {
+          "local": "La kabbia",
+          "en": "La kabbia",
+          "slug": "la-kabbia-tcd1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.524",
+      "lon": "15.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1102_leo-mbassa",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Leo-Mbassa",
+      "en": "Leo-Mbassa",
+      "slug": "leo-mbassa"
+    },
+    "code": {
+      "id": "TCD1102_leo-mbassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1102",
+      "level": 2,
+      "name": {
+        "local": "La kabbia",
+        "en": "La kabbia",
+        "slug": "la-kabbia-tcd1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1102",
+        "level": 2,
+        "name": {
+          "local": "La kabbia",
+          "en": "La kabbia",
+          "slug": "la-kabbia-tcd1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.524",
+      "lon": "15.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1102_tagal",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tagal",
+      "en": "Tagal",
+      "slug": "tagal"
+    },
+    "code": {
+      "id": "TCD1102_tagal",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1102",
+      "level": 2,
+      "name": {
+        "local": "La kabbia",
+        "en": "La kabbia",
+        "slug": "la-kabbia-tcd1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD11",
+        "level": 1,
+        "name": {
+          "local": "MAYO KEBBI EST",
+          "en": "MAYO KEBBI EST",
+          "slug": "mayo-kebbi-est-tcd11"
+        }
+      },
+      {
+        "id": "TCD1102",
+        "level": 2,
+        "name": {
+          "local": "La kabbia",
+          "en": "La kabbia",
+          "slug": "la-kabbia-tcd1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.524",
+      "lon": "15.378"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

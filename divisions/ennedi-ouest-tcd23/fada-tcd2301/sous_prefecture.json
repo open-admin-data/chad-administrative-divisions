@@ -1,0 +1,56 @@
+[
+  {
+    "id": "TCD2301_ennedi-ouest",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ennedi Ouest",
+      "en": "Ennedi Ouest",
+      "slug": "ennedi-ouest"
+    },
+    "code": {
+      "id": "TCD2301_ennedi-ouest",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD2301",
+      "level": 2,
+      "name": {
+        "local": "Fada",
+        "en": "Fada",
+        "slug": "fada-tcd2301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD23",
+        "level": 1,
+        "name": {
+          "local": "ENNEDI OUEST",
+          "en": "ENNEDI OUEST",
+          "slug": "ennedi-ouest-tcd23"
+        }
+      },
+      {
+        "id": "TCD2301",
+        "level": 2,
+        "name": {
+          "local": "Fada",
+          "en": "Fada",
+          "slug": "fada-tcd2301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.256",
+      "lon": "20.962"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

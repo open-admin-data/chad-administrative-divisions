@@ -1,0 +1,30 @@
+{
+  "id": "TCD21",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "SILA",
+    "en": "SILA",
+    "slug": "sila-tcd21"
+  },
+  "code": {
+    "id": "TCD21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 2,
+    "sous_prefecture": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.075",
+    "lon": "21.874"
+  },
+  "metadata": {},
+  "source": {}
+}

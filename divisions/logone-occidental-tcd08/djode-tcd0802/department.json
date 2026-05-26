@@ -1,0 +1,47 @@
+{
+  "id": "TCD0802",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Djode",
+    "en": "Djode",
+    "slug": "djode-tcd0802"
+  },
+  "code": {
+    "id": "TCD0802",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD08",
+    "level": 1,
+    "name": {
+      "local": "LOGONE OCCIDENTAL",
+      "en": "LOGONE OCCIDENTAL",
+      "slug": "logone-occidental-tcd08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD08",
+      "level": 1,
+      "name": {
+        "local": "LOGONE OCCIDENTAL",
+        "en": "LOGONE OCCIDENTAL",
+        "slug": "logone-occidental-tcd08"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.681",
+    "lon": "15.509"
+  },
+  "metadata": {},
+  "source": {}
+}

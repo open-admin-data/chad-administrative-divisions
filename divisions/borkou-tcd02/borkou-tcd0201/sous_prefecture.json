@@ -1,0 +1,56 @@
+[
+  {
+    "id": "TCD0201_borkou",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Borkou",
+      "en": "Borkou",
+      "slug": "borkou"
+    },
+    "code": {
+      "id": "TCD0201_borkou",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0201",
+      "level": 2,
+      "name": {
+        "local": "Borkou",
+        "en": "Borkou",
+        "slug": "borkou-tcd0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD02",
+        "level": 1,
+        "name": {
+          "local": "BORKOU",
+          "en": "BORKOU",
+          "slug": "borkou-tcd02"
+        }
+      },
+      {
+        "id": "TCD0201",
+        "level": 2,
+        "name": {
+          "local": "Borkou",
+          "en": "Borkou",
+          "slug": "borkou-tcd0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.487",
+      "lon": "18.973"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

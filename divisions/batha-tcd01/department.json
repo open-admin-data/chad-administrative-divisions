@@ -1,0 +1,143 @@
+[
+  {
+    "id": "TCD0102",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Batha Est",
+      "en": "Batha Est",
+      "slug": "batha-est-tcd0102"
+    },
+    "code": {
+      "id": "TCD0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD01",
+      "level": 1,
+      "name": {
+        "local": "BATHA",
+        "en": "BATHA",
+        "slug": "batha-tcd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "19.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0101",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Batha Ouest",
+      "en": "Batha Ouest",
+      "slug": "batha-ouest-tcd0101"
+    },
+    "code": {
+      "id": "TCD0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD01",
+      "level": 1,
+      "name": {
+        "local": "BATHA",
+        "en": "BATHA",
+        "slug": "batha-tcd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "18.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0103",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Fitri",
+      "en": "Fitri",
+      "slug": "fitri-tcd0103"
+    },
+    "code": {
+      "id": "TCD0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD01",
+      "level": 1,
+      "name": {
+        "local": "BATHA",
+        "en": "BATHA",
+        "slug": "batha-tcd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD01",
+        "level": 1,
+        "name": {
+          "local": "BATHA",
+          "en": "BATHA",
+          "slug": "batha-tcd01"
+        }
+      }
+    ],
+    "children_count": {
+      "sous_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "17.511"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

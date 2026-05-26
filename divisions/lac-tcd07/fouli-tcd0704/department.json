@@ -1,0 +1,47 @@
+{
+  "id": "TCD0704",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Fouli",
+    "en": "Fouli",
+    "slug": "fouli-tcd0704"
+  },
+  "code": {
+    "id": "TCD0704",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD07",
+    "level": 1,
+    "name": {
+      "local": "LAC",
+      "en": "LAC",
+      "slug": "lac-tcd07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD07",
+      "level": 1,
+      "name": {
+        "local": "LAC",
+        "en": "LAC",
+        "slug": "lac-tcd07"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.025",
+    "lon": "14.04"
+  },
+  "metadata": {},
+  "source": {}
+}

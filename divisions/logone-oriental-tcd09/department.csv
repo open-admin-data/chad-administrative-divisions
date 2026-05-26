@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.sous_prefecture,geo.lat,geo.lon
+TCD0902,Kouh Est,Kouh Est,kouh-est-tcd0902,TCD0902,0,8.369,17.111
+TCD0903,Kouh Ouest,Kouh Ouest,kouh-ouest-tcd0903,TCD0903,0,8.182,16.868
+TCD0904,La nya,La nya,la-nya-tcd0904,TCD0904,6,8.562,16.611
+TCD0905,La Nya pendé,La Nya pendé,la-nya-pend-tcd0905,TCD0905,10,8.007,16.482
+TCD0901,La pendé,La pendé,la-pend-tcd0901,TCD0901,10,8.857,16.939
+TCD0906,Monts de lam,Monts de lam,monts-de-lam-tcd0906,TCD0906,10,8.069,15.848

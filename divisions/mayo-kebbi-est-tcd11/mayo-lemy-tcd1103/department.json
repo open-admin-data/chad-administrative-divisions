@@ -1,0 +1,47 @@
+{
+  "id": "TCD1103",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mayo Lemyé",
+    "en": "Mayo Lemyé",
+    "slug": "mayo-lemy-tcd1103"
+  },
+  "code": {
+    "id": "TCD1103",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD11",
+    "level": 1,
+    "name": {
+      "local": "MAYO KEBBI EST",
+      "en": "MAYO KEBBI EST",
+      "slug": "mayo-kebbi-est-tcd11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD11",
+      "level": 1,
+      "name": {
+        "local": "MAYO KEBBI EST",
+        "en": "MAYO KEBBI EST",
+        "slug": "mayo-kebbi-est-tcd11"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.859",
+    "lon": "15.397"
+  },
+  "metadata": {},
+  "source": {}
+}

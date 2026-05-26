@@ -1,0 +1,30 @@
+{
+  "id": "TCD05",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "HADJER LAMIS",
+    "en": "HADJER LAMIS",
+    "slug": "hadjer-lamis-tcd05"
+  },
+  "code": {
+    "id": "TCD05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "sous_prefecture": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.42",
+    "lon": "16.092"
+  },
+  "metadata": {},
+  "source": {}
+}

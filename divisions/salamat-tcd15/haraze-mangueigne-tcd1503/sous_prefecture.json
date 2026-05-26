@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TCD1503_doudeye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Doudeye",
+      "en": "Doudeye",
+      "slug": "doudeye"
+    },
+    "code": {
+      "id": "TCD1503_doudeye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1503",
+      "level": 2,
+      "name": {
+        "local": "Haraze Mangueigne",
+        "en": "Haraze Mangueigne",
+        "slug": "haraze-mangueigne-tcd1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1503",
+        "level": 2,
+        "name": {
+          "local": "Haraze Mangueigne",
+          "en": "Haraze Mangueigne",
+          "slug": "haraze-mangueigne-tcd1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.408",
+      "lon": "21.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1503_hemat-haraze",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Hemat-Haraze",
+      "en": "Hemat-Haraze",
+      "slug": "hemat-haraze"
+    },
+    "code": {
+      "id": "TCD1503_hemat-haraze",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1503",
+      "level": 2,
+      "name": {
+        "local": "Haraze Mangueigne",
+        "en": "Haraze Mangueigne",
+        "slug": "haraze-mangueigne-tcd1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1503",
+        "level": 2,
+        "name": {
+          "local": "Haraze Mangueigne",
+          "en": "Haraze Mangueigne",
+          "slug": "haraze-mangueigne-tcd1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.408",
+      "lon": "21.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1503_kouga-tchad",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouga-Tchad",
+      "en": "Kouga-Tchad",
+      "slug": "kouga-tchad"
+    },
+    "code": {
+      "id": "TCD1503_kouga-tchad",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1503",
+      "level": 2,
+      "name": {
+        "local": "Haraze Mangueigne",
+        "en": "Haraze Mangueigne",
+        "slug": "haraze-mangueigne-tcd1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1503",
+        "level": 2,
+        "name": {
+          "local": "Haraze Mangueigne",
+          "en": "Haraze Mangueigne",
+          "slug": "haraze-mangueigne-tcd1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.408",
+      "lon": "21.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1503_mangueigne",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mangueigne",
+      "en": "Mangueigne",
+      "slug": "mangueigne"
+    },
+    "code": {
+      "id": "TCD1503_mangueigne",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1503",
+      "level": 2,
+      "name": {
+        "local": "Haraze Mangueigne",
+        "en": "Haraze Mangueigne",
+        "slug": "haraze-mangueigne-tcd1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD15",
+        "level": 1,
+        "name": {
+          "local": "SALAMAT",
+          "en": "SALAMAT",
+          "slug": "salamat-tcd15"
+        }
+      },
+      {
+        "id": "TCD1503",
+        "level": 2,
+        "name": {
+          "local": "Haraze Mangueigne",
+          "en": "Haraze Mangueigne",
+          "slug": "haraze-mangueigne-tcd1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.408",
+      "lon": "21.294"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

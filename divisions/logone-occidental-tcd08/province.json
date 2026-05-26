@@ -1,0 +1,30 @@
+{
+  "id": "TCD08",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "LOGONE OCCIDENTAL",
+    "en": "LOGONE OCCIDENTAL",
+    "slug": "logone-occidental-tcd08"
+  },
+  "code": {
+    "id": "TCD08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "sous_prefecture": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.753",
+    "lon": "15.924"
+  },
+  "metadata": {},
+  "source": {}
+}

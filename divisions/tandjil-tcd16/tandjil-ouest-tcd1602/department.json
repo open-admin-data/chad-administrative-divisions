@@ -1,0 +1,47 @@
+{
+  "id": "TCD1602",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tandjilé Ouest",
+    "en": "Tandjilé Ouest",
+    "slug": "tandjil-ouest-tcd1602"
+  },
+  "code": {
+    "id": "TCD1602",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD16",
+    "level": 1,
+    "name": {
+      "local": "TANDJILÉ",
+      "en": "TANDJILÉ",
+      "slug": "tandjil-tcd16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD16",
+      "level": 1,
+      "name": {
+        "local": "TANDJILÉ",
+        "en": "TANDJILÉ",
+        "slug": "tandjil-tcd16"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.363",
+    "lon": "15.791"
+  },
+  "metadata": {},
+  "source": {}
+}

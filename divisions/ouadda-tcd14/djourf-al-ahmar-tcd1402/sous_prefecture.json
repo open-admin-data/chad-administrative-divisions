@@ -1,0 +1,488 @@
+[
+  {
+    "id": "TCD1402_abker",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Abker",
+      "en": "Abker",
+      "slug": "abker"
+    },
+    "code": {
+      "id": "TCD1402_abker",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1402",
+      "level": 2,
+      "name": {
+        "local": "Djourf Al Ahmar",
+        "en": "Djourf Al Ahmar",
+        "slug": "djourf-al-ahmar-tcd1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1402",
+        "level": 2,
+        "name": {
+          "local": "Djourf Al Ahmar",
+          "en": "Djourf Al Ahmar",
+          "slug": "djourf-al-ahmar-tcd1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.324",
+      "lon": "20.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1402_bakhat",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bakhat",
+      "en": "Bakhat",
+      "slug": "bakhat"
+    },
+    "code": {
+      "id": "TCD1402_bakhat",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1402",
+      "level": 2,
+      "name": {
+        "local": "Djourf Al Ahmar",
+        "en": "Djourf Al Ahmar",
+        "slug": "djourf-al-ahmar-tcd1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1402",
+        "level": 2,
+        "name": {
+          "local": "Djourf Al Ahmar",
+          "en": "Djourf Al Ahmar",
+          "slug": "djourf-al-ahmar-tcd1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.324",
+      "lon": "20.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1402_bandala",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bandala",
+      "en": "Bandala",
+      "slug": "bandala"
+    },
+    "code": {
+      "id": "TCD1402_bandala",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1402",
+      "level": 2,
+      "name": {
+        "local": "Djourf Al Ahmar",
+        "en": "Djourf Al Ahmar",
+        "slug": "djourf-al-ahmar-tcd1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1402",
+        "level": 2,
+        "name": {
+          "local": "Djourf Al Ahmar",
+          "en": "Djourf Al Ahmar",
+          "slug": "djourf-al-ahmar-tcd1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.324",
+      "lon": "20.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1402_birguit",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Birguit",
+      "en": "Birguit",
+      "slug": "birguit"
+    },
+    "code": {
+      "id": "TCD1402_birguit",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1402",
+      "level": 2,
+      "name": {
+        "local": "Djourf Al Ahmar",
+        "en": "Djourf Al Ahmar",
+        "slug": "djourf-al-ahmar-tcd1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1402",
+        "level": 2,
+        "name": {
+          "local": "Djourf Al Ahmar",
+          "en": "Djourf Al Ahmar",
+          "slug": "djourf-al-ahmar-tcd1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.324",
+      "lon": "20.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1402_dadjo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dadjo",
+      "en": "Dadjo",
+      "slug": "dadjo"
+    },
+    "code": {
+      "id": "TCD1402_dadjo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1402",
+      "level": 2,
+      "name": {
+        "local": "Djourf Al Ahmar",
+        "en": "Djourf Al Ahmar",
+        "slug": "djourf-al-ahmar-tcd1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1402",
+        "level": 2,
+        "name": {
+          "local": "Djourf Al Ahmar",
+          "en": "Djourf Al Ahmar",
+          "slug": "djourf-al-ahmar-tcd1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.324",
+      "lon": "20.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1402_kadjeske-am-dam",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kadjeske-Am-Dam",
+      "en": "Kadjeske-Am-Dam",
+      "slug": "kadjeske-am-dam"
+    },
+    "code": {
+      "id": "TCD1402_kadjeske-am-dam",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1402",
+      "level": 2,
+      "name": {
+        "local": "Djourf Al Ahmar",
+        "en": "Djourf Al Ahmar",
+        "slug": "djourf-al-ahmar-tcd1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1402",
+        "level": 2,
+        "name": {
+          "local": "Djourf Al Ahmar",
+          "en": "Djourf Al Ahmar",
+          "slug": "djourf-al-ahmar-tcd1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.324",
+      "lon": "20.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1402_kognere",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kognere",
+      "en": "Kognere",
+      "slug": "kognere"
+    },
+    "code": {
+      "id": "TCD1402_kognere",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1402",
+      "level": 2,
+      "name": {
+        "local": "Djourf Al Ahmar",
+        "en": "Djourf Al Ahmar",
+        "slug": "djourf-al-ahmar-tcd1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1402",
+        "level": 2,
+        "name": {
+          "local": "Djourf Al Ahmar",
+          "en": "Djourf Al Ahmar",
+          "slug": "djourf-al-ahmar-tcd1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.324",
+      "lon": "20.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1402_korio",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Korio",
+      "en": "Korio",
+      "slug": "korio"
+    },
+    "code": {
+      "id": "TCD1402_korio",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1402",
+      "level": 2,
+      "name": {
+        "local": "Djourf Al Ahmar",
+        "en": "Djourf Al Ahmar",
+        "slug": "djourf-al-ahmar-tcd1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1402",
+        "level": 2,
+        "name": {
+          "local": "Djourf Al Ahmar",
+          "en": "Djourf Al Ahmar",
+          "slug": "djourf-al-ahmar-tcd1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.324",
+      "lon": "20.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD1402_massalat-am-dam",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Massalat-Am-Dam",
+      "en": "Massalat-Am-Dam",
+      "slug": "massalat-am-dam"
+    },
+    "code": {
+      "id": "TCD1402_massalat-am-dam",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD1402",
+      "level": 2,
+      "name": {
+        "local": "Djourf Al Ahmar",
+        "en": "Djourf Al Ahmar",
+        "slug": "djourf-al-ahmar-tcd1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD14",
+        "level": 1,
+        "name": {
+          "local": "OUADDAÏ",
+          "en": "OUADDAÏ",
+          "slug": "ouadda-tcd14"
+        }
+      },
+      {
+        "id": "TCD1402",
+        "level": 2,
+        "name": {
+          "local": "Djourf Al Ahmar",
+          "en": "Djourf Al Ahmar",
+          "slug": "djourf-al-ahmar-tcd1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.324",
+      "lon": "20.597"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

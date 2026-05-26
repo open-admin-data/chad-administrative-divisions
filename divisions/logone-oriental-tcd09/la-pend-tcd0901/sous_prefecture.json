@@ -1,0 +1,542 @@
+[
+  {
+    "id": "TCD0901_beboto",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Beboto",
+      "en": "Beboto",
+      "slug": "beboto"
+    },
+    "code": {
+      "id": "TCD0901_beboto",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0901",
+      "level": 2,
+      "name": {
+        "local": "La pendé",
+        "en": "La pendé",
+        "slug": "la-pend-tcd0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0901",
+        "level": 2,
+        "name": {
+          "local": "La pendé",
+          "en": "La pendé",
+          "slug": "la-pend-tcd0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "16.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0901_beti",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Beti",
+      "en": "Beti",
+      "slug": "beti"
+    },
+    "code": {
+      "id": "TCD0901_beti",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0901",
+      "level": 2,
+      "name": {
+        "local": "La pendé",
+        "en": "La pendé",
+        "slug": "la-pend-tcd0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0901",
+        "level": 2,
+        "name": {
+          "local": "La pendé",
+          "en": "La pendé",
+          "slug": "la-pend-tcd0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "16.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0901_bodo",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bodo",
+      "en": "Bodo",
+      "slug": "bodo"
+    },
+    "code": {
+      "id": "TCD0901_bodo",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0901",
+      "level": 2,
+      "name": {
+        "local": "La pendé",
+        "en": "La pendé",
+        "slug": "la-pend-tcd0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0901",
+        "level": 2,
+        "name": {
+          "local": "La pendé",
+          "en": "La pendé",
+          "slug": "la-pend-tcd0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "16.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0901_doba",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Doba",
+      "en": "Doba",
+      "slug": "doba"
+    },
+    "code": {
+      "id": "TCD0901_doba",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0901",
+      "level": 2,
+      "name": {
+        "local": "La pendé",
+        "en": "La pendé",
+        "slug": "la-pend-tcd0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0901",
+        "level": 2,
+        "name": {
+          "local": "La pendé",
+          "en": "La pendé",
+          "slug": "la-pend-tcd0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "16.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0901_karamaibo-goulaye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kara/Maibo-Goulaye",
+      "en": "Kara/Maibo-Goulaye",
+      "slug": "karamaibo-goulaye"
+    },
+    "code": {
+      "id": "TCD0901_karamaibo-goulaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0901",
+      "level": 2,
+      "name": {
+        "local": "La pendé",
+        "en": "La pendé",
+        "slug": "la-pend-tcd0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0901",
+        "level": 2,
+        "name": {
+          "local": "La pendé",
+          "en": "La pendé",
+          "slug": "la-pend-tcd0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "16.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0901_maibo-mbaye",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Maibo-Mbaye",
+      "en": "Maibo-Mbaye",
+      "slug": "maibo-mbaye"
+    },
+    "code": {
+      "id": "TCD0901_maibo-mbaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0901",
+      "level": 2,
+      "name": {
+        "local": "La pendé",
+        "en": "La pendé",
+        "slug": "la-pend-tcd0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0901",
+        "level": 2,
+        "name": {
+          "local": "La pendé",
+          "en": "La pendé",
+          "slug": "la-pend-tcd0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "16.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0901_mango",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mango",
+      "en": "Mango",
+      "slug": "mango"
+    },
+    "code": {
+      "id": "TCD0901_mango",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0901",
+      "level": 2,
+      "name": {
+        "local": "La pendé",
+        "en": "La pendé",
+        "slug": "la-pend-tcd0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0901",
+        "level": 2,
+        "name": {
+          "local": "La pendé",
+          "en": "La pendé",
+          "slug": "la-pend-tcd0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "16.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0901_nankesse",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nankesse",
+      "en": "Nankesse",
+      "slug": "nankesse"
+    },
+    "code": {
+      "id": "TCD0901_nankesse",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0901",
+      "level": 2,
+      "name": {
+        "local": "La pendé",
+        "en": "La pendé",
+        "slug": "la-pend-tcd0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0901",
+        "level": 2,
+        "name": {
+          "local": "La pendé",
+          "en": "La pendé",
+          "slug": "la-pend-tcd0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "16.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0901_nassian",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nassian",
+      "en": "Nassian",
+      "slug": "nassian"
+    },
+    "code": {
+      "id": "TCD0901_nassian",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0901",
+      "level": 2,
+      "name": {
+        "local": "La pendé",
+        "en": "La pendé",
+        "slug": "la-pend-tcd0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0901",
+        "level": 2,
+        "name": {
+          "local": "La pendé",
+          "en": "La pendé",
+          "slug": "la-pend-tcd0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "16.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TCD0901_sama",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sama",
+      "en": "Sama",
+      "slug": "sama"
+    },
+    "code": {
+      "id": "TCD0901_sama",
+      "iso": null
+    },
+    "parent": {
+      "id": "TCD0901",
+      "level": 2,
+      "name": {
+        "local": "La pendé",
+        "en": "La pendé",
+        "slug": "la-pend-tcd0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TCD09",
+        "level": 1,
+        "name": {
+          "local": "LOGONE ORIENTAL",
+          "en": "LOGONE ORIENTAL",
+          "slug": "logone-oriental-tcd09"
+        }
+      },
+      {
+        "id": "TCD0901",
+        "level": 2,
+        "name": {
+          "local": "La pendé",
+          "en": "La pendé",
+          "slug": "la-pend-tcd0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "16.939"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

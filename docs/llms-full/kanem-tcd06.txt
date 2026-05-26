@@ -1,0 +1,68 @@
+# KANEM — Chad Administrative Divisions
+
+> 3 departments, 11 sub-prefectures
+> Code: TCD06
+> Coordinates: 14.912, 15.044
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Departments
+
+### Kanem
+
+Code: TCD0601, Coordinates: 14.099, 15.189
+Sub-prefectures: 8
+
+#### Amdobak
+
+Code: TCD0601_amdobak, Coordinates: 14.099, 15.189
+
+#### Dokora
+
+Code: TCD0601_dokora, Coordinates: 14.099, 15.189
+
+#### Illili
+
+Code: TCD0601_illili, Coordinates: 14.099, 15.189
+
+#### Moal
+
+Code: TCD0601_moal, Coordinates: 14.099, 15.189
+
+#### Mondo
+
+Code: TCD0601_mondo, Coordinates: 14.099, 15.189
+
+#### Motoa
+
+Code: TCD0601_motoa, Coordinates: 14.099, 15.189
+
+#### Mourzigui
+
+Code: TCD0601_mourzigui, Coordinates: 14.099, 15.189
+
+#### Sultanat
+
+Code: TCD0601_sultanat, Coordinates: 14.099, 15.189
+
+### Nord Kanem
+
+Code: TCD0602, Coordinates: 15.294, 15.314
+Sub-prefectures: 3
+
+#### Nokou
+
+Code: TCD0602_nokou, Coordinates: 15.294, 15.314
+
+#### Ntiona
+
+Code: TCD0602_ntiona, Coordinates: 15.294, 15.314
+
+#### Rig-Rig
+
+Code: TCD0602_rig-rig, Coordinates: 15.294, 15.314
+
+### Wadi Bissam
+
+Code: TCD0603, Coordinates: 13.523, 15.691
+Sub-prefectures: 0
+

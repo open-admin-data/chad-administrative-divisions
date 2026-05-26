@@ -1,0 +1,47 @@
+{
+  "id": "TCD0903",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Kouh Ouest",
+    "en": "Kouh Ouest",
+    "slug": "kouh-ouest-tcd0903"
+  },
+  "code": {
+    "id": "TCD0903",
+    "iso": null
+  },
+  "parent": {
+    "id": "TCD09",
+    "level": 1,
+    "name": {
+      "local": "LOGONE ORIENTAL",
+      "en": "LOGONE ORIENTAL",
+      "slug": "logone-oriental-tcd09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TCD09",
+      "level": 1,
+      "name": {
+        "local": "LOGONE ORIENTAL",
+        "en": "LOGONE ORIENTAL",
+        "slug": "logone-oriental-tcd09"
+      }
+    }
+  ],
+  "children_count": {
+    "sous_prefecture": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.182",
+    "lon": "16.868"
+  },
+  "metadata": {},
+  "source": {}
+}
