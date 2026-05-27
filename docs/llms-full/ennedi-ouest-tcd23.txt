@@ -3,7 +3,7 @@
 > 2 departments, 1 sub-prefectures
 > Code: TCD23
 > Coordinates: 18.256, 20.962
-> Last updated: 2026-05-26. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

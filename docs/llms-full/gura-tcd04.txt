@@ -3,7 +3,7 @@
 > 4 departments, 21 sub-prefectures
 > Code: TCD04
 > Coordinates: 11.456, 18.105
-> Last updated: 2026-05-26. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 

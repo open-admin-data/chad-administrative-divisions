@@ -3,7 +3,7 @@
 > 4 departments, 28 sub-prefectures
 > Code: TCD08
 > Coordinates: 8.753, 15.924
-> Last updated: 2026-05-26. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Departments
 
