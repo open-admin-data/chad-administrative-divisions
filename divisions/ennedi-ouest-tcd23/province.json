@@ -26,5 +26,9 @@
     "lon": "20.962"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/ennedi-ouest-tcd23/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "18.237"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/tibesti-tcd22/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

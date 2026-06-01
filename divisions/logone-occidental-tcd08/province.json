@@ -26,5 +26,9 @@
     "lon": "15.924"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/logone-occidental-tcd08/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

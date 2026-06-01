@@ -26,5 +26,9 @@
     "lon": "18.886"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/batha-tcd01/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

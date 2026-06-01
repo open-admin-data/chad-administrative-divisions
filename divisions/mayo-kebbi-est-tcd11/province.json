@@ -26,5 +26,9 @@
     "lon": "15.807"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/mayo-kebbi-est-tcd11/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

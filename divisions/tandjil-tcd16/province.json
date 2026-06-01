@@ -26,5 +26,9 @@
     "lon": "16.652"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/tandjil-tcd16/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

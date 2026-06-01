@@ -26,5 +26,9 @@
     "lon": "16.375"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/chari-baguirmi-tcd03/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

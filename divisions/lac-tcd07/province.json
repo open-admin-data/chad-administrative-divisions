@@ -26,5 +26,9 @@
     "lon": "14.158"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/lac-tcd07/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

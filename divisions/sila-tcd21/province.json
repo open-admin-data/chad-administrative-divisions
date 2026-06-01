@@ -26,5 +26,9 @@
     "lon": "21.874"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/sila-tcd21/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

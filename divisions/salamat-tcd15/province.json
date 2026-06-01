@@ -26,5 +26,9 @@
     "lon": "20.718"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/salamat-tcd15/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

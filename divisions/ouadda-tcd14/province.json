@@ -26,5 +26,9 @@
     "lon": "20.595"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/ouadda-tcd14/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

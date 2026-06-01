@@ -26,5 +26,9 @@
     "lon": "18.866"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/moyen-chari-tcd13/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

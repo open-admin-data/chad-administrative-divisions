@@ -26,5 +26,9 @@
     "lon": "17.588"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/mandoul-tcd10/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "14.867"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/mayo-kebbi-ouest-tcd12/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

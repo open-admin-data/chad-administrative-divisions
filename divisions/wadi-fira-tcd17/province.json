@@ -26,5 +26,9 @@
     "lon": "21.402"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/wadi-fira-tcd17/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

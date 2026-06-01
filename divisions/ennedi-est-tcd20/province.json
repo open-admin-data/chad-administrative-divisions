@@ -26,5 +26,9 @@
     "lon": "23.18"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/ennedi-est-tcd20/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

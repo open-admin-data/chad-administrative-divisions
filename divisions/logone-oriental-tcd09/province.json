@@ -26,5 +26,9 @@
     "lon": "16.463"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/logone-oriental-tcd09/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

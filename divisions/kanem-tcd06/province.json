@@ -26,5 +26,9 @@
     "lon": "15.044"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/td/provinces/kanem-tcd06/",
+    "api": "https://openadmindata.org/api/td/"
+  }
 }

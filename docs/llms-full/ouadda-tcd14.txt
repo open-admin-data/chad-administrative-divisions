@@ -3,7 +3,7 @@
 > 3 departments, 22 sub-prefectures
 > Code: TCD14
 > Coordinates: 13.032, 20.595
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Departments
 
