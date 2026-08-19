@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/td](https://openadmindata.org/td/) |
 | API | [openadmindata.org/api/td](https://openadmindata.org/api/td/) |
+| National Anthem | [🎵 Listen & Download Chad National Anthem MP3](https://onlygames.me/national-anthems/td/) |
 
 ## Browse by Province
 

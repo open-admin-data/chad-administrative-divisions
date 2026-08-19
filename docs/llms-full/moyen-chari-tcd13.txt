@@ -3,7 +3,7 @@
 > 3 departments, 24 sub-prefectures
 > Code: TCD13
 > Coordinates: 9.315, 18.866
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Departments
 

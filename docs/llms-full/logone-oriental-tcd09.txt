@@ -3,7 +3,7 @@
 > 6 departments, 36 sub-prefectures
 > Code: TCD09
 > Coordinates: 8.304, 16.463
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Departments
 
