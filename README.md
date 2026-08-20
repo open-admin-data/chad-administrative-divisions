@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/td](https://openadmindata.org/td/) |
 | API | [openadmindata.org/api/td](https://openadmindata.org/api/td/) |
+| Flag | [PNG](https://onlygames.me/flags-png/td/) · [SVG](https://onlygames.me/flags-svg/td/) · [PDF](https://onlygames.me/flags-pdf/td/) |
 | National Anthem | [🎵 Listen & Download Chad National Anthem MP3](https://onlygames.me/national-anthems/td/) |
 
 ## Browse by Province

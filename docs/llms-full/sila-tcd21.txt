@@ -3,7 +3,7 @@
 > 2 departments, 9 sub-prefectures
 > Code: TCD21
 > Coordinates: 12.075, 21.874
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Departments
 

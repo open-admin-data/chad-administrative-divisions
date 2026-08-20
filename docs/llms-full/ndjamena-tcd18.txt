@@ -3,7 +3,7 @@
 > 1 departments, 4 sub-prefectures
 > Code: TCD18
 > Coordinates: 12.125, 15.048
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Departments
 

@@ -3,7 +3,7 @@
 > 3 departments, 16 sub-prefectures
 > Code: TCD15
 > Coordinates: 10.626, 20.718
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Departments
 
