@@ -3,7 +3,7 @@
 > 3 departments, 11 sub-prefectures
 > Code: TCD06
 > Coordinates: 14.912, 15.044
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Departments
 
